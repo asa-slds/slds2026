@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>$if(title-prefix)$$title-prefix$ : $endif$$pagetitle$</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+	$for(header-includes)$
+	$header-includes$
+	$endfor$
+    </head>
+    <body id="page-top">
+      <!-- Navigation-->
+      
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+          <div class="container px-4">
+            <a class="navbar-brand" href="index.html">ASA SLDS</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+              <ul class="navbar-nav ms-auto">
+		<li class="nav-item"> 
+		  <a $if(navbar-home)$class="nav-link js-scroll-trigger active"$else$class="nav-link js-scroll-trigger"$endif$ href="index.html">Home</a>
+		</li>
+		<li class="nav-item">
+		  <a $if(navbar-keynotes)$class="nav-link js-scroll-trigger active"$else$class="nav-link js-scroll-trigger"$endif$ href="keynotes.html">Keynotes</a>
+		</li>
+		<li class="nav-item">
+		  <a $if(navbar-program)$class="nav-link js-scroll-trigger active"$else$class="nav-link js-scroll-trigger"$endif$ href="program.html">Program</a>
+		</li>
+		<li class="nav-item">
+		  <a $if(navbar-venue)$class="nav-link js-scroll-trigger active"$else$class="nav-link js-scroll-trigger"$endif$ href="venue.html">Venue</a>
+		</li>
+		<li class="nav-item">
+		  <a $if(navbar-registration)$class="nav-link js-scroll-trigger active"$else$class="nav-link js-scroll-trigger"$endif$ href="registration.html">Registration</a>
+		</li>
+		<li class="nav-item">
+		  <a $if(navbar-committees)$class="nav-link js-scroll-trigger active"$else$class="nav-link js-scroll-trigger"$endif$ href="committees.html">Committees</a>
+		</li>
+		<li class="nav-item">
+		  <a $if(navbar-sponsors)$class="nav-link js-scroll-trigger active"$else$class="nav-link js-scroll-trigger"$endif$ href="sponsors.html">Sponsors</a>
+		</li>
+              </ul>
+                </div>
+            </div>
+        </nav>
+
+	<main class="bg-gray">
+	  
+        <!-- Header-->
+        <header class="bg-primary text-white pt-5 pb-4 mt-4">
+          <div class="container px-4 text-center">
+	    $if(title-home)$
+	    <h2 class="fw-bolder m-0">SLDS 2026</h2>
+	    $else$
+	    <h2 class="fw-bolder m-0">$title$</h2>
+	    $endif$
+          </div>
+        </header>
+        <!-- section-->
+
+
+	
+        <section class="p-4">
+          <div class="container px-5">
+            <div class="row justify-content-center">
+              <div class="col-lg-8 p-4 bg-white">
+		$body$
+              </div>
+            </div>
+          </div>
+        </section>
+
+	
+	</main>
+	
+	<!-- Footer-->
+        <footer class="py-2 bg-dark">
+          <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2025  ASA section on Statistical Learning and Data Science</p></div>
+        </footer>	  
+		
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+
+	<!-- Custom scripts for this template -->
+	<script src="js/custom.js"></script>
+    </body>
+</html>
