@@ -1,8 +1,6 @@
 *.DS_Store
 *#*
 *~
-html/*.php
-html/*.html
 photos
 
 */*.aux
