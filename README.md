@@ -2,11 +2,13 @@
 
 ## Pipeline
 
-Github page has been set up. Static website files under `html/` will be deployed to the GitHub website repo.
+Github page has been set up with the branch `gh-pages`. 
+
+Static website files will be automatically built into `gh-pages` branch folder and deployed using custom Github Action.
 
 ## Makefile
 
-A simple Makefile are prepared for ease of using **pandoc**.
+For check the website locally, a simple Makefile are prepared for ease of using **pandoc**.
 
 The available targets include:
 
