@@ -10,15 +10,29 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           submodules: true
+          fetch-depth: 0
+
+      - name: Set up Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+        with:
+          pandoc-version: '3.1'  # or omit for latest
+
+      - name: Make compile.sh executable
+        run: chmod +x ./compile.sh
+
+      - name: Run build step (compile.sh)
+        run: ./compile.sh
 
       - name: Deploy html/ to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
           publish_dir: ./html
+          publish_branch: gh-pages
           force_orphan: true
