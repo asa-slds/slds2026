@@ -2,7 +2,7 @@
 
 ## Pipeline
 
-Github page has been set up. Static website files under `html/` will be deployed to the GitHub website repo through GitHub submodule.
+Github page has been set up. Static website files under `html/` will be deployed to the GitHub website repo.
 
 ## Makefile
 
