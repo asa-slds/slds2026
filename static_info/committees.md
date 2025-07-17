@@ -6,7 +6,7 @@ The ASA Statistical Learning and Data Science (SLDS) Section would
 like to acknowledge the generous support from the following committees
 and teams.
 
-##### Executive Committee
+##### Organizing Committee
 
 + Jing Lei (Co-Chair), Carnegie Mellon University
 + Jun Yan (Co-Chair), University of Connecticut
@@ -25,6 +25,7 @@ and teams.
 ##### Scientific Program Committee
 
 + Jiwei Zhao (Co-Chair), University of Wisconsin-Madison
++ Wen Zhou (Co-Chair), New York University
 
 ##### Fundraising Committee
 
