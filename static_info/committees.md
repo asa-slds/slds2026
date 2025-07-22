@@ -10,7 +10,8 @@ and teams.
 
 + Jing Lei (Co-Chair), Carnegie Mellon University
 + Jun Yan (Co-Chair), University of Connecticut
-+ Yang Feng, New York University 
++ Yang Feng, New York University
++ Yan Li, Auburn University
 + George Michailidis, University of California, Los Angles
 + Zhao Ren, University of Pittsburg
 + Jaime Lynn Speiser, Wake Forest University
