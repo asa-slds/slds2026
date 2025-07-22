@@ -13,6 +13,7 @@ and teams.
 + Yang Feng, New York University 
 + George Michailidis, University of California, Los Angles
 + Zhao Ren, University of Pittsburg
++ Jaime Lynn Speiser, Wake Forest University
 + Wenbo Wu, Johns Hopkins University
 + Jiwei Zhao, University of Wisconsin-Madison
 + Wen Zhou, New York University 
@@ -29,7 +30,11 @@ and teams.
 
 ##### Fundraising Committee
 
++ Jaime Lynn Speiser, Wake Forest University
++ Wenbo Wu, Johns Hopkins University
+
 ##### Short Course Committee
+
 
 
 ##### Student Paper/Poster Award Committee
