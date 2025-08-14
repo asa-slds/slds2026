@@ -11,8 +11,10 @@ and teams.
 + Jing Lei (Co-Chair), Carnegie Mellon University
 + Jun Yan (Co-Chair), University of Connecticut
 + Yang Feng, New York University
++ Giles Hooker, University of Pennsylvania
 + Yan Li, Auburn University
 + George Michailidis, University of California, Los Angles
++ Nathaniel Sean O'Connell, Wake Forest University
 + Zhao Ren, University of Pittsburg
 + Jaime Lynn Speiser, Wake Forest University
 + Wenbo Wu, Johns Hopkins University
@@ -24,26 +26,27 @@ and teams.
 + Yang Feng (Co-Chair), New York University
 + Wen Zhou (Co-Chair), New York University
 
-##### Scientific Program Committee
-
-+ Jiwei Zhao (Co-Chair), University of Wisconsin-Madison
-+ Wen Zhou (Co-Chair), New York University
-
 ##### Fundraising Committee
 
-+ Jaime Lynn Speiser, Wake Forest University
++ Jaime Lynn Speiser (Chair), Wake Forest University
 + Wenbo Wu, Johns Hopkins University
 
 ##### Short Course Committee
 
-
++ Giles Hooker (Chair), University of Pennsylvania
 
 ##### Student Paper/Poster Award Committee
 
++ Nathaniel Sean O'Connell (Chair), Wake Forest University
 
 ##### Information Technology Committee
 <!-- (Webmaster; Program book; Online platform) -->
 
-+ Yan Li (Co-Chair), Auburn University
++ Yan Li (Chair), Auburn University
+
+##### Scientific Program Committee
+
++ Jiwei Zhao (Co-Chair), University of Wisconsin-Madison
++ Wen Zhou (Co-Chair), New York University
 
 ##### Student Volunteers
