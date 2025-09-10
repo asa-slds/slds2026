@@ -34,6 +34,9 @@ and teams.
 ##### Short Course Committee
 
 + Giles Hooker (Chair), University of Pennsylvania
++ Jelena Bradic, Cornell University
++ Jacob Bien, University of Southern California
++ Matthew Reimherr, Amazon & Penn State University
 
 ##### Student Paper/Poster Award Committee
 
