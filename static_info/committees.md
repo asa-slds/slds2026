@@ -13,6 +13,7 @@ and teams.
 + Yang Feng, New York University
 + Giles Hooker, University of Pennsylvania
 + Yan Li, Auburn University
++ Xiaoyue (Maggie) Niu, Pennsylvania State University
 + George Michailidis, University of California, Los Angles
 + Nathaniel Sean O'Connell, Wake Forest University
 + Zhao Ren, University of Pittsburg
