@@ -16,7 +16,7 @@ resumed in 2024.
 
 
 The main goal of the conference is to bring together researchers in statistical 
-machine learning and artificial intellige ce from academia, industry, and 
+machine learning and artificial intelligence from academia, industry, and 
 government in a relaxed and stimulating atmosphere to focus on the development 
 of statistical learning theory, methods and applications.
 
