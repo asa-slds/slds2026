@@ -3,7 +3,7 @@ title: Objectives
 title-home: true
 ---
 
-#### Welcome to SLDS 2026: Inference and Intelligence
+## Welcome to SLDS 2026: Inference and Intelligence
 
 + **Date/Time:** November 1-3, 2026
 + **Location:**  Marriott at the Brooklyn Bridge, New York City, NY
@@ -33,7 +33,7 @@ engineering sciences, and signal and image processing.
 This conference is mainly sponsored by the ASA section on Statistical Learning and 
 Data Science. See our [sponsor page](sponsors.html) for a full list of our sponsors.
 
-### Timeline / Important Dates
+#### Timeline / Important Dates
 
 <!-- <font color="Silver"></font> -->
 + <span>**Wednesday, April 1, 2026:** invited session proposal closes.</span>
