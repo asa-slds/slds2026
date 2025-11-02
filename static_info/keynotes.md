@@ -2,7 +2,7 @@
 title: Keynote Sessions
 ---
 
-### Keynote Speakers (alphabetical order):
+### Keynote Speakers (Alphabetical Order):
 
 <!--
 

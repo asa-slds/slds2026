@@ -3,6 +3,8 @@ title: Objectives
 title-home: true
 ---
 
+#### Welcome to SLDS 2026: Inference and Intelligence
+
 + **Date/Time:** November 1-3, 2026
 + **Location:**  Marriott at the Brooklyn Bridge, New York City, NY
 
