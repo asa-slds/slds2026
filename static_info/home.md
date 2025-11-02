@@ -4,7 +4,7 @@ title-home: true
 ---
 
 + **Date/Time:** November 1-3, 2026
-+ **Location:**  New York City, NY
++ **Location:**  Marriott at the Brooklyn Bridge, New York City, NY
 
 
 #### About SLDS Conference
@@ -30,3 +30,12 @@ engineering sciences, and signal and image processing.
 
 This conference is mainly sponsored by the ASA section on Statistical Learning and 
 Data Science. See our [sponsor page](sponsors.html) for a full list of our sponsors.
+
+### Timeline / Important Dates
+
+<!-- <font color="Silver"></font> -->
++ <span>**Wednesday, April 1, 2026:** invited session proposal closes.</span>
++ <span>**Friday, May 1, 2026:** registration opens.</span>
+<!-- need a deadline for + <span>**XXXX XX, 2026:** student paper submission closes./span> -->
++ <span>**Tuesday, September 1, 2026:** early registration ends/abstract submission closes.</span>
++ <span>**Saturday, October 31, 2026:** online registration closes.</span>
