@@ -3,7 +3,6 @@
 *~
 html/*.php
 html/*.html
-photos
 
 */*.aux
 */*.log

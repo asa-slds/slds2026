@@ -11,9 +11,9 @@ title-home: true
 
 #### About SLDS Conference
 
-The SLDS Conference is the flagship event of the ASA Section on
-Statistical Learning and Data Science (SLDS). Started in 2016 and
-scheduled biannually, it was interrupted by the COVID-19 pandemic but
+The SLDS Conference is the flagship event of the 
+<a href="https://community.amstat.org/slds/home" target="_blank" rel="noopener noreferrer">ASA Section on Statistical Learning and Data Science</a> (SLDS). 
+Started in 2016 and scheduled biannually, it was interrupted by the COVID-19 pandemic but
 resumed in 2024. 
 
 
