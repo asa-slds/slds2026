@@ -29,6 +29,46 @@ jobs:
       - name: Run build step (compile.sh)
         run: ./compile.sh
 
+      - name: Generate sitemap.xml
+        run: |
+          python - << 'PY'
+          import os, datetime
+
+          base_url = "https://asa-slds.github.io/slds2026"
+          html_root = "html"
+
+          urls = []
+          for root, dirs, files in os.walk(html_root):
+              for f in files:
+                  if f.endswith(".html"):
+                      path = os.path.join(root, f)
+                      rel = os.path.relpath(path, html_root)
+                      rel = rel.replace("\\", "/")   # normalize windows paths if any
+
+                      if rel == "index.html":
+                          loc = base_url + "/"
+                      else:
+                          loc = f"{base_url}/{rel}"
+                      urls.append(loc)
+
+          urls = sorted(set(urls))
+          lastmod = datetime.date.today().isoformat()
+
+          lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+                   '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+
+          for loc in urls:
+              lines.append("  <url>")
+              lines.append(f"    <loc>{loc}</loc>")
+              lines.append(f"    <lastmod>{lastmod}</lastmod>")
+              lines.append("  </url>")
+
+          lines.append("</urlset>")
+
+          with open(os.path.join(html_root, "sitemap.xml"), "w", encoding="utf-8") as f:
+              f.write("\n".join(lines) + "\n")
+          PY
+
       - name: Deploy html/ to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
