@@ -17,6 +17,18 @@ title: Keynote Sessions
 
 <div class="row-fluid">
 
+<h4 class="mb-0" id="banks"><a
+href="http://www2.stat.duke.edu/~banks/" target="_blank"
+rel="noopener">David Banks</a>,
+Professor of the Practice of Statistics, Duke University</h4>
+
+
+</div>
+
+------
+
+<div class="row-fluid">
+
 <h4 class="mb-0" id="foster"><a href="https://deanfoster.net/index.pl" target="_blank" rel="noopener">Dean Foster</a>,
 Senior Principal Research Scientist, Amazon</h4>
 
@@ -32,20 +44,6 @@ Head of Machine Learning Strategy, Bloomberg</h4>
 
 </div>
 
-
-<!--
-
-------
-
-<div class="row-fluid">
-
-<h4 class="mb-0" id="wasserman"><a href="https://www.stat.cmu.edu/~larry/" target="_blank" rel="noopener">Larry Wasserman</a>,
-Professor of Statistics, Carnegie Mellon University</h4>
-
-
-</div>
-
--->
 
 ------
 
