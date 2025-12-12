@@ -8,7 +8,7 @@ title: Sponsors
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://www.eastriver.tech" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
-				style="max-height:190px; width:95%;" 
+				style="max-height:290px; width:90%;" 
 				src="photos/ERT_logo.png" 
 				alt="East River Technology">
 			</a>
@@ -32,7 +32,7 @@ title: Sponsors
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://school.wakehealth.edu/departments/biostatistics-and-data-science" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
-				style="max-height:190px; width:95%;" 
+				style="max-height:290px; width:90%;" 
 				src="photos/WFUSM-Biostatistics-and-Data-Science-1.jpg"
 				alt="WFUSM Biostatistics">
 			</a>
