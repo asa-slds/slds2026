@@ -12,9 +12,8 @@ and teams.
 + Jun Yan (Co-Chair), University of Connecticut
 + Yang Feng, New York University
 + Giles Hooker, University of Pennsylvania
-+ Yan Li, Auburn University
++ Yan Li, Auburn University+ George Michailidis, University of California, Los Angles
 + Xiaoyue (Maggie) Niu, Pennsylvania State University
-+ George Michailidis, University of California, Los Angles
 + Nathaniel Sean O'Connell, Wake Forest University
 + Zhao Ren, University of Pittsburg
 + Jaime Lynn Speiser, Wake Forest University
@@ -52,5 +51,49 @@ and teams.
 
 + Jiwei Zhao (Co-Chair), University of Wisconsin-Madison
 + Wen Zhou (Co-Chair), New York University
++ Guanqun Cao, Michigan State University
++ Joshua Cape, University of Wisconsin–Madison
++ Qiqi Deng, Moderna
++ Rui Duan, Harvard University  
++ Maryclare Griffin, University of Massachusetts Amherst  
++ Yinqiu He, University of Wisconsin–Madison  
++ Guanyu Hu, Michigan State University  
++ Bo Huang, Pfizer  
++ Jieying Jiao, New York Life  
++ Zhezhen Jin, Columbia University  
++ Tracy Ke, Harvard University  
++ Mladen Kolar, University of Southern California  
++ Lihua Lei, Stanford University  
++ Keith Levin, University of Wisconsin–Madison  
++ Quefeng Li, University of North Carolina at Chapel Hill  
++ Tianxi Li, University of Minnesota  
++ Muxuan Liang, The University of Texas MD Anderson Cancer Center  
++ Wanjun Liu, LinkedIn  
++ Yufeng Liu, University of Michigan  
++ Zhonghua Liu, Columbia University  
++ Jing Ma, Fred Hutchinson Cancer Center  
++ Rong Ma, Harvard University  
++ Yanyuan Ma, Pennsylvania State University  
++ Marianthi Markatou, University at Buffalo, State University of New York  
++ Caleb Miles, Columbia University  
++ Jami Mulgrave, Meta  
++ Yang Ning, Cornell University  
++ Zhimei Ren, University of Pennsylvania  
++ Yue Shentu, Merck  
++ Chenlu Shi, New Jersey Institute of Technology  
++ Xiwei Tang, The University of Texas at Dallas  
++ Panos Toulis, University of Chicago  
++ Boxiang Wang, University of Iowa  
++ Chenguang Wang, Regeneron Pharmaceuticals  
++ Honglang Wang, Indiana University  
++ Jingming Wang, University of Virginia  
++ Yuanjia Wang, Columbia University  
++ Ted Westling, University of Massachusetts Amherst  
++ Ardavan Yazdanbakhsh, City College of New York, CUNY  
++ Grace Yi, University of Western Ontario  
++ Qilu Yu, National Center for Complementary and Integrative Health, National Institutes of Health  
++ Emma Zhang, Emory University  
++ Heping Zhang, Yale University  
++ Yuan Zhang, The Ohio State University
 
 ##### Student Volunteers
