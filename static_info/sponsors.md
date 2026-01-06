@@ -30,6 +30,29 @@ title: Sponsors
     <hr />
 
 <h3 style="text-align:center; font-size:150%; padding-top:10px; padding-bottom:20px">Silver Sponsors</h3>
+	<div class="row justify-content-center">
+		<div class="col-md-4 col-sm-6 col-10 text-center">
+			<a href="https://stat.columbia.edu" target="_blank" rel="noopener noreferrer">
+			<img class="img-fluid" 
+				style="max-height:290px; width:90%;" 
+				src="photos/ColumbiaDOS.png" 
+				alt="Department of Statistics, Columbia University">
+			</a>
+		</div>
+		
+		<div class="col-md-4 col-sm-6 col-10 text-center">
+			<a href="https://beonemedicines.com" target="_blank" rel="noopener noreferrer">
+			<img class="img-fluid" 
+				style="max-height:290px; width:90%;" 
+				src="photos/BeOne_Medicines.jpg" 
+				alt="BeOne Medicines USA">
+			</a>
+		
+		</div>
+		<div class="col-md-4 col-sm-6 col-10 text-center">
+		</div>		
+	</div>
+
 
     <hr />
     
