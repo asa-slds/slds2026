@@ -50,6 +50,13 @@ title: Sponsors
 		
 		</div>
 		<div class="col-md-4 col-sm-6 col-10 text-center">
+			<a href="https://www.cmu.edu/dietrich/statistics-datascience/index.html" target="_blank" rel="noopener noreferrer">
+			<img class="img-fluid" 
+				style="max-height:290px; width:90%;" 
+				src="photos/Statistics_Data_Science_CMU.jpg" 
+				alt="Statistics & Data Science, Carnegie Mellon University">
+			</a>
+
 		</div>		
 	</div>
 
