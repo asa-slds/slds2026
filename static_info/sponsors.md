@@ -8,7 +8,7 @@ title: Sponsors
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://www.eastriver.tech" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
-				style="max-height:290px; width:90%;" 
+				style="max-height:290px; width:100%;" 
 				src="photos/ERT_logo.png" 
 				alt="East River Technology">
 			</a>
@@ -17,14 +17,14 @@ title: Sponsors
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://www.mbzuai.ac.ae" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
-				style="max-height:290px; width:90%;" 
-				src="photos/MBZUAI_logo.jpg" 
+				style="max-height:290px; width:100%;" 
+				src="photos/MBZUAI_logo.jpg"
 				alt="MBZUAI">
 			</a>
 		
 		</div>
 		<div class="col-md-4 col-sm-6 col-10 text-center">
-		</div>		
+		</div>
 	</div>
     
     <hr />
@@ -34,7 +34,7 @@ title: Sponsors
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://stat.columbia.edu" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
-				style="max-height:290px; width:90%;" 
+				style="max-height:290px; width:75%;" 
 				src="photos/ColumbiaDOS.png" 
 				alt="Department of Statistics, Columbia University">
 			</a>
@@ -43,7 +43,7 @@ title: Sponsors
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://beonemedicines.com" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
-				style="max-height:290px; width:90%;" 
+				style="max-height:290px; width:75%;" 
 				src="photos/BeOne_Medicines.jpg" 
 				alt="BeOne Medicines USA">
 			</a>
@@ -52,12 +52,30 @@ title: Sponsors
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://www.cmu.edu/dietrich/statistics-datascience/index.html" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
-				style="max-height:290px; width:90%;" 
+				style="max-height:290px; width:75%;" 
 				src="photos/Statistics_Data_Science_CMU.jpg" 
 				alt="Statistics & Data Science, Carnegie Mellon University">
 			</a>
 
 		</div>		
+	</div>
+	
+    	<br />
+
+	<div class="row justify-content-center">
+		<div class="col-md-4 col-sm-6 col-10 text-center">
+			<a href="https://dsi.wisc.edu" target="_blank" rel="noopener noreferrer">
+			<img class="img-fluid"
+				style="max-height:290px; width:75%;"
+				src="photos/DATASCIE_color-center.png" 
+				alt="UW-Madison DSI">
+			</a>
+		</div>
+		
+		<div class="col-md-4 col-sm-6 col-10 text-center">
+		</div>
+		<div class="col-md-4 col-sm-6 col-10 text-center">
+		</div>	
 	</div>
 
 
@@ -69,7 +87,7 @@ title: Sponsors
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://school.wakehealth.edu/departments/biostatistics-and-data-science" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
-				style="max-height:290px; width:90%;" 
+				style="max-height:290px; width:60%;" 
 				src="photos/WFUSM-Biostatistics-and-Data-Science-1.jpg"
 				alt="WFUSM Biostatistics">
 			</a>
@@ -78,7 +96,7 @@ title: Sponsors
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://community.amstat.org/biop/home" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
-				style="max-height:290px; width:40%;" 
+				style="max-height:290px; width:28%;" 
 				src="photos/Biopharm_Logohigh_res.png"
 				alt="ASA BIOP">
 			</a>
