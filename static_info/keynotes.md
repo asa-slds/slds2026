@@ -2,7 +2,7 @@
 title: Keynote Sessions
 ---
 
-#### Keynote Speakers (Alphabetical Order):
+#### Keynote Speakers:
 
 <!--
 
@@ -51,6 +51,18 @@ Head of Machine Learning Strategy, Bloomberg</h4>
 
 <h4 class="mb-0" id="yu"><a href="https://binyu.stat.berkeley.edu" class="text-decoration-none" target="_blank" rel="noopener">Bin Yu</a>,
 Professor of Statistics, Electrical Engineering, and Computer Science, University of California, Berkeley</h4>
+
+
+</div>
+
+------
+
+<div class="row-fluid">
+
+<h4 class="mb-0" id="yu"><a
+href="https://datascience.columbia.edu/people/tian-zheng/"
+class="text-decoration-none" target="_blank" rel="noopener">Tian Zheng</a>,
+Professor of Statistics, Columbia University</h4>
 
 
 </div>
