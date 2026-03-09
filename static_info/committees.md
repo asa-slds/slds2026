@@ -44,6 +44,9 @@ and teams.
 
 + [Jaime Lynn Speiser](https://school.wakehealth.edu/Faculty/S/Jaime-Lynn-Speiser)
   (Chair), Wake Forest University
++ [Xiaoyue (Maggie) Niu](https://sites.google.com/view/maggiexniu/)
+  Pennsylvania State University
++ [Hongwian Wu](https://www.linkedin.com/in/hongqian-wu-089074bb/), BeOne
 + [Wenbo Wu](https://www.wenbowu.me), Johns Hopkins University
 
 
