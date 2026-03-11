@@ -73,6 +73,12 @@ title: Sponsors
 		</div>
 		
 		<div class="col-md-4 col-sm-6 col-10 text-center">
+			<a href="https://masters.datascience.uconn.edu" target="_blank" ref="noopener noreferrer">
+			<img class="img-fluid"
+				style="max-height:290px; width:75%;"
+				src="photos/UConn_Logo.png" 
+				alt="UConn Data Science">
+			</a>
 		</div>
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 		</div>	
