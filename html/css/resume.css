@@ -287,7 +287,7 @@ a:hover, a:focus, a:active {
 
 .imgfloat {
   float: left;
-  padding-right: 10px;
+  margin: 6px 10px 0 0;
   width: 160px;
 }
 
