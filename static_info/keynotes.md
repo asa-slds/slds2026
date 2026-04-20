@@ -29,7 +29,7 @@ Professor of the Practice of Statistics, Duke University</h4>
 
 <div class="row-fluid">
 
-<h4 class="mb-0" id="foster"><a href="https://deanfoster.net/index.pl" target="_blank" rel="noopener">Dean Foster</a>,
+<h4 class="mb-0" id="foster"><a href="https://deanfoster.net/" target="_blank" rel="noopener">Dean Foster</a>,
 Senior Principal Research Scientist, Amazon</h4>
 
 </div>
