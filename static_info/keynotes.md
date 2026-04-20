@@ -100,7 +100,9 @@ guided by a multi-agent reinforcement learning system.</p>
 just to write code, but to prove theorems about code—a step toward
 systems that can reason about software as well as generate it.</p>
 
-<p><strong>Abstract:</strong>TBA</p>
+<p><strong>Abstract:</strong>
+TBA
+</p>
 </div>
 
 </div>
