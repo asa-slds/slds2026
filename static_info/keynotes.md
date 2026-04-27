@@ -122,6 +122,7 @@ Head of Machine Learning Strategy, Bloomberg</h4>
 
 <div class="row-fluid">
 
+<h4>Keynote Presentation: Veridical Deep Learning: Evaluation and Compositionality</h4>
 <h4 class="mb-0" id="yu"><a href="https://binyu.stat.berkeley.edu" class="text-decoration-none" target="_blank" rel="noopener">Bin Yu</a>,
 Professor of Statistics, Electrical Engineering, and Computer Science, University of California, Berkeley</h4>
 
@@ -132,6 +133,7 @@ Professor of Statistics, Electrical Engineering, and Computer Science, Universit
 
 <div class="row-fluid">
 
+<h4>Keynote Presentation: Statisticians in AI Education</h4>
 <h4 class="mb-0" id="tian"><a
 href="https://datascience.columbia.edu/people/tian-zheng/"
 class="text-decoration-none" target="_blank" rel="noopener">Tian Zheng</a>,
