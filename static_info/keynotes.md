@@ -142,5 +142,3 @@ Professor of Statistics, Columbia University</h4>
 
 
 </div>
-
-------
