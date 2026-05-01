@@ -111,6 +111,7 @@ TBA
 
 <div class="row-fluid">
 
+<h4>Keynote Presentation: Bond Price Nowcasting: Some Assembly Required</h4>
 <h4 class="mb-0" id="rosenberg"><a href="https://www.linkedin.com/in/dr-david-rosenberg/" target="_blank" rel="noopener">David Rosenberg</a>,
 Head of Machine Learning Strategy, Bloomberg</h4>
 
