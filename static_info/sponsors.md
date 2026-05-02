@@ -30,7 +30,7 @@ title: Sponsors
     <hr />
 
 <h3 style="text-align:center; font-size:150%; padding-top:10px; padding-bottom:20px">Silver Sponsors</h3>
-	<div class="row justify-content-center">
+	<div class="row justify-content-center mb-2">
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://stat.columbia.edu" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
@@ -40,7 +40,7 @@ title: Sponsors
 			</a>
 		</div>
 		
-		<div class="col-md-4 col-sm-6 col-10 text-center">
+		<div class="mb-4 col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://beonemedicines.com" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
 				style="max-height:290px; width:75%;" 
@@ -49,6 +49,7 @@ title: Sponsors
 			</a>
 		
 		</div>
+
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://www.cmu.edu/dietrich/statistics-datascience/index.html" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
@@ -63,7 +64,7 @@ title: Sponsors
     	<br />
 
 	<div class="row justify-content-center">
-		<div class="col-md-4 col-sm-6 col-10 text-center">
+		<div class="mb-2 col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://dsi.wisc.edu" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid"
 				style="max-height:290px; width:75%;"
@@ -93,13 +94,13 @@ title: Sponsors
 		<div class="col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://school.wakehealth.edu/departments/biostatistics-and-data-science" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
-				style="max-height:290px; width:60%;" 
+				style="max-height:290px; width:65%;" 
 				src="photos/WFUSM-Biostatistics-and-Data-Science-1.jpg"
 				alt="WFUSM Biostatistics">
 			</a>
 		</div>
 		
-		<div class="col-md-4 col-sm-6 col-10 text-center">
+		<div class="mb-3 col-md-4 col-sm-6 col-10 text-center">
 			<a href="https://community.amstat.org/biop/home" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
 				style="max-height:290px; width:28%;" 
@@ -107,7 +108,14 @@ title: Sponsors
 				alt="ASA BIOP">
 			</a>
 		</div>
+
 		<div class="col-md-4 col-sm-6 col-10 text-center">
+			<a href="https://statistics.wharton.upenn.edu" target="_blank" rel="noopener noreferrer">
+			<img class="img-fluid" 
+				style="max-height:290px; width:50%;" 
+				src="photos/StatisticsandDataScience_Color_Vert.pdf"
+				alt="Wharton Statistics and Data Science Department">
+			</a>
 		</div>		
 	</div>
 
