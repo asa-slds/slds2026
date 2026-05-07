@@ -12,7 +12,7 @@ title-home: true
 
 <!-- <font color="Silver"></font> -->
 <!-- + <span>**Wednesday, April 1, 2026:** invited session proposal closes.</span> -->
-+ <span>**Friday, May 1, 2026:** registration opens.</span>
++ <span>**Friday, June 1, 2026:** registration opens.</span>
 <!-- need a deadline for + <span>**XXXX XX, 2026:** student paper submission closes./span> -->
 + <span>**Tuesday, September 1, 2026:** early registration ends/abstract submission closes.</span>
 + <span>**Saturday, October 31, 2026:** online registration
