@@ -14,11 +14,11 @@ title: Keynote Sessions
 
 <div class="row-fluid">
 
-<h4>Keynote Presentation: The Future of Statistics</h4>
 <h4 class="mb-0" id="banks"><a
 href="http://www2.stat.duke.edu/~banks/" target="_blank"
 rel="noopener">David Banks</a>,
 Professor of the Practice of Statistics, Duke University</h4>
+<h4>Keynote Presentation: The Future of Statistics</h4>
 
 <div class="mt-2 mb-0">
 <img src="photos/Banks_David.jpg" class="imgfloat" />
@@ -58,9 +58,9 @@ And although most of our funding mechanisms will never change, there would be hu
 
 <div class="row-fluid">
 
-<h4>Keynote Presentation: Statistics and LLMs</h4>
 <h4 class="mb-0" id="foster"><a href="https://deanfoster.net/" target="_blank" rel="noopener">Dean Foster</a>,
 Senior Principal Research Scientist, Amazon</h4>
+<h4>Keynote Presentation: Statistics and LLMs</h4>
 
 <div class="mt-2 mb-0">
 <img src="https://deanfoster.net/dean.jpg" class="imgfloat" />
@@ -103,17 +103,17 @@ systems that can reason about software as well as generate it.</p>
 <p><strong>Abstract:</strong>
 TBA
 </p>
-</div>
 
+</div>
 </div>
 
 ------
 
 <div class="row-fluid">
 
-<h4>Keynote Presentation: Bond Price Nowcasting: Some Assembly Required</h4>
 <h4 class="mb-0" id="rosenberg"><a href="https://www.linkedin.com/in/dr-david-rosenberg/" target="_blank" rel="noopener">David Rosenberg</a>,
 Head of Machine Learning Strategy, Bloomberg</h4>
+<h4>Keynote Presentation: Bond Price Nowcasting: Some Assembly Required</h4>
 
 
 </div>
@@ -123,9 +123,9 @@ Head of Machine Learning Strategy, Bloomberg</h4>
 
 <div class="row-fluid">
 
-<h4>Keynote Presentation: Veridical Deep Learning: Evaluation and Compositionality</h4>
 <h4 class="mb-0" id="yu"><a href="https://binyu.stat.berkeley.edu" class="text-decoration-none" target="_blank" rel="noopener">Bin Yu</a>,
 Professor of Statistics, Electrical Engineering, and Computer Science, University of California, Berkeley</h4>
+<h4>Keynote Presentation: Veridical Deep Learning: Evaluation and Compositionality</h4>
 
 
 <div class="mt-2 mb-0">
@@ -179,16 +179,17 @@ interactions among input features, illustrated through SPEX and
 related methods for extracting sparse, human-readable explanations. 
 </p>
 </div>
+</div>
 
 ------
 
 <div class="row-fluid">
 
-<h4>Keynote Presentation: Statisticians in AI Education</h4>
 <h4 class="mb-0" id="tian"><a
 href="https://datascience.columbia.edu/people/tian-zheng/"
 class="text-decoration-none" target="_blank" rel="noopener">Tian Zheng</a>,
 Professor of Statistics, Columbia University</h4>
+<h4>Keynote Presentation: Statisticians in AI Education</h4>
 
 
 </div>
