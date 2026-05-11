@@ -128,6 +128,56 @@ Head of Machine Learning Strategy, Bloomberg</h4>
 Professor of Statistics, Electrical Engineering, and Computer Science, University of California, Berkeley</h4>
 
 
+<div class="mt-2 mb-0">
+<img src="photos/Yu_Bin.jpg" class="imgfloat" />
+<p>
+Bin Yu is Chancellor’s Distinguished Professor in the Departments of
+Statistics and Electrical Engineering and Computer Sciences at
+University of California, Berkeley. A member of both the National
+Academy of Sciences and the American Academy of Arts and Sciences, she
+is widely recognized for pioneering the
+Predictability–Computability–Stability (PCS) framework for veridical
+data science, which has become an influential approach for
+transparent, reproducible, and trustworthy data science and AI. Her
+group develops efficient and interpretable ML/AI methods and theory,
+including influential contributions such as iterative random forests
+(iRF), contextual decomposition for transformers, adaptive wavelet
+distillation, and LoRA+ methods for deep learning fine-tuning. Her
+research spans statistical theory, interpretable machine learning,
+causal inference, and scientific discovery, with applications in
+neuroscience, genomics, remote sensing, and precision medicine through
+close interdisciplinary collaborations with domain experts.
+</p>
+
+<p>
+Professor Yu received her B.S. in Mathematics from Peking University
+and her M.S. and Ph.D. in Statistics from University of California,
+Berkeley. Her major honors include the COPSS Distinguished Achievement
+Award and Lectureship, the COPSS E. L. Scott Award, and a Guggenheim
+Fellowship. She has delivered many distinguished lectures, including
+the Breiman Lecture at NeurIPS, the Wald Memorial Lectures of the
+Institute of Mathematical Statistics, and the COPSS Distinguished
+Achievement Award and Lectureship at JSM. Professor Yu has also served
+in numerous leadership roles in the statistics and data science
+communities, including President of the IMS, Chair of the Berkeley
+Statistics Department, and advisory and editorial positions for
+leading scientific institutes and journals.
+</p>
+
+
+<p><strong>Abstract:</strong>
+Deep learning achieves remarkable predictive performance, yet
+trustworthiness demands more—reliable evaluation and interpretable
+structure. This talk presents two pillars of veridical deep learning
+grounded in the PCS (Predictability, Computability, Stability)
+framework. First, we address rigorous evaluation of LLMs beyond
+held-out accuracy by introducing Green Shielding, a user-centric
+research agenda for building evidence-backed deployment guidance by
+characterizing how benign input variation shifts LLM behavior. Second,
+we explore compositional interpretability: how deep models encode
+interactions among input features, illustrated through SPEX and
+related methods for extracting sparse, human-readable explanations. 
+</p>
 </div>
 
 ------
