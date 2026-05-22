@@ -20,37 +20,46 @@ rel="noopener">David Banks</a>,
 Professor of the Practice of Statistics, Duke University</h4>
 <h4>Keynote Presentation: The Future of Statistics</h4>
 
-<div class="mt-2 mb-0">
-<img src="photos/Banks_David.jpg" class="imgfloat" />
-<p>
-David Banks obtained a Ph.D. in Statistics in 1984. He won an NSF Postdoctoral Research Fellowship in the Mathematical Sciences, 
-which he took at Berkeley, working with David Blackwell. In 1986 he was a visiting assistant lecturer at the University of Cambridge, 
-and then joined the Department of Statistics at Carnegie Mellon in 1987. In 1997 he went to the National Institute of Standards and Technology, 
-then served as Chief Statistician of the U.S. Department of Transportation, 
-and finally joined the U.S. Food and Drug Administration in 2002. In 2003, he returned to academics at Duke University.
-</p>
 
-<p>
-He was the coordinating editor of the <i>Journal of the American Statistical Association</i>. He co-founded the 
-journal <i>Statistics and Public Policy</i> and served as its editor. He co-founded the American Statistical 
-Association's Sections on National Defense and Homeland Security and Text Analysis, and has chaired those sections, 
-as well as the sections on Risk Analysis and Statistical Learning and Data Mining. David Banks is past-president of 
-the Classification Society and the International Society for Business and Industrial Statistics. He has twice served 
-on the Board of Directors of the American Statistical Association. He is a fellow of the American Statistical Association, 
-the Institute of Mathematical Statistics, and the American Association for the Advancement of Science. He won the 
-American Statistical Association's Founders Award, the De Groot Award, and gave the William Sealy Gosset and Deming Lectures. 
-From January 2018 to Sept., 2021, he was the director of Statistical and Applied Mathematical Sciences Institute. 
-His research areas include computational advertising, dynamic text networks, adversarial 
-risk analysis (i.e., Bayesian behavioral game theory), human rights statistics, agent-based models, 
+**Abstract **
+The ground is changing under our feet. Our publication processes are
+antique. AI will affect our work in many ways, some of which are more
+predictable than others. Our educational curricula should be
+re-examined to better align our students with an emerging economy that
+favors data engineering over statistical theory. And although most of
+our funding mechanisms will never change, there would be huge benefits
+if they did.
+
+![](photos/Banks_David.jpg){.imgfloat}
+David Banks obtained a Ph.D. in Statistics in 1984. He won an NSF
+Postdoctoral Research Fellowship in the Mathematical Sciences, 
+which he took at Berkeley, working with David Blackwell. In 1986 he
+was a visiting assistant lecturer at the University of Cambridge, 
+and then joined the Department of Statistics at Carnegie Mellon
+in 1987. In 1997 he went to the National Institute of Standards and
+Technology,  then served as Chief Statistician of the U.S. Department
+of Transportation,  and finally joined the U.S. Food and Drug
+Administration in 2002. In 2003, he returned to academics at Duke
+University. He was the coordinating editor of the <i>Journal of the
+American Statistical Association</i>. He co-founded the 
+journal <i>Statistics and Public Policy</i> and served as its
+editor. He co-founded the American Statistical  Association's Sections
+on National Defense and Homeland Security and Text Analysis, and has
+chaired those sections,  as well as the sections on Risk Analysis and
+Statistical Learning and Data Mining. David Banks is past-president of 
+the Classification Society and the International Society for Business
+and Industrial Statistics. He has twice served on the Board of
+Directors of the American Statistical Association. He is a fellow of
+the American Statistical Association,  the Institute of Mathematical
+Statistics, and the American Association for the Advancement of
+Science. He won the  American Statistical Association's Founders
+Award, the De Groot Award, and gave the William Sealy Gosset and
+Deming Lectures.  From January 2018 to Sept., 2021, he was the
+director of Statistical and Applied Mathematical Sciences
+Institute. His research areas include computational advertising,
+dynamic text networks, adversarial  risk analysis (i.e., Bayesian
+behavioral game theory), human rights statistics, agent-based models, 
 forensics, and certain topics in high-dimensional data analysis.
-</p>
-
-<p><strong>Abstract:</strong>
-The ground is changing under our feet. Our publication processes are antique. AI will affect our work in many ways, some of which are more predictable than others.
-Our educational curricula should be re-examined to better align our students with an emerging economy that favors data engineering over statistical theory. 
-And although most of our funding mechanisms will never change, there would be huge benefits if they did.
-</p>
-</div>
 
 </div>
 
@@ -62,49 +71,33 @@ And although most of our funding mechanisms will never change, there would be hu
 Senior Principal Research Scientist, Amazon</h4>
 <h4>Keynote Presentation: Statistics and LLMs</h4>
 
-<div class="mt-2 mb-0">
-<img src="https://deanfoster.net/dean.jpg" class="imgfloat" />
-<p>Dean P. Foster studied AI at Rutgers and Statistics at the University
-of Maryland—before those fields merged into what we now call Machine
-Learning. He spent time as a professor at the University of Chicago
-and later at the University of Pennsylvania. In 2015, he made the leap
-from academia to industry, joining Amazon in New York City, where he's
-been ever since. His current research focuses on machine learning,
-reinforcement learning, and large language models (LLMs).</p>
+**Abstract: ** TBA
 
-<p>Dean helped pioneer two major areas in game theory: stochastic
-evolutionary game dynamics and calibrated learning. In both, he
-developed the theoretical tools needed to prove convergence to
-equilibrium. The calibrated learning strategies he introduced stemmed
-from his early work on individual sequences—work that has since become
-foundational in theoretical machine learning. His calibration and
-no-internal-regret algorithms were among the first learning methods
-proven to converge to a correlated equilibrium.</p>
+![](photos/Foster_Dean.jpg){.imgfloat}
+Dean P. Foster studied AI at Rutgers University and statistics at the
+University of Maryland before those fields converged into what is now
+commonly known as machine learning. He previously served on the faculty
+at the University of Chicago and the University of Pennsylvania before
+joining Amazon in New York City in 2015 as a Senior Principal Research
+Scientist. His research spans machine learning, reinforcement learning,
+large language models, statistics, and game theory. In game theory, he
+helped pioneer stochastic evolutionary game dynamics and calibrated
+learning, developing theoretical tools for proving convergence to
+equilibrium. His work on calibrated learning and no-internal-regret
+algorithms was among the earliest to establish convergence to correlated
+equilibrium and became foundational in theoretical machine learning. In
+statistics, he is widely known for contributions to large-scale
+regression problems, including early work on risk inflation in
+high-dimensional settings and the development of alpha-investing, which
+provides both a theoretical framework for variable selection and a fast
+algorithm suitable for streaming data. At Amazon, he founded a
+reinforcement learning team responsible for large-scale inventory and
+logistics optimization problems involving millions of products and
+hundreds of warehouses through multi-agent reinforcement learning
+systems. More recently, his work has focused on the use of large
+language models not only for code generation but also for theorem
+proving and software reasoning.
 
-<p>In statistics, he's best known for his work on large-scale regression
-problems. His early research on risk inflation was one of the first to
-seriously consider models with thousands—or even millions—of potential
-variables. More recently, his work on alpha-investing offers both a
-theoretical foundation for variable selection and a practical
-algorithm that's fast enough to keep pace with streaming data.</p>
-
-<p>At Amazon, Dean founded a reinforcement learning team in New York
-City. The group is responsible for figuring out how much of each of
-Amazon's 30 million products to purchase each year—a $300 billion
-decision-making problem. Once those purchases are made, the team's
-work continues: routing inventory across hundreds of warehouses so
-that products can reach customers quickly. This entire pipeline is
-guided by a multi-agent reinforcement learning system.</p>
-
-<p>These days, Dean is especially interested in how LLMs can be used not
-just to write code, but to prove theorems about code—a step toward
-systems that can reason about software as well as generate it.</p>
-
-<p><strong>Abstract:</strong>
-TBA
-</p>
-
-</div>
 </div>
 
 ------
@@ -116,11 +109,12 @@ Head of Machine Learning Strategy, Bloomberg</h4>
 <h4>Keynote Presentation: Bond Price Nowcasting: Some Assembly Required</h4>
 
 
+**Abstract: ** TBA
+This presentation will be co-delivered with Dr. Camilo Ortiz.
 
-<div class="mt-2 mb-0">
-<img src="photos/Rosenberg_David.jpg" class="imgfloat" />
-<p>
-Dr. David Rosenberg leads the Machine Learning Strategy team in the Office
+
+![](photos/Rosenberg_David.jpg){.imgfloat}
+David Rosenberg leads the Machine Learning Strategy team in the Office
 of the CTO at Bloomberg. He was a co-author of the BloombergGPT
 research paper, which explored building a large language model
 tailored to the financial domain. He was previously an adjunct
@@ -133,14 +127,6 @@ by Goodreads and later Amazon. He holds a Ph.D. in statistics from UC
 Berkeley, an S.M. in applied mathematics from Harvard University, and
 a B.S. in mathematics from Yale University. He is currently based in
 Toronto.
-</p>
-
-
-<p><strong>Abstract:</strong>
-TBA. ......
-This presentation will be co-delivered with Dr. Camilo Ortiz.
-</p>
-</div>
 
 </div>
 
@@ -153,10 +139,22 @@ This presentation will be co-delivered with Dr. Camilo Ortiz.
 Professor of Statistics, Electrical Engineering, and Computer Science, University of California, Berkeley</h4>
 <h4>Keynote Presentation: Veridical Deep Learning: Evaluation and Compositionality</h4>
 
+**Abstract: **
+Deep learning achieves remarkable predictive performance, yet
+trustworthiness demands more—reliable evaluation and interpretable
+structure. This talk presents two pillars of veridical deep learning
+grounded in the PCS (Predictability, Computability, Stability)
+framework. First, we address rigorous evaluation of LLMs beyond
+held-out accuracy by introducing Green Shielding, a user-centric
+research agenda for building evidence-backed deployment guidance by
+characterizing how benign input variation shifts LLM behavior. Second,
+we explore compositional interpretability: how deep models encode
+interactions among input features, illustrated through SPEX and
+related methods for extracting sparse, human-readable explanations. 
 
-<div class="mt-2 mb-0">
-<img src="photos/Yu_Bin.jpg" class="imgfloat" />
-<p>
+
+
+![](photos/Yu_Bin.jpg){.imgfloat}
 Bin Yu is Chancellor’s Distinguished Professor in the Departments of
 Statistics and Electrical Engineering and Computer Sciences at
 University of California, Berkeley. A member of both the National
@@ -173,9 +171,8 @@ research spans statistical theory, interpretable machine learning,
 causal inference, and scientific discovery, with applications in
 neuroscience, genomics, remote sensing, and precision medicine through
 close interdisciplinary collaborations with domain experts.
-</p>
 
-<p>
+
 Professor Yu received her B.S. in Mathematics from Peking University
 and her M.S. and Ph.D. in Statistics from University of California,
 Berkeley. Her major honors include the COPSS Distinguished Achievement
@@ -188,23 +185,7 @@ in numerous leadership roles in the statistics and data science
 communities, including President of the IMS, Chair of the Berkeley
 Statistics Department, and advisory and editorial positions for
 leading scientific institutes and journals.
-</p>
 
-
-<p><strong>Abstract:</strong>
-Deep learning achieves remarkable predictive performance, yet
-trustworthiness demands more—reliable evaluation and interpretable
-structure. This talk presents two pillars of veridical deep learning
-grounded in the PCS (Predictability, Computability, Stability)
-framework. First, we address rigorous evaluation of LLMs beyond
-held-out accuracy by introducing Green Shielding, a user-centric
-research agenda for building evidence-backed deployment guidance by
-characterizing how benign input variation shifts LLM behavior. Second,
-we explore compositional interpretability: how deep models encode
-interactions among input features, illustrated through SPEX and
-related methods for extracting sparse, human-readable explanations. 
-</p>
-</div>
 </div>
 
 ------
@@ -216,6 +197,41 @@ href="https://datascience.columbia.edu/people/tian-zheng/"
 class="text-decoration-none" target="_blank" rel="noopener">Tian Zheng</a>,
 Professor of Statistics, Columbia University</h4>
 <h4>Keynote Presentation: Statisticians in AI Education</h4>
+
+**Abstract: **
+TBA.
+
+![](photos/Zheng_Tian.jpg){.imgfloat}
+Dr. Tian Zheng is
+Professor of Statistics at Columbia University. She obtained her
+Ph.D. from Columbia in 2002. In her research, she develops novel
+methods for exploring and understanding patterns in complex data from
+different application domains such as biology, psychology,
+climatology, and etc. Her current projects are in the fields of
+statistical machine learning, spatiotemporal modeling, and social
+network analysis, collaborating with ecologists and earth
+scientists. Professor Zheng’s research has been recognized by the 2008
+Outstanding Statistical Application Award from the American
+Statistical Association (ASA), the Mitchell Prize from ISBA, and a
+Google research award. She became a Fellow of the American Statistical
+Association in 2014. Professor Zheng is passionate about education and
+mentoring. From 2015-2016, she was one of the series creators for
+Columbia’s edX Massive Online Open Course (MOOC) series on data
+science. From 2017-2020, she was associate director for education of
+Columbia Data Science Institute. She led a number of education
+programs, including the MS in Data Science program at Columbia, data
+science capstone projects with data ethics components, DSI Scholars
+program that connects students with academic research projects in data
+science, the Collaboratory program for interdisciplinary data science
+curriculum development, a number of popular Data Science boot
+camps. She created DSI’s working group on Data Science Education and
+has been coordinating data science education efforts across
+Columbia. Professor Zheng is the receipt of the 2017 Columbia’s
+Presidential Award for Outstanding Teaching. In 2021, she was
+recognized by a Lenfest Distinguished Columbia Faculty Award that
+recognizes the excellence of faculty as teachers and mentors of both
+undergraduate and graduate students.
+
 
 
 </div>
