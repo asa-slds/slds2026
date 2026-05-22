@@ -116,6 +116,32 @@ Head of Machine Learning Strategy, Bloomberg</h4>
 <h4>Keynote Presentation: Bond Price Nowcasting: Some Assembly Required</h4>
 
 
+
+<div class="mt-2 mb-0">
+<img src="photos/Rosenberg_David.jpg" class="imgfloat" />
+<p>
+Dr. David Rosenberg leads the Machine Learning Strategy team in the Office
+of the CTO at Bloomberg. He was a co-author of the BloombergGPT
+research paper, which explored building a large language model
+tailored to the financial domain. He was previously an adjunct
+associate professor at NYU’s Center for Data Science, where he twice
+received the “Professor of the Year” award. Before joining Bloomberg,
+David served as Chief Scientist at Sense Networks, a location data
+analytics and mobile advertising company, and he served as scientific
+adviser to Discovereads, a book recommendation company first acquired
+by Goodreads and later Amazon. He holds a Ph.D. in statistics from UC
+Berkeley, an S.M. in applied mathematics from Harvard University, and
+a B.S. in mathematics from Yale University. He is currently based in
+Toronto.
+</p>
+
+
+<p><strong>Abstract:</strong>
+TBA. ......
+This presentation will be co-delivered with Dr. Camilo Ortiz.
+</p>
+</div>
+
 </div>
 
 
