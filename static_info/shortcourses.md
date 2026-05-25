@@ -128,7 +128,7 @@ Basic linear algebra and basic probability.
 
 <h5>Instructor: George Michailidis</h5>
 
-**George Micahailidis** is a Professor in the Department of Statistics & Data Science at UCLA. His research focuses on methodological and theoretical work in high-dimensional statistics, optimization, machine learning and neural networks, change point analysis, and network modeling. He is also interested in applications of statistical methods to engineering, biomedicine and economic/finance problems. Prior to joining UCLA in 2022, Prof. Michailidis was the Founding Director of the Informatics Institute at the University of Florida and served on the faculty in Statistics and EECS at the University of Michigan.
+<a href="https://georgemichailidis.github.io" target="_blank" rel="noopener noreferrer"><strong>George Micahailidis</strong></a> is a Professor in the Department of Statistics & Data Science at UCLA. His research focuses on methodological and theoretical work in high-dimensional statistics, optimization, machine learning and neural networks, change point analysis, and network modeling. He is also interested in applications of statistical methods to engineering, biomedicine and economic/finance problems. Prior to joining UCLA in 2022, Prof. Michailidis was the Founding Director of the Informatics Institute at the University of Florida and served on the faculty in Statistics and EECS at the University of Michigan.
 
 <h5>Course Description:</h5>
 
