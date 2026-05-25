@@ -10,13 +10,10 @@ title-home: true
 
 #### Timeline / Important Dates
 
-<!-- <font color="Silver"></font> -->
-<!-- + <span>**Wednesday, April 1, 2026:** invited session proposal closes.</span> -->
-+ <span>**Friday, June 1, 2026:** registration opens.</span>
-<!-- need a deadline for + <span>**XXXX XX, 2026:** student paper submission closes./span> -->
-+ <span>**Tuesday, September 1, 2026:** early registration ends/abstract submission closes.</span>
-+ <span>**Saturday, October 31, 2026:** online registration
-  closes.</span>
++ <span>**Monday, June 1, 2026:** registration opens.</span>
++ <span>**Monday, August 31, 2026:** early registration ends.</span>
++ <span>**Monday, October 12, 2026:** cancellation cut-off / housing deadline.</span>
++ <span>**Sunday, October 25, 2026:** online registration closes.</span>
   
 
 #### About SLDS Conference
