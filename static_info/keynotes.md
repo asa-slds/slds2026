@@ -16,7 +16,7 @@ title: Keynote Sessions
 
 <h4 class="mb-0" id="banks"><a
 href="http://www2.stat.duke.edu/~banks/" target="_blank"
-rel="noopener">David Banks</a>,
+rel="noopener noreferrer">David Banks</a>,
 Professor of the Practice of Statistics, Duke University</h4>
 <h4>Keynote Presentation: The Future of Statistics</h4>
 
@@ -67,7 +67,7 @@ forensics, and certain topics in high-dimensional data analysis.
 
 <div class="row-fluid">
 
-<h4 class="mb-0" id="foster"><a href="https://deanfoster.net/" target="_blank" rel="noopener">Dean Foster</a>,
+<h4 class="mb-0" id="foster"><a href="https://deanfoster.net/" target="_blank" rel="noopener noreferrer">Dean Foster</a>,
 Senior Principal Research Scientist, Amazon</h4>
 <h4>Keynote Presentation: Statistics and LLMs</h4>
 
@@ -104,7 +104,7 @@ proving and software reasoning.
 
 <div class="row-fluid">
 
-<h4 class="mb-0" id="rosenberg"><a href="https://www.linkedin.com/in/dr-david-rosenberg/" target="_blank" rel="noopener">David Rosenberg</a>,
+<h4 class="mb-0" id="rosenberg"><a href="https://www.linkedin.com/in/dr-david-rosenberg/" target="_blank" rel="noopener noreferrer">David Rosenberg</a>,
 Head of Machine Learning Strategy, Bloomberg</h4>
 <h4>Keynote Presentation: Bond Price Nowcasting: Some Assembly Required</h4>
 
@@ -135,7 +135,7 @@ Toronto.
 
 <div class="row-fluid">
 
-<h4 class="mb-0" id="yu"><a href="https://binyu.stat.berkeley.edu" class="text-decoration-none" target="_blank" rel="noopener">Bin Yu</a>,
+<h4 class="mb-0" id="yu"><a href="https://binyu.stat.berkeley.edu" class="text-decoration-none" target="_blank" rel="noopener noreferrer">Bin Yu</a>,
 Professor of Statistics, Electrical Engineering, and Computer Science, University of California, Berkeley</h4>
 <h4>Keynote Presentation: Veridical Deep Learning: Evaluation and Compositionality</h4>
 
@@ -194,7 +194,7 @@ leading scientific institutes and journals.
 
 <h4 class="mb-0" id="tian"><a
 href="https://datascience.columbia.edu/people/tian-zheng/"
-class="text-decoration-none" target="_blank" rel="noopener">Tian Zheng</a>,
+class="text-decoration-none" target="_blank" rel="noopener noreferrer">Tian Zheng</a>,
 Professor of Statistics, Columbia University</h4>
 <h4>Keynote Presentation: Statisticians in AI Education</h4>
 
