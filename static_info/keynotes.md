@@ -30,6 +30,7 @@ favors data engineering over statistical theory. And although most of
 our funding mechanisms will never change, there would be huge benefits
 if they did.
 
+<div class="bio-block">
 ![](photos/Banks_David.jpg){.imgfloat}
 David Banks obtained a Ph.D. in Statistics in 1984. He won an NSF
 Postdoctoral Research Fellowship in the Mathematical Sciences, 
@@ -60,6 +61,7 @@ Institute. His research areas include computational advertising,
 dynamic text networks, adversarial  risk analysis (i.e., Bayesian
 behavioral game theory), human rights statistics, agent-based models, 
 forensics, and certain topics in high-dimensional data analysis.
+</div>
 
 </div>
 
@@ -73,6 +75,7 @@ Senior Principal Research Scientist, Amazon</h4>
 
 **Abstract: ** TBA
 
+<div class="bio-block">
 ![](photos/Foster_Dean.jpg){.imgfloat}
 Dean P. Foster studied AI at Rutgers University and statistics at the
 University of Maryland before those fields converged into what is now
@@ -97,6 +100,7 @@ hundreds of warehouses through multi-agent reinforcement learning
 systems. More recently, his work has focused on the use of large
 language models not only for code generation but also for theorem
 proving and software reasoning.
+</div>
 
 </div>
 
@@ -112,7 +116,7 @@ Head of Machine Learning Strategy, Bloomberg</h4>
 **Abstract: ** TBA
 This presentation will be co-delivered with Dr. Camilo Ortiz.
 
-
+<div class="bio-block">
 ![](photos/Rosenberg_David.jpg){.imgfloat}
 David Rosenberg leads the Machine Learning Strategy team in the Office
 of the CTO at Bloomberg. He was a co-author of the BloombergGPT
@@ -127,6 +131,7 @@ by Goodreads and later Amazon. He holds a Ph.D. in statistics from UC
 Berkeley, an S.M. in applied mathematics from Harvard University, and
 a B.S. in mathematics from Yale University. He is currently based in
 Toronto.
+</div>
 
 </div>
 
@@ -153,7 +158,7 @@ interactions among input features, illustrated through SPEX and
 related methods for extracting sparse, human-readable explanations. 
 
 
-
+<div class="bio-block">
 ![](photos/Yu_Bin.jpg){.imgfloat}
 Bin Yu is Chancellor’s Distinguished Professor in the Departments of
 Statistics and Electrical Engineering and Computer Sciences at
@@ -185,6 +190,7 @@ in numerous leadership roles in the statistics and data science
 communities, including President of the IMS, Chair of the Berkeley
 Statistics Department, and advisory and editorial positions for
 leading scientific institutes and journals.
+</div>
 
 </div>
 
@@ -201,6 +207,7 @@ Professor of Statistics, Columbia University</h4>
 **Abstract: **
 TBA.
 
+<div class="bio-block">
 ![](photos/Zheng_Tian.jpg){.imgfloat}
 Dr. Tian Zheng is
 Professor of Statistics at Columbia University. She obtained her
@@ -231,7 +238,7 @@ Presidential Award for Outstanding Teaching. In 2021, she was
 recognized by a Lenfest Distinguished Columbia Faculty Award that
 recognizes the excellence of faculty as teachers and mentors of both
 undergraduate and graduate students.
-
+</div>
 
 
 </div>

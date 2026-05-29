@@ -289,6 +289,23 @@ a:hover, a:focus, a:active {
   float: left;
   margin: 6px 10px 0 0;
   width: 160px;
+  max-height: 180px;      /* adjust as needed */
+  object-fit: cover;  /* crop instead of squeezing */
+  object-position: top;
+}
+
+.bio-block {
+  margin-bottom: 16px;
+}
+
+.bio-block p:last-child {
+  margin-bottom: 0;
+}
+
+.bio-block::after {
+  content: "";
+  display: block;
+  clear: both;
 }
 
 ul.ul-fluid {
