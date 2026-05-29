@@ -130,7 +130,8 @@ Optimization lies at the heart of modern data science, offering scalable solutio
 
 <h5>Instructor: George Michailidis</h5>
 
-<a href="https://georgemichailidis.github.io" target="_blank" rel="noopener noreferrer"><strong>George Micahailidis</strong></a> is a Professor in the Department of Statistics & Data Science at UCLA. His research focuses on methodological and theoretical work in high-dimensional statistics, optimization, machine learning and neural networks, change point analysis, and network modeling. He is also interested in applications of statistical methods to engineering, biomedicine and economic/finance problems. Prior to joining UCLA in 2022, Prof. Michailidis was the Founding Director of the Informatics Institute at the University of Florida and served on the faculty in Statistics and EECS at the University of Michigan.
+<a href="https://georgemichailidis.github.io" target="_blank" rel="noopener noreferrer"><strong>George Michailidis</strong></a> is a Professor in the Department of Statistics & Data Science at UCLA, where he joined the faculty in 2022. His academic career includes 17 years on the faculty in Statistics and EECS at the University of Michigan, followed by roles as a Professor of Statistics and Computer Science and the Founding Director of the Informatics Institute at the University of Florida. His research focuses on high-dimensional statistics for complex, temporally dependent data; optimization for modern machine learning (encompassing minimax, bilevel, and federated architectures); change point analysis; and interpretable machine learning. Bridging theory and practice, he regularly collaborates across engineering, biomedicine, and finance to deploy his methods on large-scale datasets. Alongside his standard teaching duties in optimization for data science and machine learning, he has also delivered a corresponding short course on multiple occasions.
+
 
 </div>
 
