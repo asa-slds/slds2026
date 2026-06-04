@@ -18,7 +18,7 @@ title: Sponsors
 			<a href="https://www.mbzuai.ac.ae" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
 				style="max-height:290px; width:100%;" 
-				src="photos/MBZUAI_logo.jpg"
+				src="photos/MBZUAI_Logo_EN_Navy_Blue_RGB.jpg"
 				alt="MBZUAI">
 			</a>
 		
