@@ -1,5 +1,5 @@
 ---
-title: Objectives
+title: Home
 title-home: true
 ---
 
