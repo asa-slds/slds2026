@@ -23,13 +23,13 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">02</span></td>
-  <td><strong>learning, inference and decision making in complex structures</strong></td>
+  <td><strong>Learning, Inference and Decision Making in Complex Structures</strong></td>
   <td>Yanyuan Ma (penn state university)</td>
   <td>Tianying Wang (Colorado state university)</td>
 </tr>
 <tr>
   <td><span class="session-id">03</span></td>
-  <td><strong>Mediation analysis and causal inference in biomedical research</strong></td>
+  <td><strong>Mediation Analysis and Causal Inference in Biomedical Research</strong></td>
   <td>Heping Zhang (Yale University School of Public Health)</td>
   <td>Ying Wei (Columbia University)</td>
 </tr>
@@ -47,7 +47,7 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">06</span></td>
-  <td><strong>Statistical learning in biomedical studies</strong></td>
+  <td><strong>Statistical Learning in Biomedical Studies</strong></td>
   <td>Zhezhen Jin (Columbia University)</td>
   <td>Shanshan Ding (Department of Applied Economics and Statistics, University of Delaware)</td>
 </tr>
@@ -59,25 +59,25 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">08</span></td>
-  <td><strong>Conformal prediction with partially observed data</strong></td>
+  <td><strong>Conformal Prediction with Partially Observed Data</strong></td>
   <td>Matteo Sesia (University of Southern California)</td>
   <td>Vladimir Svetnik (Merck &amp; Co.)</td>
 </tr>
 <tr>
   <td><span class="session-id">09</span></td>
-  <td><strong>Advances in high-dimensional statistics and random matrix theory</strong></td>
+  <td><strong>Advances in High-Dimensional Statistics and Random Matrix Theory</strong></td>
   <td>Joshua Cape (University of Wisconsin-Madison)</td>
   <td>Joshua Cape (University of Wisconsin-Madison)</td>
 </tr>
 <tr>
   <td><span class="session-id">10</span></td>
-  <td><strong>Statistical advances in the analysis of embeddings, networks, and graphs</strong></td>
+  <td><strong>Statistical Advances in the Analysis of Embeddings, Networks, and Graphs</strong></td>
   <td>Joshua Cape (University of Wisconsin-Madison)</td>
   <td>Joshua Cape (University of Wisconsin-Madison)</td>
 </tr>
 <tr>
   <td><span class="session-id">11</span></td>
-  <td><strong>Topics in online statistical inference and learning</strong></td>
+  <td><strong>Topics in Online Statistical Inference and Learning</strong></td>
   <td>Zhimei Ren (University of Pennsylvania)</td>
   <td>Zhimei Ren (University of Pennsylvania)</td>
 </tr>
@@ -101,7 +101,7 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">15</span></td>
-  <td><strong>Distribution-free statistical inference for AI</strong></td>
+  <td><strong>Distribution-Free Statistical Inference for AI</strong></td>
   <td>Vladimir Svenik (Merck &amp; Co)</td>
   <td>Matteo Sesia (University of Southern California)</td>
 </tr>
@@ -149,7 +149,7 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">23</span></td>
-  <td><strong>The interplay between statistics and data-driven decision-making</strong></td>
+  <td><strong>The Interplay Between Statistics and Data-Driven Decision-Making</strong></td>
   <td>Zhimei Ren (University of Pennsylvania)</td>
   <td>Ying Jin (University of Pennsylvania)</td>
 </tr>
@@ -227,7 +227,7 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">36</span></td>
-  <td><strong>Network interference, spillover and temporal effects</strong></td>
+  <td><strong>Network Interference, Spillover and Temporal Effects</strong></td>
   <td>Keith Levin (University of Wisconsin-Madison)</td>
   <td>Keith Levin (University of Wisconsin-Madison)</td>
 </tr>
@@ -341,13 +341,13 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">55</span></td>
-  <td><strong>Statistical-computational gaps in network and tensor data</strong></td>
+  <td><strong>Statistical-Computational Gaps in Network and Tensor Data</strong></td>
   <td>Keith Levin (University of Wisconsin-Madison)</td>
   <td>Keith Levin (University of Wisconsin-Madison)</td>
 </tr>
 <tr>
   <td><span class="session-id">56</span></td>
-  <td><strong>Novel network models and model selection</strong></td>
+  <td><strong>Novel Network Models and Model Selection</strong></td>
   <td>Keith Levin (University of Wisconsin-Madison)</td>
   <td>Keith Levin (University of Wisconsin-Madison)</td>
 </tr>
@@ -359,13 +359,13 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">58</span></td>
-  <td><strong>Advances in methodology and theory for network analysis</strong></td>
+  <td><strong>Advances in Methodology and Theory for Network Analysis</strong></td>
   <td>Jingming Wang (University of Virginia)</td>
   <td>Jingming Wang (University of Virginia)</td>
 </tr>
 <tr>
   <td><span class="session-id">59</span></td>
-  <td><strong>Modern network analysis and applications across disciplines</strong></td>
+  <td><strong>Modern Network Analysis and Applications Across Disciplines</strong></td>
   <td>Jingming Wang (University of Virginia)</td>
   <td>Huimin Cheng (Boston University)</td>
 </tr>
@@ -431,19 +431,19 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">70</span></td>
-  <td><strong>Statistical analysis of LLM and representation learning</strong></td>
+  <td><strong>Statistical Analysis of LLM and Representation Learning</strong></td>
   <td>Yang Ning (Cornell University)</td>
   <td>Yang Ning (Cornell University)</td>
 </tr>
 <tr>
   <td><span class="session-id">71</span></td>
-  <td><strong>Advancement in nonparametric method in complex data</strong></td>
+  <td><strong>Advancement in Nonparametric Method in Complex Data</strong></td>
   <td>Wen Zhou (New York University)</td>
   <td>Xiwei Tang (UT Dallas)</td>
 </tr>
 <tr>
   <td><span class="session-id">72</span></td>
-  <td><strong>Methods and theory for machine learning: estimation and prediction</strong></td>
+  <td><strong>Methods and Theory for Machine Learning: Estimation and Prediction</strong></td>
   <td>Yang Ning (Cornell University)</td>
   <td>Yang Ning (Cornell University)</td>
 </tr>
@@ -473,7 +473,7 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">77</span></td>
-  <td><strong>Novel methods in learning dependent and dynamical data</strong></td>
+  <td><strong>Novel Methods in Learning Dependent and Dynamical Data</strong></td>
   <td>Wen Zhou (New York University)</td>
   <td>Wen Zhou (New York University)</td>
 </tr>
@@ -515,13 +515,13 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">84</span></td>
-  <td><strong>Analyzing complex-structured data with latent geometry and heterogeneity</strong></td>
+  <td><strong>Analyzing Complex-Structured Data with Latent Geometry and Heterogeneity</strong></td>
   <td>Yinqiu He (University of Wisconsin-Madison)</td>
   <td>Yinqiu He (University of Wisconsin-Madison)</td>
 </tr>
 <tr>
   <td><span class="session-id">85</span></td>
-  <td><strong>Trustworthy learning and inference at scale</strong></td>
+  <td><strong>Trustworthy Learning and Inference at Scale</strong></td>
   <td>Yinqiu He (University of Wisconsin-Madison)</td>
   <td>Yinqiu He (University of Wisconsin-Madison)</td>
 </tr>
@@ -539,13 +539,13 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">88</span></td>
-  <td><strong>Advances in methods for leveraging external information in precision medicine</strong></td>
+  <td><strong>Advances in Methods for Leveraging External Information in Precision Medicine</strong></td>
   <td>Nicholas Henderson (University of Michigan)</td>
   <td>Nicholas Henderson (University of Michigan)</td>
 </tr>
 <tr>
   <td><span class="session-id">89</span></td>
-  <td><strong>Equilibrium-Aware A/B Testing</strong></td>
+  <td><strong>Equilibrium-Aware a/B Testing</strong></td>
   <td>Lihua Lei (Stanford University)</td>
   <td>Lihua Lei (Stanford University)</td>
 </tr>
@@ -563,13 +563,13 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">92</span></td>
-  <td><strong>Advances in graphical models for causality and missingness</strong></td>
+  <td><strong>Advances in Graphical Models for Causality and Missingness</strong></td>
   <td>Caleb Miles (Columbia University)</td>
   <td>Oliver Hines (Columbia University)</td>
 </tr>
 <tr>
   <td><span class="session-id">93</span></td>
-  <td><strong>Causal inference in complex real-world data applications</strong></td>
+  <td><strong>Causal Inference in Complex Real-World Data Applications</strong></td>
   <td>Caleb Miles (Columbia University)</td>
   <td>Taehyeon Koo (Columbia University)</td>
 </tr>
@@ -587,19 +587,19 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">96</span></td>
-  <td><strong>When does explainable AI actually open the black box</strong></td>
+  <td><strong>When Does Explainable AI Actually Open the Black Box</strong></td>
   <td>Srikar Katta (Duke University)</td>
   <td>Lesia Semenova (Rutgers University)</td>
 </tr>
 <tr>
   <td><span class="session-id">97</span></td>
-  <td><strong>Transparent Machine Learning through Visualization and Human-Centered Design</strong></td>
+  <td><strong>Transparent Machine Learning Through Visualization and Human-Centered Design</strong></td>
   <td>Zachery Boner; Lesia Semenova (Duke University; Rutgers University)</td>
   <td>Jon Donnelly (Duke University)</td>
 </tr>
 <tr>
   <td><span class="session-id">98</span></td>
-  <td><strong>Robustness Bayesian methods with machine learning applications</strong></td>
+  <td><strong>Robustness Bayesian Methods with Machine Learning Applications</strong></td>
   <td>Jami Mulgrave (NC State University)</td>
   <td>Jami Mulgrave (NC State University)</td>
 </tr>
@@ -611,7 +611,7 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">100</span></td>
-  <td><strong>The role of the Rashomon Effect in Responsible AI</strong></td>
+  <td><strong>The Role of the Rashomon Effect in Responsible AI</strong></td>
   <td>Chudi Zhong (University of North Carolina at Chapel Hill)</td>
   <td>Srikar Katta (Duke University)</td>
 </tr>
@@ -629,7 +629,7 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">103</span></td>
-  <td><strong>Recent methodological advances in causal inference</strong></td>
+  <td><strong>Recent Methodological Advances in Causal Inference</strong></td>
   <td>Caleb Miles (Columbia University)</td>
   <td>Daniel Malinsky (Columbia University)</td>
 </tr>
@@ -653,7 +653,7 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">107</span></td>
-  <td><strong>Next-Generation Decision Intelligence: From Underwriting and Uplift Modeling to LLM-Driven statistical experiment lifecycle automation and Clinical Assessment</strong></td>
+  <td><strong>Next-Generation Decision Intelligence: From Underwriting and Uplift Modeling to LLM-Driven Statistical Experiment Lifecycle Automation and Clinical Assessment</strong></td>
   <td>Jieying Jiao (New York Life)</td>
   <td>Jieying Jiao (New York Life)</td>
 </tr>
