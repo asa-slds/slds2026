@@ -339,3 +339,60 @@ i.fa-li {
 font.title {
   color: var(--slds-accent);
 }
+
+
+/* ==========================================================
+   program and inivted sessions
+   ========================================================== */
+
+.session-id {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  background: #e0f2fe;
+  color: #075985;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.session-table-scroll {
+  max-height: 900px;
+  overflow-y: scroll;
+  overflow-x: auto;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}
+
+.session-table-scroll table {
+  margin-bottom: 0;
+}
+
+/* Keep the table header visible while scrolling */
+#invited-session-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background-color: #e9ecef;
+  color: #212529;
+}
+
+/* Make the scrollbar more visible in Chrome/Edge/Safari */
+.session-table-scroll::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.session-table-scroll::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 6px;
+}
+
+.session-table-scroll::-webkit-scrollbar-thumb {
+  background: #94a3b8;
+  border-radius: 6px;
+}
+
+.session-table-scroll::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
