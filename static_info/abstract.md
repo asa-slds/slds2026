@@ -10,7 +10,12 @@ title: Abstract Submssion
 
 3. LaTeX formatting is permitted for all text entry fields.
 
-4. This submission form is for invited and poster sessions. The invited session ID should be obtained from your session organizer. For poster submissions, please use ID "0".
+4. This submission form is for invited and poster sessions.
+
+   * For invited sessions, the session ID should be obtained from your session organizer or looked up on the <a href="program.html">Program</a> page.
+
+   * For poster submissions, please use ID "0".
+
 
 <h4>Submission Link</h4>
 
