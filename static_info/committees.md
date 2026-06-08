@@ -31,12 +31,12 @@ and teams.
 + [Wen Zhou](https://publichealth.nyu.edu/faculty/wen-zhou), New York University
 
 
-
-
 ##### Local Organizing Committee
 
 + [Yang Feng](https://yangfengstat.github.io/) (Co-Chair), New York University
 + [Wen Zhou](https://publichealth.nyu.edu/faculty/wen-zhou) (Co-Chair), New York University
++ [Huilin Li](https://med.nyu.edu/faculty/huilin-li), New York University
++ [Hai Shu](https://wp.nyu.edu/haishu/), New York University
 
 
 ##### Fundraising Committee
@@ -72,6 +72,7 @@ and teams.
 <!-- (Webmaster; Program book; Online platform) -->
 
 + [Yan Li](https://yanlistat.com) (Chair), Auburn University
+
 
 ##### Scientific Program Committee
 
