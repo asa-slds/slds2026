@@ -545,7 +545,7 @@ title: Program
 </tr>
 <tr>
   <td><span class="session-id">89</span></td>
-  <td><strong>Equilibrium-Aware a/B Testing</strong></td>
+  <td><strong>Equilibrium-Aware A/B Testing</strong></td>
   <td>Lihua Lei (Stanford University)</td>
   <td>Lihua Lei (Stanford University)</td>
 </tr>
