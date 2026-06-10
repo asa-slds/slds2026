@@ -13,27 +13,88 @@ $(window).on('resize', function(){
 });
 
 // scroll position
+// scroll position, adjusted for sticky hero image
 (function($) {
-    $("a[href*=\\#]:not([href=\\#])").click(function() {
-	if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname)
-	{
-	    var navShow = $("#navbarSupportedContent").is(":visible");
-	    var target = $(this.hash)
-	    var headerHeight = 0;
-	    headerHeight = navShow ? headerHeight : $(".fixed-top").height() + 20; // Get fixed header height
+    function getAnchorOffset() {
+	var heroHeight = $('.page-hero').outerHeight() || 0;
+	var navHeight = 0;
 
-	    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	// On desktop, #sideNav is a fixed left sidebar, so it does not take vertical space.
+	// On tablet/phone, #sideNav is a fixed top navbar.
+	if ($(window).width() < 992) {
+	    navHeight = $('#sideNav').outerHeight() || $('.fixed-top').outerHeight() || 0;
+	}
 
-	    if (target.length)
-	    {
-		$('html,body').animate({
-		    scrollTop: target.offset().top - headerHeight
+	// Small buffer so the heading is not tight against the sticky hero.
+	return heroHeight + navHeight + 16;
+    }
+
+    $("a[href*=\\#]:not([href=\\#])").click(function(e) {
+	if (
+	    location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') &&
+	    location.hostname == this.hostname
+	) {
+	    var target = $(this.hash);
+	    target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+
+	    if (target.length) {
+		e.preventDefault();
+
+		$('html, body').animate({
+		    scrollTop: target.offset().top - getAnchorOffset()
 		}, 0);
+
+		// Update URL hash without causing the browser to jump again.
+		if (history.pushState) {
+		    history.pushState(null, null, this.hash);
+		} else {
+		    location.hash = this.hash;
+		}
+
 		return false;
 	    }
 	}
     });
+
+    // Also handle direct page load, e.g. keynotes.html#banks
+    $(window).on('load', function() {
+	if (window.location.hash) {
+	    var target = $(window.location.hash);
+
+	    if (target.length) {
+		setTimeout(function() {
+		    $('html, body').animate({
+			scrollTop: target.offset().top - getAnchorOffset()
+		    }, 0);
+		}, 100);
+	    }
+	}
+    });
 })(jQuery);
+
+
+// (function($) {
+//     $("a[href*=\\#]:not([href=\\#])").click(function() {
+// 	if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname)
+// 	{
+// 	    var navShow = $("#navbarSupportedContent").is(":visible");
+// 	    var target = $(this.hash)
+// 	    var headerHeight = 0;
+// 	    headerHeight = navShow ? headerHeight : $(".fixed-top").height() + 20; // Get fixed header height
+
+// 	    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+
+// 	    if (target.length)
+// 	    {
+// 		$('html,body').animate({
+// 		    scrollTop: target.offset().top - headerHeight
+// 		}, 0);
+// 		return false;
+// 	    }
+// 	}
+//     });
+// })(jQuery);
+
 
 // change the form upon ness member options
 $('input[name="ness"]').bind('change', function(event) {

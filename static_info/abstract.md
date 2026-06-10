@@ -21,12 +21,10 @@ title: Abstract Submssion
 
 Please use the following link to submit your title and abstract:
 
-<strong>Link will be available soon.</strong>
-
 <!--
+<strong>Link will be available soon.</strong>
+-->
 
 <p>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVAZWHwbM-e1kfFCdbyxpULx-RXv4CG-gG95S9EYYRIskpzQ/viewform?usp=dialog" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Abstract Submission</a>
 </p>
-
--->

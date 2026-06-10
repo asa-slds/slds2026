@@ -396,3 +396,140 @@ font.title {
 .session-table-scroll::-webkit-scrollbar-thumb:hover {
   background: #64748b;
 }
+
+/* ==========================================================
+   page hero and background overlay
+   ========================================================== */
+
+.page-hero {
+  height: 200px;
+
+  position: sticky;
+  top: 54px;
+  z-index: 900;
+
+  /* Break out of Bootstrap p-3 section padding */
+  margin: -5rem -1rem 2rem -1rem;
+
+  background-image: url("https://cache.marriott.com/content/dam/marriott-renditions/NYCBK/nycbk-view-0109-hor-clsc.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+
+  overflow: hidden;
+}
+
+.page-hero-home {
+  height: 300px;
+}
+
+.page-hero-overlay {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+
+  /* Match body text margin */
+  padding: 2rem 1rem;
+
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.page-title-text {
+  display: block;
+}
+
+.page-title,
+.page-title-main,
+.page-title-sub {
+  color: white;
+  margin: 0;
+}
+
+.page-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.page-title-main {
+  display: block;
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.page-title-sub {
+  display: block;
+  font-size: 2rem;
+  font-weight: 400;
+  margin-bottom: 0.4rem;
+}
+
+/* Desktop: sidebar is fixed on the left */
+@media (min-width: 992px) {
+  .page-hero {
+    top: 0;
+
+    /* Break out of Bootstrap p-lg-5 section padding */
+    margin: -3rem -3rem 2rem -3rem;
+  }
+
+  .page-hero-overlay {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
+/* Tablet: 768px–991px */
+@media (max-width: 991px) and (min-width: 768px) {
+  .page-hero {
+    height: 170px;
+    margin-bottom: 1.5rem;
+  }
+
+  .page-hero-home {
+    height: 260px;
+  }
+
+  .page-title {
+    font-size: 2.4rem;
+  }
+
+  .page-title-main {
+    font-size: 2.6rem;
+  }
+
+  .page-title-sub {
+    font-size: 1.7rem;
+  }
+}
+
+/* Phone: below 768px */
+@media (max-width: 767px) {
+  .page-hero {
+    height: 140px;
+    margin-bottom: 1rem;
+  }
+
+  .page-hero-home {
+    height: 220px;
+  }
+
+  .page-hero-overlay {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+  }
+
+  .page-title {
+    font-size: 1.6rem;
+  }
+
+  .page-title-main {
+    font-size: 2rem;
+  }
+
+  .page-title-sub {
+    font-size: 1.3rem;
+  }
+}
