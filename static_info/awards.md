@@ -67,7 +67,7 @@ Papers selected for this competition will **not duplicate those receiving awards
   - Appendices
 
 - There is no separate figure/table limit, as long as the total length does not exceed 25 pages.
-- Code Requirement: all relevant code should be submitted as separate files, or via a GitHub link included in the paper. 
+- Code requirement: All relevant code should be submitted as separate files, or via a GitHub link included in the paper. 
 - Code submitted as an appendix does not count toward the 25-page limit.
 
 ---

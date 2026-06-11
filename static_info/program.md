@@ -26,8 +26,8 @@ Please note that this page is intended only for looking up invited session IDs f
 <tr>
   <td><span class="session-id">02</span></td>
   <td><strong>Learning, Inference and Decision Making in Complex Structures</strong></td>
-  <td>Yanyuan Ma (Penn State university)</td>
-  <td>Tianying Wang (Colorado state university)</td>
+  <td>Yanyuan Ma (Penn State University)</td>
+  <td>Tianying Wang (Colorado State University)</td>
 </tr>
 <tr>
   <td><span class="session-id">03</span></td>
@@ -109,7 +109,7 @@ Please note that this page is intended only for looking up invited session IDs f
 </tr>
 <tr>
   <td><span class="session-id">16</span></td>
-  <td><strong>Causality and AI in Science.</strong></td>
+  <td><strong>Causality and AI in Science</strong></td>
   <td>Zhonghua Liu (Columbia University)</td>
   <td>Zhonghua Liu (Columbia University)</td>
 </tr>
@@ -506,8 +506,8 @@ Please note that this page is intended only for looking up invited session IDs f
 <tr>
   <td><span class="session-id">82</span></td>
   <td><strong>Artificial Intelligence in Rare Disease Therapeutics: Integrating Drug Repurposing, Hybrid Trial Design, and Real-World Evidence</strong></td>
-  <td>Bryan McComb (Pfizer, Inc)</td>
-  <td>Bryan McComb (Pfizer, Inc)</td>
+  <td>Bryan McComb (Pfizer, Inc.)</td>
+  <td>Bryan McComb (Pfizer, Inc.)</td>
 </tr>
 <tr>
   <td><span class="session-id">83</span></td>
