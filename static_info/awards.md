@@ -41,7 +41,7 @@ Papers selected for this competition will **not duplicate those receiving awards
   - The **top 3 graduate student papers** will automatically be selected as winners.
   - The **next 3 highest-ranked papers** (excluding the graduate winners) will also be selected.
     These may include **post-doc or graduate student submissions**.
-- **Award Winners** Will
+- **Award winners** will
   - Receive **travel funding** to attend the conference
   - Present their work in a **15-minute paper award session**
 

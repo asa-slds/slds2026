@@ -21,7 +21,7 @@ Professor of the Practice of Statistics, Duke University</h4>
 <h4>Keynote Presentation: The Future of Statistics</h4>
 
 
-**Abstract **
+**Abstract: **
 The ground is changing under our feet. Our publication processes are
 antique. AI will affect our work in many ways, some of which are more
 predictable than others. Our educational curricula should be
@@ -113,8 +113,8 @@ Head of Machine Learning Strategy, Bloomberg</h4>
 <h4>Keynote Presentation: Bond Price Nowcasting: Some Assembly Required</h4>
 
 
-**Abstract: ** TBA
-This presentation will be co-delivered with Dr. Camilo Ortiz.
+**Abstract: ** 
+TBA. This presentation will be co-delivered with Dr. Camilo Ortiz.
 
 <div class="bio-block">
 ![](photos/Rosenberg_David.jpg){.imgfloat}

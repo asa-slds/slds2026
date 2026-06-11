@@ -4,6 +4,8 @@ title: Program
 
 <h4>Invited Sessions</h4>
 
+Please note that this page is intended only for looking up invited session IDs for abstract submission. The sessions are not listed in conference schedule order.
+
 <div class="table-responsive session-table-scroll">
 <table id="invited-session-table" class="table table-bordered table-sm table-hover">
 <thead class="thead-light">
@@ -102,7 +104,7 @@ title: Program
 <tr>
   <td><span class="session-id">15</span></td>
   <td><strong>Distribution-Free Statistical Inference for AI</strong></td>
-  <td>Vladimir Svetnik (Merck &amp; Co)</td>
+  <td>Vladimir Svetnik (Merck &amp; Co.)</td>
   <td>Matteo Sesia (University of Southern California)</td>
 </tr>
 <tr>
@@ -480,8 +482,8 @@ title: Program
 <tr>
   <td><span class="session-id">78</span></td>
   <td><strong>AI-Augmented Design and Analysis in Clinical Trials and Scientific Research: Methods, Applications, and Responsible Implementation</strong></td>
-  <td>Qiqi Deng (Moderna Inc)</td>
-  <td>Qiqi Deng (Moderna Inc)</td>
+  <td>Qiqi Deng (Moderna Inc.)</td>
+  <td>Qiqi Deng (Moderna Inc.)</td>
 </tr>
 <tr>
   <td><span class="session-id">79</span></td>
