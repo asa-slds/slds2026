@@ -401,6 +401,7 @@ font.title {
    page hero and background overlay
    ========================================================== */
 
+
 .page-hero {
   height: 200px;
 
@@ -411,9 +412,16 @@ font.title {
   /* Break out of Bootstrap p-3 section padding */
   margin: -5rem -1rem 2rem -1rem;
 
-  background-image: url("https://cache.marriott.com/content/dam/marriott-renditions/NYCBK/nycbk-view-0109-hor-clsc.jpg");
-  background-size: cover;
-  background-position: center center;
+  background-image:
+      /* linear-gradient( */
+      /* 	  rgba(8, 42, 86, 0.08), */
+      /* 	  rgba(8, 42, 86, 0.04) */
+      /* ), */
+      url("../photos/brooklyn_bridge.png");
+  
+  /* background-image: url("https://cache.marriott.com/content/dam/marriott-renditions/NYCBK/nycbk-view-0109-hor-clsc.jpg"); */
+  background-size: cover;  
+  background-position: center 45%;
   background-repeat: no-repeat;
 
   overflow: hidden;
@@ -433,7 +441,7 @@ font.title {
   /* Match body text margin */
   padding: 2rem 1rem;
 
-  background: rgba(0, 0, 0, 0.45);
+  background: rgba(0, 0, 0, 0.35);
 }
 
 .page-title-text {
@@ -445,6 +453,9 @@ font.title {
 .page-title-sub {
   color: white;
   margin: 0;
+  text-shadow:
+      0 2px 6px rgba(0, 0, 0, 0.75),
+      0 0 14px rgba(0, 0, 0, 0.45);
 }
 
 .page-title {
