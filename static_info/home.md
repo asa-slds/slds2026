@@ -28,7 +28,7 @@ The main goal of the conference is to bring together researchers in statistical
 machine learning and artificial intelligence from academia, industry, and 
 government in a relaxed and stimulating atmosphere to focus on the development 
 of statistical learning theory, methods and applications. In
-particluar, SLDS 2026 aims to:
+particular, SLDS 2026 aims to:
 
 + Disseminate recent advances at the intersection of statistics, machine learning, and AI, with particular
 emphasis on principled inference for modern data and intelligent systems.
