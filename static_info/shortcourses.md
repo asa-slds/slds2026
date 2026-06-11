@@ -29,7 +29,7 @@ We introduce <a href="https://www.pnas.org/doi/10.1073/pnas.1901326117" target="
 
 We then cover 2 software packages and best practices for implementing PCS principles in practice. We start with <a href="https://github.com/Yu-Group/veridical-flow" target="_blank" rel="noopener noreferrer">vflow</a>, a python package that makes it easy to implement and evaluate the effect of judgment calls on a data-science pipeline. We demonstrate its usage on popular real-world datasets from the BLADE benchmark. Then, we will introduce <a href="https://www.tandfonline.com/doi/pdf/10.1080/10618600.2025.2561905" target="_blank" rel="noopener noreferrer">MERITS</a> that a veridical simulation study should satisfy. We accompany this with <a href="https://yu-group.github.io/simChef/" target="_blank" rel="noopener noreferrer">simChef</a>, an R package for cooking up reproducible, high-quality simulations in a flexible, efficient, and low-code manner.
 
-<h5>Instructor: Bin Yu, Tiffany Tang, and Chandan Singh</h5>
+<h5>Instructors: Bin Yu, Tiffany Tang, and Chandan Singh</h5>
 
 <div class="bio-block">
 ![](photos/Yu_Bin.jpg){.imgfloat}
@@ -61,7 +61,7 @@ She is a member of the National Academy of Sciences and of the American Academy 
 In this workshop, we present methods to define and estimate the causal effects of categorical, continuous, and multivariate exposures. The methods are based on a generalization of the static and dynamic interventions that may be familiar to some of you. This generalization has been recently called modified treatment policies (MTPs). MTPs are hypothetical interventions where the post-intervention exposure is defined as a modification of the natural value of the exposure that can also depend on the unit’s history. This short course will introduce the lmtp R package for estimating the causal effects of these general estimand in both point-treatment and longitudinal studies. We will discuss identification of MTPs, estimation with a targeted minimum-loss based estimator and a sequentially doubly-robust estimator, and provide guidance on estimator choice and software usage.	
 
 
-<h5>Instructor: Iván Díaz, Kara Rudolf, and Nick Williams</h5>
+<h5>Instructors: Iván Díaz, Kara Rudolf, and Nick Williams</h5>
 
 <div class="bio-block">
 ![](https://idiaz.xyz/assets/profile.jpg){.imgfloat}
@@ -127,7 +127,7 @@ This short course provides a timely introduction to diffusion models and present
 
 Basic linear algebra and basic probability.
 
-<h5>Instructor: Yuxin Chen and Yuting Wei</h5>
+<h5>Instructors: Yuxin Chen and Yuting Wei</h5>
 
 <div class="bio-block">
 ![](https://faculty.wharton.upenn.edu/wp-content/uploads/2022/01/Yuxin_Chen_3781_1142-129x139.jpg){.imgfloat}
@@ -171,7 +171,7 @@ Optimization lies at the heart of modern data science, offering scalable solutio
 
 This short course is designed for researchers in statistics and data analysis who are eager to explore the latest trends in deep learning and apply these methods to solve complex statistical problems. The course focus on cutting-edge topics in the deep learning community, including transformers, diffusion models, reinforcement leanring and large language models. In this one-day short course participants will gain hands-on experience in exploring and applying deep learning methodologies to tackle various statistical challenges. Basic knowledge of Python programming will be helpful but not necessary.
 
-<h5>Instructor: Hongtu Zhu, Xiao Wang, and Runpeng Dai</h5>
+<h5>Instructors: Hongtu Zhu, Xiao Wang, and Runpeng Dai</h5>
 
 <div class="bio-block">
 ![](https://sph.unc.edu/wp-content/uploads/sites/112/2023/04/zhu-hongtu-2023.jpg){.imgfloat}

@@ -214,7 +214,7 @@ Professor of Statistics at Columbia University. She obtained her
 Ph.D. from Columbia in 2002. In her research, she develops novel
 methods for exploring and understanding patterns in complex data from
 different application domains such as biology, psychology,
-climatology, and etc. Her current projects are in the fields of
+climatology, etc. Her current projects are in the fields of
 statistical machine learning, spatiotemporal modeling, and social
 network analysis, collaborating with ecologists and earth
 scientists. Professor Zheng’s research has been recognized by the 2008
@@ -233,7 +233,7 @@ science, the Collaboratory program for interdisciplinary data science
 curriculum development, a number of popular Data Science boot
 camps. She created DSI’s working group on Data Science Education and
 has been coordinating data science education efforts across
-Columbia. Professor Zheng is the receipt of the 2017 Columbia’s
+Columbia. Professor Zheng is the recipient of the 2017 Columbia’s
 Presidential Award for Outstanding Teaching. In 2021, she was
 recognized by a Lenfest Distinguished Columbia Faculty Award that
 recognizes the excellence of faculty as teachers and mentors of both

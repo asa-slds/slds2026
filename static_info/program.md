@@ -24,7 +24,7 @@ title: Program
 <tr>
   <td><span class="session-id">02</span></td>
   <td><strong>Learning, Inference and Decision Making in Complex Structures</strong></td>
-  <td>Yanyuan Ma (penn state university)</td>
+  <td>Yanyuan Ma (Penn State university)</td>
   <td>Tianying Wang (Colorado state university)</td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ title: Program
 <tr>
   <td><span class="session-id">15</span></td>
   <td><strong>Distribution-Free Statistical Inference for AI</strong></td>
-  <td>Vladimir Svenik (Merck &amp; Co)</td>
+  <td>Vladimir Svetnik (Merck &amp; Co)</td>
   <td>Matteo Sesia (University of Southern California)</td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ title: Program
   <td><span class="session-id">17</span></td>
   <td><strong>Causal and Statistical Methods for Genomic Data</strong></td>
   <td>Zhonghua Liu (Columbia University)</td>
-  <td>Zhonghua Liu (Columbia Universtiy)</td>
+  <td>Zhonghua Liu (Columbia University)</td>
 </tr>
 <tr>
   <td><span class="session-id">18</span></td>
@@ -235,7 +235,7 @@ title: Program
   <td><span class="session-id">37</span></td>
   <td><strong>Valid Uncertainty Quantification in Modern Statistical Learning</strong></td>
   <td>Yuan Zhang (Ohio State University)</td>
-  <td>Yuan Zhang (Ohio State uNiversity)</td>
+  <td>Yuan Zhang (Ohio State University)</td>
 </tr>
 <tr>
   <td><span class="session-id">38</span></td>

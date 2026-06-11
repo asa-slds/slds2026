@@ -97,7 +97,7 @@ Please <a  href="#" data-toggle="collapse" data-target="#regfees">click here</a>
 
 <h5 class="mt-4">Conference Add-ons</strong></h5>
 
-<p>Add-on price of $80: value of $130 plus tax and service fees; space is limited on a first-come-first-serve basis.</p>
+<p>Add-on price of $80: value of $130 plus tax and service fees; space is limited on a first-come, first-serve basis.</p>
 
 <table class="table table-bordered">
 <thead>

@@ -1,5 +1,5 @@
 ---
-title: Abstract Submssion
+title: Abstract Submission
 ---
 
 <h4>Instructions</h4>

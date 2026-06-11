@@ -67,12 +67,11 @@ Papers selected for this competition will **not duplicate those receiving awards
   - Appendices
 
 - There is no separate figure/table limit, as long as the total length does not exceed 25 pages.
-- There is no separate figure/table limit, as long as the total length does not exceed 25 
-- Code RequirementAll relevant code should be submitted as separate files, or via a GitHub link included in the paper. 
-  Code submitted as an appendix does not count toward the 25-page limit.
+- Code Requirement: all relevant code should be submitted as separate files, or via a GitHub link included in the paper. 
+- Code submitted as an appendix does not count toward the 25-page limit.
 
 ---
 
 #### Submission
 
-Please email your submission to: Dr. Nathaniel O’Connell at **Nathaniel[dot]Oconnell[alt]wfusm[dot]edu**
+Please email your submission to: Dr. Nathaniel O’Connell at **Nathaniel[dot]Oconnell[at]wfusm[dot]edu**
