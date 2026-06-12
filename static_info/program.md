@@ -459,7 +459,7 @@ Please note that this page is intended only for looking up invited session IDs f
   <td><span class="session-id">74</span></td>
   <td><strong>Enhanced Causal Inference and Clinical Trials with AI/ML</strong></td>
   <td>Muxuan Liang (The University of Texas MD Anderson Cancer Center)</td>
-  <td>Wodan Lin (Weill Cornell Medicine)</td>
+  <td>Wodan Ling (Weill Cornell Medicine)</td>
 </tr>
 <tr>
   <td><span class="session-id">75</span></td>
