@@ -134,8 +134,8 @@ Please note that this page is intended only for looking up invited session IDs f
 <tr>
   <td><span class="session-id">20</span></td>
   <td><strong>Reliable Discovery in Complex Data: Advances in High-Dimensional and Interpretable Clustering</strong></td>
-  <td>Ardavan Yazdanbakhsh (Department of Civil Engineering, City College of New York)</td>
-  <td>Ardavan Yazdanbakhsh (Department of Civil Engineering, City College of New York)</td>
+  <td>Ardavan Yazdanbakhsh (City College of New York)</td>
+  <td>Ardavan Yazdanbakhsh (City College of New York)</td>
 </tr>
 <tr>
   <td><span class="session-id">21</span></td>
