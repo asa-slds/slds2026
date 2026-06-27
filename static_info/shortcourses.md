@@ -6,11 +6,11 @@ title: Short Courses
 
 * <a href="#yu">SC01: Veridical Data Science in the Age of AI</a>
 * <a href="#diaz">SC02: Beyond the ATE</a>
-* <a href="#feng">SC03: Statistical Foundations of Transfer Learning</a>
+* <a href="#chen">SC03: Statistical and Algorithmic Foundations of Diffusion Models</a>
 
 <h4>November 2, 2026, 1:30 pm - 5:00 pm:</h4>
 
-* <a href="#chen">SC04: Statistical and Algorithmic Foundations of Diffusion Models</a>
+* <a href="#feng">SC04: Statistical Foundations of Transfer Learning</a>
 * <a href="#michailidis">SC05: Optimization for Statistics</a>
 * <a href="#zhu">SC06: Deep Learning Methods in Advanced Statistical Problems</a>
 
@@ -82,6 +82,37 @@ In this workshop, we present methods to define and estimate the causal effects o
 
 ------
 
+
+<div class="row-fluid">
+
+<h4 id="chen">Statistical and Algorithmic Foundations of Diffusion Models</h4>
+
+<h5>Course Description:</h5>
+
+Diffusion generative models have emerged as a cornerstone of modern generative AI, delivering state-of-the-art performance across a wide range of data generation tasks. At their core, diffusion models seek to gradually transform pure noise into new data samples that emulate a target data distribution, accomplished by learning to reverse a forward stochastic process that progressively converts data into Gaussian noise. Despite their empirical successes, the statistical and algorithmic foundations of diffusion models remain far from mature. This lack of fundamental understanding limits their broader adoption, especially in applications that demand interpretability and reproducibility.
+ 
+This short course provides a timely introduction to diffusion models and presents recent progress toward understanding their striking effectiveness, with an emphasis on core principles and statistical insights. We will examine the fundamental mechanisms of score-based diffusion models; characterize the statistical limits of learning score functions; analyze the convergence behavior of diffusion-based samplers; explore how these models adapt to unknown low-dimensional data structures; discuss conditional generation via diffusion guidance; and highlight ideas for accelerating inference through higher-order approximations. Throughout this short course, we will connect theoretical advances to practical applications, illustrating how fundamental insights can inform effective algorithm design.
+
+<h5>Prerequisites:</h5>
+
+Basic linear algebra and basic probability.
+
+<h5>Instructors: Yuxin Chen and Yuting Wei</h5>
+
+<div class="bio-block">
+![](https://faculty.wharton.upenn.edu/wp-content/uploads/2022/01/Yuxin_Chen_3781_1142-129x139.jpg){.imgfloat}
+<a href="https://statistics.wharton.upenn.edu/profile/yuxinc/" target="_blank" rel="noopener noreferrer"><strong>Yuxin Chen</strong></a> is a Professor of Statistics and Data Science at the University of Pennsylvania. Before joining UPenn, he was an assistant professor of electrical and computer engineering at Princeton University. He completed his Ph.D. in Electrical Engineering at Stanford University and was also a postdoc scholar at Stanford Statistics. His current research interests include high-dimensional statistics, diffusion models, reinforcement learning, and optimization. He has received the Alfred P. Sloan Research Fellowship, the Leo Breiman junior award, the SIAM Activity Group on Imaging Science Best Paper Prize, the ICCM Best Paper Award (gold medal), and was selected as a finalist for the Best Paper Prize for Young Researchers in Continuous Optimization. He has also received the Princeton Graduate Mentoring Award.
+</div>
+
+<div class="bio-block">
+![](https://faculty.wharton.upenn.edu/wp-content/uploads/2016/11/Yuting-Photo-129x139.jpeg){.imgfloat}
+<a href="https://statistics.wharton.upenn.edu/profile/ytwei/" target="_blank" rel="noopener noreferrer"><strong>Yuting Wei</strong></a> is an Associate Professor in the Department of Statistics and Data Science at the Wharton School of the University of Pennsylvania. Prior to joining Penn in 2021, she spent two years as an Assistant Professor at Carnegie Mellon University and one year at Stanford University as a Stein Fellow. She received her Ph.D. in Statistics from the University of California, Berkeley. Dr. Wei is a recipient of the 2025 Gottfried E. Noether Early Career Scholar Award, the Google Research Scholar Award, the NSF CAREER Award, and the Erich L. Lehmann Citation from the Berkeley Statistics Department. Her research interests lie in learning from high-dimensional and structured data, and advancing the theoretical foundations of reinforcement learning and diffusion models.
+</div>
+
+</div>
+
+------
+
 <div class="row-fluid">
 
 <h4 id="feng">Statistical Foundations of Transfer Learning</h4>
@@ -113,35 +144,6 @@ Currently, Dr. Feng serves as the Review Editor for the Journal of the American 
 
 ------
 
-<div class="row-fluid">
-
-<h4 id="chen">Statistical and Algorithmic Foundations of Diffusion Models</h4>
-
-<h5>Course Description:</h5>
-
-Diffusion generative models have emerged as a cornerstone of modern generative AI, delivering state-of-the-art performance across a wide range of data generation tasks. At their core, diffusion models seek to gradually transform pure noise into new data samples that emulate a target data distribution, accomplished by learning to reverse a forward stochastic process that progressively converts data into Gaussian noise. Despite their empirical successes, the statistical and algorithmic foundations of diffusion models remain far from mature. This lack of fundamental understanding limits their broader adoption, especially in applications that demand interpretability and reproducibility.
- 
-This short course provides a timely introduction to diffusion models and presents recent progress toward understanding their striking effectiveness, with an emphasis on core principles and statistical insights. We will examine the fundamental mechanisms of score-based diffusion models; characterize the statistical limits of learning score functions; analyze the convergence behavior of diffusion-based samplers; explore how these models adapt to unknown low-dimensional data structures; discuss conditional generation via diffusion guidance; and highlight ideas for accelerating inference through higher-order approximations. Throughout this short course, we will connect theoretical advances to practical applications, illustrating how fundamental insights can inform effective algorithm design.
-
-<h5>Prerequisites:</h5>
-
-Basic linear algebra and basic probability.
-
-<h5>Instructors: Yuxin Chen and Yuting Wei</h5>
-
-<div class="bio-block">
-![](https://faculty.wharton.upenn.edu/wp-content/uploads/2022/01/Yuxin_Chen_3781_1142-129x139.jpg){.imgfloat}
-<a href="https://statistics.wharton.upenn.edu/profile/yuxinc/" target="_blank" rel="noopener noreferrer"><strong>Yuxin Chen</strong></a> is a Professor of Statistics and Data Science at the University of Pennsylvania. Before joining UPenn, he was an assistant professor of electrical and computer engineering at Princeton University. He completed his Ph.D. in Electrical Engineering at Stanford University and was also a postdoc scholar at Stanford Statistics. His current research interests include high-dimensional statistics, diffusion models, reinforcement learning, and optimization. He has received the Alfred P. Sloan Research Fellowship, the Leo Breiman junior award, the SIAM Activity Group on Imaging Science Best Paper Prize, the ICCM Best Paper Award (gold medal), and was selected as a finalist for the Best Paper Prize for Young Researchers in Continuous Optimization. He has also received the Princeton Graduate Mentoring Award.
-</div>
-
-<div class="bio-block">
-![](https://faculty.wharton.upenn.edu/wp-content/uploads/2016/11/Yuting-Photo-129x139.jpeg){.imgfloat}
-<a href="https://statistics.wharton.upenn.edu/profile/ytwei/" target="_blank" rel="noopener noreferrer"><strong>Yuting Wei</strong></a> is an Associate Professor in the Department of Statistics and Data Science at the Wharton School of the University of Pennsylvania. Prior to joining Penn in 2021, she spent two years as an Assistant Professor at Carnegie Mellon University and one year at Stanford University as a Stein Fellow. She received her Ph.D. in Statistics from the University of California, Berkeley. Dr. Wei is a recipient of the 2025 Gottfried E. Noether Early Career Scholar Award, the Google Research Scholar Award, the NSF CAREER Award, and the Erich L. Lehmann Citation from the Berkeley Statistics Department. Her research interests lie in learning from high-dimensional and structured data, and advancing the theoretical foundations of reinforcement learning and diffusion models.
-</div>
-
-</div>
-
-------
 
 <div class="row-fluid">
 
