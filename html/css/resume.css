@@ -342,7 +342,7 @@ font.title {
 
 
 /* ==========================================================
-   program and inivted sessions
+   program and invited sessions
    ========================================================== */
 
 .session-id {
@@ -395,6 +395,72 @@ font.title {
 
 .session-table-scroll::-webkit-scrollbar-thumb:hover {
   background: #64748b;
+}
+
+
+/* Responsive parallel-session tables */
+.invited-session-schedule {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.invited-session-schedule th,
+.invited-session-schedule td {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  vertical-align: top;
+}
+
+/* Keep room/session badges from breaking */
+.invited-session-schedule .session-id {
+  white-space: nowrap;
+}
+
+/* On small screens, allow horizontal scrolling instead of text spilling */
+@media (max-width: 768px) {
+  .invited-session-schedule {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    table-layout: auto !important;
+  }
+
+  .invited-session-schedule th,
+  .invited-session-schedule td {
+    min-width: 110px;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  .invited-session-schedule th:nth-child(1),
+  .invited-session-schedule td:nth-child(1) {
+    min-width: 70px;
+  }
+
+  .invited-session-schedule th:nth-child(2),
+  .invited-session-schedule td:nth-child(2) {
+    min-width: 90px;
+  }
+
+  .invited-session-schedule th:nth-child(3),
+  .invited-session-schedule td:nth-child(3) {
+    min-width: 260px;
+  }
+
+  .invited-session-schedule th:nth-child(4),
+  .invited-session-schedule td:nth-child(4) {
+    min-width: 180px;
+  }
+
+  .invited-session-schedule th:nth-child(5),
+  .invited-session-schedule td:nth-child(5),
+  .invited-session-schedule th:nth-child(6),
+  .invited-session-schedule td:nth-child(6) {
+    min-width: 220px;
+  }
 }
 
 /* ==========================================================
