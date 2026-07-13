@@ -32,10 +32,10 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">2</span></td>
-  <td style="text-align:center;"><span class="session-id">107</span></td>
-  <td><strong>Next-Generation Decision Intelligence: From Underwriting and Uplift Modeling to LLM-Driven Statistical Experiment Lifecycle Automation and Clinical Assessment</strong></td>
-  <td>Jieying Jiao (New York Life)</td>
-  <td>Jieying Jiao (New York Life)</td>
+  <td style="text-align:center;"><span class="session-id">86</span></td>
+  <td><strong>Machine Learning for Causal Inference and Econometrics</strong></td>
+  <td>Lihua Lei (Stanford University)</td>
+  <td>Lihua Lei (Stanford University)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">3</span></td>
@@ -46,10 +46,10 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">4</span></td>
-  <td style="text-align:center;"><span class="session-id">45</span></td>
-  <td><strong>Statistical Learning and Network Analysis for Complex Biological Data</strong></td>
-  <td>Quefeng Li (UNC Chapel Hill)</td>
-  <td>Quefeng Li (UNC Chapel Hill)</td>
+  <td style="text-align:center;"><span class="session-id">28</span></td>
+  <td><strong>Recent Advancement in Network Analysis</strong></td>
+  <td>Tracy Ke (Harvard University)</td>
+  <td>Tracy Ke (Harvard University)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">5</span></td>
@@ -95,17 +95,17 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">11</span></td>
-  <td style="text-align:center;"><span class="session-id">13</span></td>
-  <td><strong>Navigating the AI Transformation in Biostatistics: Opportunities, Methods, and Evolving Practice</strong></td>
-  <td>Wen Li (Pfizer)</td>
-  <td>Wen Li (Pfizer)</td>
+  <td style="text-align:center;"><span class="session-id">70</span></td>
+  <td><strong>Statistical Analysis of LLM and Representation Learning</strong></td>
+  <td>Yang Ning (Cornell University)</td>
+  <td>Yang Ning (Cornell University)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">12</span></td>
-  <td style="text-align:center;"><span class="session-id">37</span></td>
-  <td><strong>Valid Uncertainty Quantification in Modern Statistical Learning</strong></td>
-  <td>Yuan Zhang (Ohio State University)</td>
-  <td>Yuan Zhang (Ohio State University)</td>
+  <td style="text-align:center;"><span class="session-id">52</span></td>
+  <td><strong>New Statistical Insights on Learning and Selection</strong></td>
+  <td>Rong Ma (Harvard University)</td>
+  <td>Rong Ma (Harvard University)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">13</span></td>
@@ -144,17 +144,17 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">2</span></td>
-  <td style="text-align:center;"><span class="session-id">91</span></td>
-  <td><strong>AI Foundations: Statistical Principles for Modern Learning and Large-Scale Models</strong></td>
-  <td>Xiwei Tang (University of Texas at Dallas)</td>
-  <td>Xiwei Tang (University of Texas at Dallas)</td>
+  <td style="text-align:center;"><span class="session-id">63</span></td>
+  <td><strong>Statistical Foundations of Modern Generative and Decision Models</strong></td>
+  <td>Grace Yi (University of Western Ontario)</td>
+  <td>Grace Yi (University of Western Ontario)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">3</span></td>
-  <td style="text-align:center;"><span class="session-id">18</span></td>
-  <td><strong>Causal and Machine Learning Methods in Health Research</strong></td>
-  <td>Zhonghua Liu (Columbia University)</td>
-  <td>Kan Chen (Columbia University)</td>
+  <td style="text-align:center;"><span class="session-id">64</span></td>
+  <td><strong>Emerging Advances in Analysis of Complex Data</strong></td>
+  <td>Wenqing He (University of Western Ontario)</td>
+  <td>Wenqing He (University of Western Ontario)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">4</span></td>
@@ -172,17 +172,17 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">6</span></td>
-  <td style="text-align:center;"><span class="session-id">34</span></td>
-  <td><strong>Statistical Inference under Data Perturbation, Structure, and Heterogeneity</strong></td>
-  <td>Elynn Chen (New York University)</td>
-  <td>Elynn Chen (New York University)</td>
+  <td style="text-align:center;"><span class="session-id">14</span></td>
+  <td><strong>Reliable Modeling and Prediction in Complex Data Analysis</strong></td>
+  <td>Boxiang Wang (University of Iowa)</td>
+  <td>Boxiang Wang (University of Iowa)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">7</span></td>
-  <td style="text-align:center;"><span class="session-id">51</span></td>
-  <td><strong>Advances in Random Matrix Theory and Its Statistical Applications</strong></td>
-  <td>Rong Ma (Harvard University)</td>
-  <td>Rong Ma (Harvard University)</td>
+  <td style="text-align:center;"><span class="session-id">62</span></td>
+  <td><strong>Structure Learning and Inference in High-Dimensional Dynamic Systems</strong></td>
+  <td>Mladen Kolar (USC &amp; MBZUAI)</td>
+  <td>Paromita Dubey (USC)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">8</span></td>
@@ -242,10 +242,10 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">3</span></td>
-  <td style="text-align:center;"><span class="session-id">104</span></td>
-  <td><strong>AI-Driven Clinical Intelligence: Integrating Generative Models, Predictive Analytics &amp; Clinical Decision Making</strong></td>
-  <td>Xing Chen (Moderna)</td>
-  <td>QiQi Deng (Moderna)</td>
+  <td style="text-align:center;"><span class="session-id">48</span></td>
+  <td><strong>Integrative Statistical Learning for Complex Biomedical Data</strong></td>
+  <td>Guanqun Cao (Michigan State University)</td>
+  <td>Guanqun Cao (Michigan State University)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">4</span></td>
@@ -263,17 +263,17 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">6</span></td>
-  <td style="text-align:center;"><span class="session-id">62</span></td>
-  <td><strong>Structure Learning and Inference in High-Dimensional Dynamic Systems</strong></td>
-  <td>Mladen Kolar (USC &amp; MBZUAI)</td>
-  <td>Paromita Dubey (USC)</td>
+  <td style="text-align:center;"><span class="session-id">51</span></td>
+  <td><strong>Advances in Random Matrix Theory and Its Statistical Applications</strong></td>
+  <td>Rong Ma (Harvard University)</td>
+  <td>Rong Ma (Harvard University)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">7</span></td>
-  <td style="text-align:center;"><span class="session-id">14</span></td>
-  <td><strong>Reliable Modeling and Prediction in Complex Data Analysis</strong></td>
-  <td>Boxiang Wang (University of Iowa)</td>
-  <td>Boxiang Wang (University of Iowa)</td>
+  <td style="text-align:center;"><span class="session-id">34</span></td>
+  <td><strong>Statistical Inference under Data Perturbation, Structure, and Heterogeneity</strong></td>
+  <td>Elynn Chen (New York University)</td>
+  <td>Elynn Chen (New York University)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">8</span></td>
@@ -537,10 +537,10 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">3</span></td>
-  <td style="text-align:center;"><span class="session-id">63</span></td>
-  <td><strong>Statistical Foundations of Modern Generative and Decision Models</strong></td>
-  <td>Grace Yi (University of Western Ontario)</td>
-  <td>Grace Yi (University of Western Ontario)</td>
+  <td style="text-align:center;"><span class="session-id">72</span></td>
+  <td><strong>Methods and Theory for Machine Learning: Estimation and Prediction</strong></td>
+  <td>Yang Ning (Cornell University)</td>
+  <td>Yang Ning (Cornell University)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">4</span></td>
@@ -579,10 +579,17 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">9</span></td>
-  <td style="text-align:center;"><span class="session-id">41</span></td>
-  <td><strong>Innovative Methods in Statistics and Data Science in Aging</strong></td>
-  <td>Jaime Lynn Speiser (Wake Forest University School of Medicine)</td>
-  <td>Jaime Lynn Speiser (Wake Forest University School of Medicine)</td>
+  <td style="text-align:center;"><span class="session-id">47</span></td>
+  <td><strong>High-Dimensional Data in Neuroimaging and AI</strong></td>
+  <td>Guanqun Cao (Michigan State University)</td>
+  <td>Todd Ogden (Columbia University)</td>
+</tr>
+<tr>
+  <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">10</span></td>
+  <td style="text-align:center;"><span class="session-id"></span></td>
+  <td><strong>Student Award Session</strong></td>
+  <td></td>
+  <td></td>
 </tr>
 </tbody>
 </table>
@@ -608,17 +615,17 @@ title: Parallel Sessions
 </thead><tbody>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">1</span></td>
-  <td style="text-align:center;"><span class="session-id">52</span></td>
-  <td><strong>New Statistical Insights on Learning and Selection</strong></td>
-  <td>Rong Ma (Harvard University)</td>
-  <td>Rong Ma (Harvard University)</td>
+  <td style="text-align:center;"><span class="session-id">37</span></td>
+  <td><strong>Valid Uncertainty Quantification in Modern Statistical Learning</strong></td>
+  <td>Yuan Zhang (Ohio State University)</td>
+  <td>Yuan Zhang (Ohio State University)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">2</span></td>
-  <td style="text-align:center;"><span class="session-id">86</span></td>
-  <td><strong>Machine Learning for Causal Inference and Econometrics</strong></td>
-  <td>Lihua Lei (Stanford University)</td>
-  <td>Lihua Lei (Stanford University)</td>
+  <td style="text-align:center;"><span class="session-id">107</span></td>
+  <td><strong>Next-Generation Decision Intelligence: From Underwriting and Uplift Modeling to LLM-Driven Statistical Experiment Lifecycle Automation and Clinical Assessment</strong></td>
+  <td>Jieying Jiao (New York Life)</td>
+  <td>Jieying Jiao (New York Life)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">3</span></td>
@@ -734,24 +741,24 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">2</span></td>
-  <td style="text-align:center;"><span class="session-id">47</span></td>
-  <td><strong>High-Dimensional Data in Neuroimaging and AI</strong></td>
-  <td>Guanqun Cao (Michigan State University)</td>
-  <td>Todd Ogden (Columbia University)</td>
+  <td style="text-align:center;"><span class="session-id">41</span></td>
+  <td><strong>Innovative Methods in Statistics and Data Science in Aging</strong></td>
+  <td>Jaime Lynn Speiser (Wake Forest University School of Medicine)</td>
+  <td>Jaime Lynn Speiser (Wake Forest University School of Medicine)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">3</span></td>
-  <td style="text-align:center;"><span class="session-id">28</span></td>
-  <td><strong>Recent Advancement in Network Analysis</strong></td>
-  <td>Tracy Ke (Harvard University)</td>
-  <td>Tracy Ke (Harvard University)</td>
+  <td style="text-align:center;"><span class="session-id">45</span></td>
+  <td><strong>Statistical Learning and Network Analysis for Complex Biological Data</strong></td>
+  <td>Quefeng Li (UNC Chapel Hill)</td>
+  <td>Quefeng Li (UNC Chapel Hill)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">4</span></td>
-  <td style="text-align:center;"><span class="session-id">87</span></td>
-  <td><strong>Human-AI Collaboration</strong></td>
-  <td>Lihua Lei (Stanford University)</td>
-  <td>Lihua Lei (Stanford University)</td>
+  <td style="text-align:center;"><span class="session-id">98</span></td>
+  <td><strong>Robustness Bayesian Methods with Machine Learning Applications</strong></td>
+  <td>Jami Mulgrave (NC State University)</td>
+  <td>Jami Mulgrave (NC State University)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">5</span></td>
@@ -762,10 +769,10 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">6</span></td>
-  <td style="text-align:center;"><span class="session-id">64</span></td>
-  <td><strong>Emerging Advances in Analysis of Complex Data</strong></td>
-  <td>Wenqing He (University of Western Ontario)</td>
-  <td>Wenqing He (University of Western Ontario)</td>
+  <td style="text-align:center;"><span class="session-id">18</span></td>
+  <td><strong>Causal and Machine Learning Methods in Health Research</strong></td>
+  <td>Zhonghua Liu (Columbia University)</td>
+  <td>Kan Chen (Columbia University)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">7</span></td>
@@ -860,10 +867,10 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">3</span></td>
-  <td style="text-align:center;"><span class="session-id">98</span></td>
-  <td><strong>Robustness Bayesian Methods with Machine Learning Applications</strong></td>
-  <td>Jami Mulgrave (NC State University)</td>
-  <td>Jami Mulgrave (NC State University)</td>
+  <td style="text-align:center;"><span class="session-id">87</span></td>
+  <td><strong>Human-AI Collaboration</strong></td>
+  <td>Lihua Lei (Stanford University)</td>
+  <td>Lihua Lei (Stanford University)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">4</span></td>
@@ -881,10 +888,10 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">6</span></td>
-  <td style="text-align:center;"><span class="session-id">48</span></td>
-  <td><strong>Integrative Statistical Learning for Complex Biomedical Data</strong></td>
-  <td>Guanqun Cao (Michigan State University)</td>
-  <td>Guanqun Cao (Michigan State University)</td>
+  <td style="text-align:center;"><span class="session-id">104</span></td>
+  <td><strong>AI-Driven Clinical Intelligence: Integrating Generative Models, Predictive Analytics &amp; Clinical Decision Making</strong></td>
+  <td>Xing Chen (Moderna)</td>
+  <td>QiQi Deng (Moderna)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">7</span></td>
@@ -895,10 +902,10 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">8</span></td>
-  <td style="text-align:center;"><span class="session-id">70</span></td>
-  <td><strong>Statistical Analysis of LLM and Representation Learning</strong></td>
-  <td>Yang Ning (Cornell University)</td>
-  <td>Yang Ning (Cornell University)</td>
+  <td style="text-align:center;"><span class="session-id">13</span></td>
+  <td><strong>Navigating the AI Transformation in Biostatistics: Opportunities, Methods, and Evolving Practice</strong></td>
+  <td>Wen Li (Pfizer)</td>
+  <td>Wen Li (Pfizer)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">9</span></td>
@@ -923,10 +930,10 @@ title: Parallel Sessions
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">12</span></td>
-  <td style="text-align:center;"><span class="session-id">72</span></td>
-  <td><strong>Methods and Theory for Machine Learning: Estimation and Prediction</strong></td>
-  <td>Yang Ning (Cornell University)</td>
-  <td>Yang Ning (Cornell University)</td>
+  <td style="text-align:center;"><span class="session-id">91</span></td>
+  <td><strong>AI Foundations: Statistical Principles for Modern Learning and Large-Scale Models</strong></td>
+  <td>Xiwei Tang (University of Texas at Dallas)</td>
+  <td>Xiwei Tang (University of Texas at Dallas)</td>
 </tr>
 <tr>
   <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">13</span></td>
