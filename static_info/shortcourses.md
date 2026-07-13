@@ -4,15 +4,15 @@ title: Short Courses
 
 <h4>November 1, 2026, 1:30 pm - 5:00 pm:</h4>
 
-* <a href="#yu">SC01: Veridical Data Science in the Age of AI</a>
-* <a href="#diaz">SC02: Beyond the ATE</a>
-* <a href="#chen">SC03: Statistical and Algorithmic Foundations of Diffusion Models</a>
+* <a href="#yu">SC01: Veridical Data Science in the Age of AI</a> (Room 11)
+* <a href="#diaz">SC02: Beyond the ATE</a> (Room 12)
+* <a href="#chen">SC03: Statistical and Algorithmic Foundations of Diffusion Models</a> (Room 13)
 
 <h4>November 2, 2026, 1:30 pm - 5:00 pm:</h4>
 
-* <a href="#feng">SC04: Statistical Foundations of Transfer Learning</a>
-* <a href="#michailidis">SC05: Optimization for Statistics</a>
-* <a href="#zhu">SC06: Deep Learning Methods in Advanced Statistical Problems</a>
+* <a href="#feng">SC04: Statistical Foundations of Transfer Learning</a> (Room 12)
+* <a href="#michailidis">SC05: Optimization for Statistics</a> (Room 13)
+* <a href="#zhu">SC06: Deep Learning Methods in Advanced Statistical Problems</a> (Room 11)
 
 ------
 
