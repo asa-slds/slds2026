@@ -69,7 +69,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
       <li>Location: All</li>
     </ul>
   </li>
-  <li>5:30 pm&ndash;6:30 pm: <a href="keynotes.html">Keynote 2</a>
+  <li>5:30 pm&ndash;6:30 pm: <a href="keynotes.html#tian">Keynote 2: Tian Zheng, Statisticians in AI Education</a>
     <ul>
       <li>Location: ABCD / Plenary</li>
     </ul>
@@ -89,7 +89,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
       <li>Location: All</li>
     </ul>
   </li>
-  <li>9:00 am&ndash;10:00 am: <a href="keynotes.html">Keynote 3</a>
+  <li>9:00 am&ndash;10:00 am: <a href="keynotes.html#foster">Keynote 3: Dean Foster, Statistics and LLMs</a>
     <ul>
       <li>Location: ABCD / Plenary</li>
     </ul>
@@ -132,7 +132,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
       <li>Location: Rooms 1&ndash;9; Student Award Session in Room 10</li>
     </ul>
   </li>
-  <li>6:00 pm&ndash;8:30 pm: <a href="keynotes.html">Banquet and Keynote</a>
+  <li>6:00 pm&ndash;8:30 pm: <a href="keynotes.html#banks">Banquet and Keynote: David Banks, The Future of Statistics</a>
     <ul>
       <li>Location: ABCD / Plenary</li>
     </ul>
@@ -142,7 +142,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
 <h4 id="agenda-day-3" class="mt-4">Tuesday, November 3, 2026</h4>
 
 <ul>
-  <li>9:00 am&ndash;10:00 am: <a href="keynotes.html">Keynote 4</a>
+  <li>9:00 am&ndash;10:00 am: <a href="keynotes.html#rosenberg">Keynote 4: David Rosenberg (with co-presenter Camilo Ortiz), Bond Price Nowcasting: Some Assembly Required</a>
     <ul>
       <li>Location: ABCD / Plenary</li>
     </ul>
