@@ -82,7 +82,13 @@ title: Sponsors
 			</a>
 		</div>
 		<div class="col-md-4 col-sm-6 col-10 text-center">
-		</div>	
+			<a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/" target="_blank" ref="noopener noreferrer">
+			<img class="img-fluid"
+				style="max-height:290px; width:75%;"
+				src="photos/BBGEngineering_black.pdf" 
+				alt="BBG Engineering">
+			</a>
+		</div>
 	</div>
 
 
