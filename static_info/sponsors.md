@@ -24,6 +24,13 @@ title: Sponsors
 		
 		</div>
 		<div class="col-md-4 col-sm-6 col-10 text-center">
+			<a href="https://www.nsf.gov" target="_blank" rel="noopener noreferrer">
+			<img class="img-fluid" 
+				style="max-height:290px; width:45%;" 
+				src="photos/NSF_Official_logo.png"
+				alt="NSF">
+			</a>
+		
 		</div>
 	</div>
     
