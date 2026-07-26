@@ -49,7 +49,4 @@ spatiotemporal modeling and their applications in the health, social and
 engineering sciences, and signal and image processing.
 
 
-This conference is mainly sponsored by the ASA Section on Statistical Learning and 
-Data Science. See our [Sponsors page](sponsors.html) for a full list
-of our sponsors. 
-
+This conference is primarily sponsored by the ASA Section on Statistical Learning and Data Science and New York University, with additional support from the U.S. National Science Foundation. See our [Sponsors page](sponsors.html) for a full list of our sponsors and supporters.
