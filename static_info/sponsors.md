@@ -3,9 +3,33 @@ title: Sponsors
 ---
 
 ```{=html}
+<h3 style="text-align:center; font-size:150%; padding-top:10px; padding-bottom:20px">Supporters</h3>
+	<div class="row justify-content-center">
+		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
+			<a href="https://www.nsf.gov" target="_blank" rel="noopener noreferrer">
+			<img class="img-fluid" 
+				style="max-height:290px; width:55%;" 
+				src="photos/NSF_Official_logo.png"
+				alt="NSF">
+			</a>		
+		</div>
+		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
+			<a href="https://publichealth.nyu.edu/" target="_blank" rel="noopener noreferrer">
+			<img class="img-fluid" 
+				style="max-height:290px; width:100%;" 
+				src="photos/gph_short_color.png" 
+				alt="NYU School of Global Public Health">
+			</a>
+		</div>
+
+		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
+		</div>
+	</div>
+    
+    <hr />
 <h3 style="text-align:center; font-size:150%; padding-top:10px; padding-bottom:20px">Gold Sponsors</h3>
 	<div class="row justify-content-center">
-		<div class="col-md-4 col-sm-6 col-10 text-center">
+		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
 			<a href="https://www.eastriver.tech" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
 				style="max-height:290px; width:100%;" 
@@ -14,7 +38,7 @@ title: Sponsors
 			</a>
 		</div>
 		
-		<div class="col-md-4 col-sm-6 col-10 text-center">
+		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
 			<a href="https://www.mbzuai.ac.ae" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
 				style="max-height:290px; width:100%;" 
@@ -23,14 +47,7 @@ title: Sponsors
 			</a>
 		
 		</div>
-		<div class="col-md-4 col-sm-6 col-10 text-center">
-			<a href="https://www.nsf.gov" target="_blank" rel="noopener noreferrer">
-			<img class="img-fluid" 
-				style="max-height:290px; width:45%;" 
-				src="photos/NSF_Official_logo.png"
-				alt="NSF">
-			</a>
-		
+		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
 		</div>
 	</div>
     
@@ -38,7 +55,7 @@ title: Sponsors
 
 <h3 style="text-align:center; font-size:150%; padding-top:10px; padding-bottom:20px">Silver Sponsors</h3>
 	<div class="row justify-content-center mb-2">
-		<div class="col-md-4 col-sm-6 col-10 text-center">
+		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
 			<a href="https://stat.columbia.edu" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
 				style="max-height:290px; width:75%;" 
@@ -57,7 +74,7 @@ title: Sponsors
 		
 		</div>
 
-		<div class="col-md-4 col-sm-6 col-10 text-center">
+		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
 			<a href="https://www.cmu.edu/dietrich/statistics-datascience/index.html" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
 				style="max-height:290px; width:75%;" 
@@ -80,7 +97,7 @@ title: Sponsors
 			</a>
 		</div>
 		
-		<div class="col-md-4 col-sm-6 col-10 text-center">
+		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
 			<a href="https://masters.datascience.uconn.edu" target="_blank" ref="noopener noreferrer">
 			<img class="img-fluid"
 				style="max-height:290px; width:75%;"
@@ -88,7 +105,7 @@ title: Sponsors
 				alt="UConn Data Science">
 			</a>
 		</div>
-		<div class="col-md-4 col-sm-6 col-10 text-center">
+		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
 			<a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/" target="_blank" ref="noopener noreferrer">
 			<img class="img-fluid"
 				style="max-height:290px; width:75%;"
@@ -104,7 +121,7 @@ title: Sponsors
 <h3 style="text-align:center; font-size:150%; padding-top:10px; padding-bottom:20px">Bronze Sponsors</h3>
 
 	<div class="row justify-content-center">
-		<div class="col-md-4 col-sm-6 col-10 text-center">
+		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
 			<a href="https://school.wakehealth.edu/departments/biostatistics-and-data-science" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
 				style="max-height:290px; width:65%;" 
@@ -122,7 +139,7 @@ title: Sponsors
 			</a>
 		</div>
 
-		<div class="col-md-4 col-sm-6 col-10 text-center">
+		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
 			<a href="https://statistics.wharton.upenn.edu" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
 				style="max-height:290px; width:50%;" 
