@@ -668,8 +668,8 @@ title: Parallel Sessions
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">9</span></td>
   <td style="text-align:center;"><span class="session-id">105</span></td>
-  <td><strong>Statistical Learning for Dynamical Systems and Scientific Applications</strong></td>
-  <td>Shihao Yang (Georgia Institute of Technology)</td>
+  <td><strong>AI Safety and Evaluation</strong></td>
+  <td>Bin Yu (University of California, Berkeley) and Shihao Yang (Georgia Institute of Technology)</td>
   <td>Shihao Yang (Georgia Institute of Technology)</td>
 </tr>
 <tr>
