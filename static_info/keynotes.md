@@ -71,9 +71,19 @@ forensics, and certain topics in high-dimensional data analysis.
 
 <h4 class="mb-0" id="foster"><a href="https://deanfoster.net/" target="_blank" rel="noopener noreferrer">Dean Foster</a>,
 Senior Principal Research Scientist, Amazon</h4>
-<h4>Keynote Presentation: Statistics and LLMs</h4>
+<h4>Keynote Presentation: Even LLMs Can Be Calibrated</h4>
 
-**Abstract: ** TBA
+**Abstract: ** 
+LLMs are notorious for hallucinating. While much work is being done to
+help mitigate this, we can provide help as statisticians by answering
+simple questions, like, "How often will they hallucinate?" But can we
+get the LLMs to make these accurately make these statements for us?
+This is where calibrated forecasting enters. Since the statements an
+LLM will be making in no sense are from a simple IID model, and in
+fact even stationarity is suspect, we want a robust definition of
+accuracy. I'll discuss the concept of calibration (which is an
+extreme form of robust unbiasedness) and how it helps LLMs understand
+what they know and don't know.
 
 <div class="bio-block">
 ![](photos/Foster_Dean.jpg){.imgfloat}
