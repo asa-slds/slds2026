@@ -18,7 +18,7 @@ Students and postdoctoral researchers are eligible to apply. Postdoctoral resear
 
 #### Support Information
 
-Travel support is subject to the availability of funds and will provide reimbursement for eligible travel expenses associated with attending SLDS 2026. The maximum reimbursement amount is:
+Travel support will provide reimbursement for eligible travel expenses associated with attending SLDS 2026. The maximum reimbursement amount is:
 
 - Up to **$250** for local students and postdoctoral researchers.
 - Up to **$500** for non-local students and postdoctoral researchers.
@@ -38,7 +38,8 @@ For the purpose of travel support, local applicants are defined as those whose i
 
 #### Selection Criteria
 
-Travel support will be awarded on a **first-come, first-served basis**, subject to available funding. Priority will be given to applicants who contribute to the scientific program through **oral or poster presentations**.
+Subject to available funding, priority will be given to applicants contributing to the scientific program through an **oral or poster presentation**. Within this priority group, travel support will be awarded 
+on a **first-come, first-served** basis.
 
 ---
 
@@ -49,7 +50,7 @@ Please submit the following information:
 - Name and affiliation.
 - Current status (student or postdoctoral researcher). A verification letter from the advisor, supervisor, or department/institution confirming the applicant's current status is required.
 - Type of presentation at SLDS 2026 (oral presentation or poster presentation), if applicable.
-- Estimated travel expenses requested for reimbursement.
+- Estimated registration and travel expenses requested for reimbursement, up to the maximum allowed amount.
 
 
 Please use the following link to submit your application:
