@@ -89,7 +89,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
       <li>Location: All</li>
     </ul>
   </li>
-  <li>9:00 am&ndash;10:00 am: <a href="keynotes.html#foster">Keynote 3: Dean Foster, Statistics and LLMs</a>
+  <li>9:00 am&ndash;10:00 am: <a href="keynotes.html#foster">Keynote 3: Dean Foster, Even LLMs Can Be Calibrated</a>
     <ul>
       <li>Location: ABCD / Plenary</li>
     </ul>
