@@ -32,10 +32,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">2</span></td>
-  <td style="text-align:center;"><span class="session-id">86</span></td>
-  <td><strong>Machine Learning for Causal Inference and Econometrics</strong></td>
-  <td>Lihua Lei (Stanford University)</td>
-  <td>Lihua Lei (Stanford University)</td>
+  <td style="text-align:center;"><span class="session-id">68</span></td>
+  <td><strong>Causal Intelligence: Modern Perspectives at the Intersection of Statistical Inference and AI</strong></td>
+  <td>Honglang Wang (Indiana University Indianapolis)</td>
+  <td>Kun Zhang (Carnegie Mellon University)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">3</span></td>
@@ -325,10 +325,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">2</span></td>
-  <td style="text-align:center;"><span class="session-id">68</span></td>
-  <td><strong>Causal Intelligence: Modern Perspectives at the Intersection of Statistical Inference and AI</strong></td>
-  <td>Honglang Wang (Indiana University Indianapolis)</td>
-  <td>Kun Zhang (Carnegie Mellon University)</td>
+  <td style="text-align:center;"><span class="session-id">86</span></td>
+  <td><strong>Machine Learning for Causal Inference and Econometrics</strong></td>
+  <td>Lihua Lei (Stanford University)</td>
+  <td>Lihua Lei (Stanford University)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">3</span></td>
@@ -339,10 +339,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">4</span></td>
-  <td style="text-align:center;"><span class="session-id">58</span></td>
-  <td><strong>Advances in Methodology and Theory for Network Analysis</strong></td>
-  <td>Jingming Wang (University of Virginia)</td>
-  <td>Jingming Wang (University of Virginia)</td>
+  <td style="text-align:center;"><span class="session-id">56</span></td>
+  <td><strong>Novel Network Models and Model Selection</strong></td>
+  <td>Keith Levin (University of Wisconsin-Madison)</td>
+  <td>Keith Levin (University of Wisconsin-Madison)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">5</span></td>
@@ -540,10 +540,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">4</span></td>
-  <td style="text-align:center;"><span class="session-id">10</span></td>
-  <td><strong>Statistical Advances in the Analysis of Embeddings, Networks, and Graphs</strong></td>
-  <td>Joshua Cape (University of Wisconsin-Madison)</td>
-  <td>Joshua Cape (University of Wisconsin-Madison)</td>
+  <td style="text-align:center;"><span class="session-id">55</span></td>
+  <td><strong>Statistical-Computational Gaps in Network and Tensor Data</strong></td>
+  <td>Keith Levin (University of Wisconsin-Madison)</td>
+  <td>Keith Levin (University of Wisconsin-Madison)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">5</span></td>
@@ -580,13 +580,23 @@ title: Parallel Sessions
   <td>Guanqun Cao (Michigan State University)</td>
   <td>Todd Ogden (Columbia University)</td>
 </tr>
+
+
 <tr>
-<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">10</span></td>
-  <td style="text-align:center;"><span class="session-id"></span></td>
-  <td><strong>Student Award Session</strong></td>
-  <td></td>
-  <td></td>
+<td style="white-space:nowrap; text-align:center;">
+<span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">
+10
+</span>
+</td>
+<td style="text-align:center;">
+<span class="session-id"></span>
+</td>
+<td><strong>Student Award Session</strong></td>
+<td></td>
+<td></td>
 </tr>
+
+
 </tbody>
 </table>
 
@@ -667,10 +677,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">9</span></td>
-  <td style="text-align:center;"><span class="session-id">105</span></td>
-  <td><strong>AI Safety and Evaluation</strong></td>
-  <td>Bin Yu (University of California, Berkeley) and Shihao Yang (Georgia Institute of Technology)</td>
-  <td>Shihao Yang (Georgia Institute of Technology)</td>
+  <td style="text-align:center;"><span class="session-id">36</span></td>
+  <td><strong>Network Interference, Spillover and Temporal Effects</strong></td>
+  <td>Keith Levin (University of Wisconsin-Madison)</td>
+  <td>Keith Levin (University of Wisconsin-Madison)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">10</span></td>
@@ -757,10 +767,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">5</span></td>
-  <td style="text-align:center;"><span class="session-id">102</span></td>
-  <td><strong>Making Sense of Multivariate Data</strong></td>
-  <td>Maryclare Griffin (University of Massachusetts Amherst)</td>
-  <td>Nathan Wycoff (University of Massachusetts Amherst)</td>
+  <td style="text-align:center;"><span class="session-id">76</span></td>
+  <td><strong>Improving Inference in Nonparametric Models</strong></td>
+  <td>Ted Westling (University of Massachusetts Amherst)</td>
+  <td>Ted Westling (University of Massachusetts Amherst)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">6</span></td>
@@ -806,10 +816,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">12</span></td>
-  <td style="text-align:center;"><span class="session-id">36</span></td>
-  <td><strong>Network Interference, Spillover and Temporal Effects</strong></td>
-  <td>Keith Levin (University of Wisconsin-Madison)</td>
-  <td>Keith Levin (University of Wisconsin-Madison)</td>
+  <td style="text-align:center;"><span class="session-id">105</span></td>
+  <td><strong>AI Safety and Evaluation</strong></td>
+  <td>Bin Yu (University of California, Berkeley) and Shihao Yang (Georgia Institute of Technology)</td>
+  <td>Shihao Yang (Georgia Institute of Technology)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">13</span></td>
@@ -854,10 +864,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">2</span></td>
-  <td style="text-align:center;"><span class="session-id">55</span></td>
-  <td><strong>Statistical-Computational Gaps in Network and Tensor Data</strong></td>
-  <td>Keith Levin (University of Wisconsin-Madison)</td>
-  <td>Keith Levin (University of Wisconsin-Madison)</td>
+  <td style="text-align:center;"><span class="session-id">10</span></td>
+  <td><strong>Statistical Advances in the Analysis of Embeddings, Networks, and Graphs</strong></td>
+  <td>Joshua Cape (University of Wisconsin-Madison)</td>
+  <td>Joshua Cape (University of Wisconsin-Madison)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">3</span></td>
@@ -875,10 +885,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">5</span></td>
-  <td style="text-align:center;"><span class="session-id">76</span></td>
-  <td><strong>Improving Inference in Nonparametric Models</strong></td>
-  <td>Ted Westling (University of Massachusetts Amherst)</td>
-  <td>Ted Westling (University of Massachusetts Amherst)</td>
+  <td style="text-align:center;"><span class="session-id">102</span></td>
+  <td><strong>Making Sense of Multivariate Data</strong></td>
+  <td>Maryclare Griffin (University of Massachusetts Amherst)</td>
+  <td>Nathan Wycoff (University of Massachusetts Amherst)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">6</span></td>
@@ -889,10 +899,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">7</span></td>
-  <td style="text-align:center;"><span class="session-id">56</span></td>
-  <td><strong>Novel Network Models and Model Selection</strong></td>
-  <td>Keith Levin (University of Wisconsin-Madison)</td>
-  <td>Keith Levin (University of Wisconsin-Madison)</td>
+  <td style="text-align:center;"><span class="session-id">58</span></td>
+  <td><strong>Advances in Methodology and Theory for Network Analysis</strong></td>
+  <td>Jingming Wang (University of Virginia)</td>
+  <td>Jingming Wang (University of Virginia)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">8</span></td>
