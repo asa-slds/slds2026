@@ -12,7 +12,7 @@ title-home: true
 
 + <span>**Monday, June 1, 2026:** registration opens.</span>
 + <span>**Monday, August 31, 2026:** early registration ends.</span>
-+ <span>**Wednesday, September 30, 2026:** abstract submission deadline.</span>
++ <span>**Wednesday, September 30, 2026:** abstract submission (and **invited speaker registration**) deadline.</span>
 + <span>**Monday, October 12, 2026:** cancellation cut-off / housing deadline.</span>
 + <span>**Sunday, October 25, 2026:** online registration closes.</span>
   
