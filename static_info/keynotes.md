@@ -6,7 +6,7 @@ title: Keynote Sessions
 
 * <a href="#banks">David Banks</a>
 * <a href="#foster">Dean Foster</a>
-* <a href="#rosenberg">David Rosenberg</a>
+* <a href="#rosenberg">David Rosenberg / Camilo Ortiz</a>
 * <a href="#yu">Bin Yu</a>
 * <a href="#tian">Tian Zheng</a>
 
@@ -120,27 +120,23 @@ proving and software reasoning.
 
 <h4 class="mb-0" id="rosenberg"><a href="https://www.linkedin.com/in/dr-david-rosenberg/" target="_blank" rel="noopener noreferrer">David Rosenberg</a>,
 Head of Machine Learning Strategy, Bloomberg</h4>
-<h4>Keynote Presentation: Bond Price Nowcasting: Some Assembly Required</h4>
+<h4 class="mb-0"><a href="https://www.camiloortiz.com" target="_blank" rel="noopener no referrer">Camilo Ortiz</a>,Head of AI Finance Engineering, Bloomberg</h4>
+<h4>Keynote Presentation: Bond Price Nowcasting: A Statistical Learning Problem Without a Natural Home</h4>
 
 
 **Abstract: ** 
-TBA. This presentation will be co-delivered with Dr. Camilo Ortiz.
+Bond price nowcasting is easy to state: estimate the current price of a bond from noisy, irregularly-timed observations. But this problem does not fit neatly into any single statistical learning formulation, as bonds trade at frequencies that vary by orders of magnitude, observations are sparse and asynchronous, and reliable estimates for illiquid bonds require borrowing strength across a large and heterogeneous market.
+
+In this talk, we use bond price nowcasting at Bloomberg as a case study in applied statistical learning, drawing on several years of work spanning state-space models and Kalman filtering, matrix factorization, gradient boosting, Gaussian processes, learned representations, neural models, and more recent work with time series foundation models and agentic systems. Rather than viewing these simply as competing algorithms, we examine them as different mechanisms for sharing information across time, bonds, observable characteristics, and learned notions of similarity. We close by considering where even these formulations leave important information on the table, particularly when effective pricing depends on richer metadata, expert-selected comparables, and domain knowledge, which are difficult to encode cleanly in a model.
 
 <div class="bio-block">
 ![](photos/Rosenberg_David.jpg){.imgfloat}
-David Rosenberg leads the Machine Learning Strategy team in the Office
-of the CTO at Bloomberg. He was a co-author of the BloombergGPT
-research paper, which explored building a large language model
-tailored to the financial domain. He was previously an adjunct
-associate professor at NYU’s Center for Data Science, where he twice
-received the “Professor of the Year” award. Before joining Bloomberg,
-David served as Chief Scientist at Sense Networks, a location data
-analytics and mobile advertising company, and he served as scientific
-adviser to Discovereads, a book recommendation company first acquired
-by Goodreads and later Amazon. He holds a Ph.D. in statistics from UC
-Berkeley, an S.M. in applied mathematics from Harvard University, and
-a B.S. in mathematics from Yale University. He is currently based in
-Toronto.
+David Rosenberg leads the Machine Learning Strategy team in the Office of the CTO at Bloomberg. He was a co-author of the BloombergGPT research paper, which explored what it would take to build a large language model tailored to the financial domain. He was previously an adjunct associate professor at NYU’s Center for Data Science, where he twice received the “Professor of the Year” award. Before joining Bloomberg, David served as Chief Scientist at Sense Networks, a location data analytics and mobile advertising company, and he served as scientific adviser to Discovereads, a book recommendation company first acquired by Goodreads and later Amazon. He holds a Ph.D. in statistics from UC Berkeley, an S.M. in applied mathematics from Harvard University, and a B.S. in mathematics from Yale University. He is currently based in Toronto.
+</div>
+
+<div class="bio-block">
+![](photos/Camilo_Ortiz.jpg){.imgfloat}
+Camilo Ortiz is Head of AI Finance Engineering at Bloomberg. In this role, he manages all pricing-related efforts in Bloomberg’s AI Engineering group. His team of machine learning and quant engineers applies AI-driven techniques to provide high quality prices on a large universe of bonds that perform well in the absence or presence of recent observations, liquidity, or volatility, projections of public company dividends, and greenhouse gas (GHG) emission estimates, as well as AI models related to other sustainable finance solutions. Since joining Bloomberg in 2014, Camilo has led several AI teams focused on Communications, News, Editorial, and AI Platforms. Camilo earned his Ph.D. working on large-scale convex optimization at Georgia Tech, which he attended as a Fulbright Science & Technology Awardee.
 </div>
 
 </div>
@@ -212,10 +208,15 @@ leading scientific institutes and journals.
 href="https://datascience.columbia.edu/people/tian-zheng/"
 class="text-decoration-none" target="_blank" rel="noopener noreferrer">Tian Zheng</a>,
 Professor of Statistics, Columbia University</h4>
-<h4>Keynote Presentation: Statisticians in AI Education</h4>
+<h4>Keynote Presentation: Statistical Thinking and AI Education</h4>
 
 **Abstract: **
-TBA.
+As AI becomes more common in education and practice, statistical thinking remains
+essential. In my talk, I will discuss the importance of core ideas such as uncertainty, model
+validation, and data interpretation in AI education across disciplines. Integrating these concepts
+helps students move beyond using tools to understanding how and why models work. This
+approach supports more reliable, transparent, and responsible use of AI, and highlights the role
+of statisticians in shaping effective AI education.
 
 <div class="bio-block">
 ![](photos/Zheng_Tian.jpg){.imgfloat}
