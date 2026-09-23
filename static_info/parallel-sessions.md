@@ -204,6 +204,13 @@ title: Parallel Sessions
   <td>Yuanjia Wang (Columbia University)</td>
   <td>Yuan Bian (Columbia University)</td>
 </tr>
+<tr>
+<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">11</span></td>
+  <td style="text-align:center;"><span class="session-id">77</span></td>
+  <td><strong>Novel Methods in Learning Dependent and Dynamical Data</strong></td>
+  <td>Wen Zhou (New York University)</td>
+  <td>Wen Zhou (New York University)</td>
+</tr>
 </tbody>
 </table>
 <h4 id="parallel-session-3" style="margin:0;padding:0.9rem 1rem;color:#ffffff;background:linear-gradient(90deg,#0f766e,#2563eb);font-size:1.18rem;font-weight:700;letter-spacing:0.01em;border-radius:0.55rem 0.55rem 0 0;">Parallel Sessions 3: Sunday, November 1, 2026, 3:30 pm&ndash;5:00 pm</h4>
@@ -293,6 +300,13 @@ title: Parallel Sessions
   <td><strong>Large Language Models and Statistical Foundations</strong></td>
   <td>Yan Sun (New Jersey Institute of Technology)</td>
   <td>Yan Sun (New Jersey Institute of Technology)</td>
+</tr>
+<tr>
+<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">11</span></td>
+  <td style="text-align:center;"><span class="session-id">42</span></td>
+  <td><strong>Impactful Applications in Statistics and Data Science in Aging</strong></td>
+  <td>Jaime Lynn Speiser (Wake Forest University School of Medicine)</td>
+  <td>Panpan Zhang (Vanderbilt University Medical Center)</td>
 </tr>
 </tbody>
 </table>
@@ -497,6 +511,13 @@ title: Parallel Sessions
   <td>Yuan Zhang (yzhanghf@stat.osu.edu)</td>
   <td>Yuan Zhang (Ohio State University)</td>
 </tr>
+<tr>
+<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">11</span></td>
+  <td style="text-align:center;"><span class="session-id">58</span></td>
+  <td><strong>Advances in Methodology and Theory for Network Analysis</strong></td>
+  <td>Jingming Wang (University of Virginia)</td>
+  <td>Jingming Wang (University of Virginia)</td>
+</tr>
 </tbody>
 </table>
 <h4 id="parallel-session-6" style="margin:0;padding:0.9rem 1rem;color:#ffffff;background:linear-gradient(90deg,#0f766e,#2563eb);font-size:1.18rem;font-weight:700;letter-spacing:0.01em;border-radius:0.55rem 0.55rem 0 0;">Parallel Sessions 6: Monday, November 2, 2026, 3:30 pm&ndash;5:00 pm</h4>
@@ -580,13 +601,9 @@ title: Parallel Sessions
   <td>Guanqun Cao (Michigan State University)</td>
   <td>Todd Ogden (Columbia University)</td>
 </tr>
-
-
 <tr>
 <td style="white-space:nowrap; text-align:center;">
-<span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">
-10
-</span>
+<span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">10</span>
 </td>
 <td style="text-align:center;">
 <span class="session-id"></span>
@@ -595,8 +612,13 @@ title: Parallel Sessions
 <td></td>
 <td></td>
 </tr>
-
-
+<tr>
+<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">11</span></td>
+  <td style="text-align:center;"><span class="session-id">103</span></td>
+  <td><strong>Recent Methodological Advances in Causal Inference</strong></td>
+  <td>Caleb Miles (Columbia University)</td>
+  <td>Daniel Malinsky (Columbia University)</td>
+</tr>
 </tbody>
 </table>
 
@@ -710,13 +732,6 @@ title: Parallel Sessions
   <td>Caleb Miles (Columbia University)</td>
   <td>Oliver Hines (Columbia University)</td>
 </tr>
-<tr>
-<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">ABCD</span></td>
-  <td style="text-align:center;"><span class="session-id">77</span></td>
-  <td><strong>Novel Methods in Learning Dependent and Dynamical Data</strong></td>
-  <td>Wen Zhou (New York University)</td>
-  <td>Wen Zhou (New York University)</td>
-</tr>
 </tbody>
 </table>
 <h4 id="parallel-session-8" style="margin:0;padding:0.9rem 1rem;color:#ffffff;background:linear-gradient(90deg,#0f766e,#2563eb);font-size:1.18rem;font-weight:700;letter-spacing:0.01em;border-radius:0.55rem 0.55rem 0 0;">Parallel Sessions 8: Tuesday, November 3, 2026, 1:30 pm&ndash;3:00 pm</h4>
@@ -828,13 +843,6 @@ title: Parallel Sessions
   <td>Zachery Boner; Lesia Semenova (Duke University; Rutgers University)</td>
   <td>Jon Donnelly (Duke University)</td>
 </tr>
-<tr>
-<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">ABCD</span></td>
-  <td style="text-align:center;"><span class="session-id">103</span></td>
-  <td><strong>Recent Methodological Advances in Causal Inference</strong></td>
-  <td>Caleb Miles (Columbia University)</td>
-  <td>Daniel Malinsky (Columbia University)</td>
-</tr>
 </tbody>
 </table>
 <h4 id="parallel-session-9" style="margin:0;padding:0.9rem 1rem;color:#ffffff;background:linear-gradient(90deg,#0f766e,#2563eb);font-size:1.18rem;font-weight:700;letter-spacing:0.01em;border-radius:0.55rem 0.55rem 0 0;">Parallel Sessions 9: Tuesday, November 3, 2026, 3:30 pm&ndash;5:00 pm</h4>
@@ -899,59 +907,45 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">7</span></td>
-  <td style="text-align:center;"><span class="session-id">58</span></td>
-  <td><strong>Advances in Methodology and Theory for Network Analysis</strong></td>
-  <td>Jingming Wang (University of Virginia)</td>
-  <td>Jingming Wang (University of Virginia)</td>
-</tr>
-<tr>
-<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">8</span></td>
   <td style="text-align:center;"><span class="session-id">13</span></td>
   <td><strong>Navigating the AI Transformation in Biostatistics: Opportunities, Methods, and Evolving Practice</strong></td>
   <td>Wen Li (Pfizer)</td>
   <td>Wen Li (Pfizer)</td>
 </tr>
 <tr>
-<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">9</span></td>
+<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">8</span></td>
   <td style="text-align:center;"><span class="session-id">80</span></td>
   <td><strong>Spatial Causal Inference</strong></td>
   <td>Ted Westling (University of Massachusetts Amherst)</td>
   <td>Ted Westling (University of Massachusetts)</td>
 </tr>
 <tr>
-<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">10</span></td>
+<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">9</span></td>
   <td style="text-align:center;"><span class="session-id">99</span></td>
   <td><strong>Digital Twins and Synthetic Data for Clinical Research</strong></td>
   <td>Qilu Yu (NIH, National Center for Complementary and Integrative Health)</td>
   <td>Qilu Yu and Tae Hyun Jung (NIH NCCIH, FDA CDER)</td>
 </tr>
 <tr>
-<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">11</span></td>
+<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">10</span></td>
   <td style="text-align:center;"><span class="session-id">25</span></td>
   <td><strong>Statistical Machine Learning for Complex Data</strong></td>
   <td>Tianxi Li (University of Minnesota)</td>
   <td>Tianxi Li (University of Minnesota)</td>
 </tr>
 <tr>
-<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">12</span></td>
+<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">11</span></td>
   <td style="text-align:center;"><span class="session-id">40</span></td>
   <td><strong>Data Attribution in Statistical Science and AI</strong></td>
   <td>Weijing Tang (Carnegie Mellon University)</td>
   <td>Weijing Tang (Carnegie Mellon University)</td>
 </tr>
 <tr>
-<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">13</span></td>
+<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">12</span></td>
   <td style="text-align:center;"><span class="session-id">93</span></td>
   <td><strong>Causal Inference in Complex Real-World Data Applications</strong></td>
   <td>Caleb Miles (Columbia University)</td>
   <td>Taehyeon Koo (Columbia University)</td>
-</tr>
-<tr>
-<td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">ABCD</span></td>
-  <td style="text-align:center;"><span class="session-id">42</span></td>
-  <td><strong>Impactful Applications in Statistics and Data Science in Aging</strong></td>
-  <td>Jaime Lynn Speiser (Wake Forest University School of Medicine)</td>
-  <td>Panpan Zhang (Vanderbilt University Medical Center)</td>
 </tr>
 </tbody>
 </table>
