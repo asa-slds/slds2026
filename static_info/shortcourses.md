@@ -1,18 +1,18 @@
----
+--- 
 title: Short Courses
 ---
 
 <h4>November 1, 2026, 1:30 pm - 5:00 pm:</h4>
 
-* <a href="#yu">SC01: Veridical Data Science in the Age of AI</a> (Room 11)
-* <a href="#diaz">SC02: Beyond the ATE</a> (Room 12)
-* <a href="#chen">SC03: Statistical and Algorithmic Foundations of Diffusion Models</a> (Room 13)
+* <a href="#yu">SC01: Veridical Data Science in the Age of AI</a> (Room 12)
+* <a href="#diaz">SC02: Beyond the ATE</a> (Room 13)
+<!-- * <a href="#chen">SC04: Statistical and Algorithmic Foundations of Diffusion Models</a> (Room 13) -->
 
 <h4>November 2, 2026, 1:30 pm - 5:00 pm:</h4>
 
-* <a href="#feng">SC04: Statistical Foundations of Transfer Learning</a> (Room 12)
+* <a href="#feng">SC03: Statistical Foundations of Transfer Learning</a> (Room 12)
 * <a href="#michailidis">SC05: Optimization for Statistics</a> (Room 13)
-* <a href="#zhu">SC06: Deep Learning Methods in Advanced Statistical Problems</a> (Room 11)
+<!-- * <a href="#zhu">SC06: Deep Learning Methods in Advanced Statistical Problems</a> (Room 11) -->
 
 ------
 
@@ -33,7 +33,7 @@ We then cover 2 software packages and best practices for implementing PCS princi
 
 <div class="bio-block">
 ![](photos/Yu_Bin.jpg){.imgfloat}
-<a href="https://binyu.stat.berkeley.edu" target="_blank" rel="noopener noreferrer"><strong>Bin Yu</strong></a> is CDSS Chancellor's Distinguished Professor in Statistics, EECS, Center for Computational Biology, and Senior Advisor at the Simons Institute for the Theory of Computing, all at UC Berkeley. Her research focuses on the practice and theory of statistical machine learning, veridical data science, responsible and safe AI, and solving interdisciplinary data problems in neuroscience, genomics, and precision medicine. She and her team have developed algorithms such as iterative random forests (iRF), stability-driven NMF, adaptive wavelet distillation (AWD), Contextual Decomposition for Transformers (CD-T), SPEX and ProxySPEX for interpreting deep learning models, especially for compositional interpretability. 
+<a href="https://binyu.stat.berkeley.edu" target="_blank" rel="noopener noreferrer"><strong>Bin Yu</strong></a> is CDSS Chancellor's Distinguished Professor in Statistics, EECS, Center for Computational Biology, and Senior Advisor at the Simons Institute for the Theory of Computing, all at UC Berkeley. Her research focuses on the practice and theory of statistical machine learning, veridical data science, responsible and safe AI, and solving interdisciplinary data problems in neuroscience, genomics, and precision medicine. She and her team have developed algorithms such as iterative random forests (iRF), stability-driven NMF, adaptive wavelet distillation (AWD), Contextual Decomposition for Transformers (CD-T), SPEX and ProxySPEX for interpreting deep learning models, especially for compositional interpretability.
 
 She is a member of the National Academy of Sciences and of the American Academy of Arts and Sciences. She was a Guggenheim Fellow, President of Institute of Mathematical Statistics (IMS), and delivered the Tukey Lecture of the Bernoulli Society, the Breiman Lecture at NeurIPS, the IMS Rietz Lecture, and the Wald Memorial Lectures (the highest honor of IMS), and Distinguished Achievement Award and Lecture (formerly Fisher Lecture) of COPSS (Committee of Presidents of Statistical Societies). She holds an Honorary Doctorate from The University of Lausanne. She is on the Editorial Board of Proceedings of National Academy of Science (PNAS) and a co-editor of the Harvard Data Science Review (HDSR).
 </div>
@@ -58,7 +58,7 @@ She is a member of the National Academy of Sciences and of the American Academy 
 
 <h5>Course Description:</h5>
 
-In this workshop, we present methods to define and estimate the causal effects of categorical, continuous, and multivariate exposures. The methods are based on a generalization of the static and dynamic interventions that may be familiar to some of you. This generalization has been recently called modified treatment policies (MTPs). MTPs are hypothetical interventions where the post-intervention exposure is defined as a modification of the natural value of the exposure that can also depend on the unit’s history. This short course will introduce the lmtp R package for estimating the causal effects of these general estimands in both point-treatment and longitudinal studies. We will discuss identification of MTPs, estimation with a targeted minimum-loss based estimator and a sequentially doubly-robust estimator, and provide guidance on estimator choice and software usage.	
+In this workshop, we present methods to define and estimate the causal effects of categorical, continuous, and multivariate exposures. The methods are based on a generalization of the static and dynamic interventions that may be familiar to some of you. This generalization has been recently called modified treatment policies (MTPs). MTPs are hypothetical interventions where the post-intervention exposure is defined as a modification of the natural value of the exposure that can also depend on the unit’s history. This short course will introduce the lmtp R package for estimating the causal effects of these general estimands in both point-treatment and longitudinal studies. We will discuss identification of MTPs, estimation with a targeted minimum-loss based estimator and a sequentially doubly-robust estimator, and provide guidance on estimator choice and software usage.
 
 
 <h5>Instructors: Iván Díaz, Kara Rudolf, and Nick Williams</h5>
@@ -80,8 +80,9 @@ In this workshop, we present methods to define and estimate the causal effects o
 
 </div>
 
-------
+<!--
 
+------
 
 <div class="row-fluid">
 
@@ -110,6 +111,8 @@ Basic linear algebra and basic probability.
 </div>
 
 </div>
+
+-->
 
 ------
 
@@ -163,6 +166,8 @@ Optimization lies at the heart of modern data science, offering scalable solutio
 
 </div>
 
+<!--
+
 ------
 
 <div class="row-fluid">
@@ -191,3 +196,5 @@ This short course is designed for researchers in statistics and data analysis wh
 </div>
 
 </div>
+
+-->
