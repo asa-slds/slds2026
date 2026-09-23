@@ -43,15 +43,14 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>1:30 pm&ndash;3:00 pm: <a href="parallel-sessions.html#parallel-session-2">Parallel Sessions 2</a>
     <ul>
-      <li>Location: Rooms 1&ndash;10</li>
+      <li>Location: Rooms 1&ndash;11</li>
     </ul>
   </li>
   <li>1:30 pm&ndash;5:00 pm: <a href="shortcourses.html">Short Courses</a>
     <ul>
-      <li>Location: Rooms 11&ndash;13</li>
-      <li>Room 11: <a href="shortcourses.html#yu">SC01: Veridical Data Science in the Age of AI</a></li>
-      <li>Room 12: <a href="shortcourses.html#diaz">SC02: Beyond the ATE</a></li>
-      <li>Room 13: <a href="shortcourses.html#chen">SC03: Statistical and Algorithmic Foundations of Diffusion Models</a></li>
+      <li>Location: Rooms 12&ndash;13</li>
+      <li>Room 12: <a href="shortcourses.html#yu">SC01: Veridical Data Science in the Age of AI</a></li>
+      <li>Room 13: <a href="shortcourses.html#diaz">SC02: Beyond the ATE</a></li>
     </ul>
   </li>
   <li>3:00 pm&ndash;3:30 pm: Afternoon Break
@@ -61,7 +60,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>3:30 pm&ndash;5:00 pm: <a href="parallel-sessions.html#parallel-session-3">Parallel Sessions 3</a>
     <ul>
-      <li>Location: Rooms 1&ndash;10</li>
+      <li>Location: Rooms 1&ndash;11</li>
     </ul>
   </li>
   <li>5:00 pm&ndash;5:30 pm: Transition Break
@@ -111,14 +110,13 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>1:30 pm&ndash;3:00 pm: <a href="parallel-sessions.html#parallel-session-5">Parallel Sessions 5</a>
     <ul>
-      <li>Location: Rooms 1&ndash;10</li>
+      <li>Location: Rooms 1&ndash;11</li>
     </ul>
   </li>
   <li>1:30 pm&ndash;5:00 pm: <a href="shortcourses.html">Short Courses</a>
     <ul>
-      <li>Location: Rooms 11&ndash;13</li>
-      <li>Room 11: <a href="shortcourses.html#zhu">SC06: Deep Learning Methods in Advanced Statistical Problems</a></li>
-      <li>Room 12: <a href="shortcourses.html#feng">SC04: Statistical Foundations of Transfer Learning</a></li>
+      <li>Location: Rooms 12&ndash;13</li>
+      <li>Room 12: <a href="shortcourses.html#feng">SC03: Statistical Foundations of Transfer Learning</a></li>
       <li>Room 13: <a href="shortcourses.html#michailidis">SC05: Optimization for Statistics</a></li>
     </ul>
   </li>
@@ -129,7 +127,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>3:30 pm&ndash;5:00 pm: <a href="parallel-sessions.html#parallel-session-6">Parallel Sessions 6</a>
     <ul>
-      <li>Location: Rooms 1&ndash;9; Student Award Session in Room 10</li>
+      <li>Location: Rooms 1&ndash;9 and 11; Student Award Session in Room 10</li>
     </ul>
   </li>
   <li>6:00 pm&ndash;8:30 pm: <a href="keynotes.html#banks">Banquet and Keynote: David Banks, The Future of Statistics</a>
@@ -154,7 +152,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>10:30 am&ndash;12:00 pm: <a href="parallel-sessions.html#parallel-session-7">Parallel Sessions 7</a>
     <ul>
-      <li>Location: Rooms 1&ndash;13 and ABCD</li>
+      <li>Location: Rooms 1&ndash;13</li>
     </ul>
   </li>
   <li>12:00 pm&ndash;1:30 pm: Lunch Break
@@ -164,7 +162,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>1:30 pm&ndash;3:00 pm: <a href="parallel-sessions.html#parallel-session-8">Parallel Sessions 8</a>
     <ul>
-      <li>Location: Rooms 1&ndash;13 and ABCD</li>
+      <li>Location: Rooms 1&ndash;13</li>
     </ul>
   </li>
   <li>3:00 pm&ndash;3:30 pm: Afternoon Break
@@ -174,9 +172,10 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>3:30 pm&ndash;5:00 pm: <a href="parallel-sessions.html#parallel-session-9">Parallel Sessions 9</a>
     <ul>
-      <li>Location: Rooms 1&ndash;13 and ABCD</li>
+      <li>Location: Rooms 1&ndash;13</li>
     </ul>
   </li>
 </ul>
-
+<!--
 <p class="text-muted">Note: The agenda is tentative. Please check back for updates.</p>
+-->
