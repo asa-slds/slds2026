@@ -582,10 +582,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">7</span></td>
-  <td style="text-align:center;"><span class="session-id">100</span></td>
-  <td><strong>The Role of the Rashomon Effect in Responsible AI</strong></td>
-  <td>Chudi Zhong (University of North Carolina at Chapel Hill)</td>
-  <td>Srikar Katta (Duke University)</td>
+  <td style="text-align:center;"><span class="session-id">10</span></td>
+  <td><strong>Statistical Advances in the Analysis of Embeddings, Networks, and Graphs</strong></td>
+  <td>Joshua Cape (University of Wisconsin-Madison)</td>
+  <td>Joshua Cape (University of Wisconsin-Madison)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">8</span></td>
@@ -678,10 +678,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">6</span></td>
-  <td style="text-align:center;"><span class="session-id">05</span></td>
-  <td><strong>Statistical Learning in Complex System</strong></td>
-  <td>Zhezhen Jin (Columbia University)</td>
-  <td>Yushu Shi (Weill Cornell Medicine)</td>
+  <td style="text-align:center;"><span class="session-id">40</span></td>
+  <td><strong>Data Attribution in Statistical Science and AI</strong></td>
+  <td>Weijing Tang (Carnegie Mellon University)</td>
+  <td>Weijing Tang (Carnegie Mellon University)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">7</span></td>
@@ -872,10 +872,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">2</span></td>
-  <td style="text-align:center;"><span class="session-id">10</span></td>
-  <td><strong>Statistical Advances in the Analysis of Embeddings, Networks, and Graphs</strong></td>
-  <td>Joshua Cape (University of Wisconsin-Madison)</td>
-  <td>Joshua Cape (University of Wisconsin-Madison)</td>
+  <td style="text-align:center;"><span class="session-id">100</span></td>
+  <td><strong>The Role of the Rashomon Effect in Responsible AI</strong></td>
+  <td>Chudi Zhong (University of North Carolina at Chapel Hill)</td>
+  <td>Srikar Katta (Duke University)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">3</span></td>
@@ -935,10 +935,10 @@ title: Parallel Sessions
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">11</span></td>
-  <td style="text-align:center;"><span class="session-id">40</span></td>
-  <td><strong>Data Attribution in Statistical Science and AI</strong></td>
-  <td>Weijing Tang (Carnegie Mellon University)</td>
-  <td>Weijing Tang (Carnegie Mellon University)</td>
+  <td style="text-align:center;"><span class="session-id">05</span></td>
+  <td><strong>Statistical Learning in Complex System</strong></td>
+  <td>Zhezhen Jin (Columbia University)</td>
+  <td>Yushu Shi (Weill Cornell Medicine)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">12</span></td>
