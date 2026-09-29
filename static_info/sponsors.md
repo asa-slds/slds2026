@@ -109,7 +109,7 @@ title: Sponsors
 			<a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/" target="_blank" ref="noopener noreferrer">
 			<img class="img-fluid"
 				style="max-height:290px; width:75%;"
-				src="photos/BBGEngineering_black.pdf" 
+				src="photos/BBGEngineering_black.png" 
 				alt="BBG Engineering">
 			</a>
 		</div>
@@ -143,7 +143,7 @@ title: Sponsors
 			<a href="https://statistics.wharton.upenn.edu" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
 				style="max-height:290px; width:50%;" 
-				src="photos/StatisticsandDataScience_Color_Vert.pdf"
+				src="photos/StatisticsandDataScience_Color_Vert.png"
 				alt="Wharton Statistics and Data Science Department">
 			</a>
 		</div>		
