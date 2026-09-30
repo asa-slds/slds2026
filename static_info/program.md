@@ -116,7 +116,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   <li>1:30 pm&ndash;5:00 pm: <a href="shortcourses.html">Short Courses</a>
     <ul>
       <li>Location: Rooms 12&ndash;13</li>
-      <li>Room 12: <a href="shortcourses.html#feng">SC03: Statistical Foundations of Transfer Learning</a></li>
+      <li>Room 12: <a href="shortcourses.html#feng">SC04: Statistical Foundations of Transfer Learning</a></li>
       <li>Room 13: <a href="shortcourses.html#michailidis">SC05: Optimization for Statistics</a></li>
     </ul>
   </li>
