@@ -2,7 +2,7 @@
 title: Program
 ---
 
-<h3>Conference Agenda <span class="text-muted">(tentative)</span></h3>
+<h3>Conference Agenda</h3>
 
 <p>
 The agenda below is tentative and subject to change. Detailed invited-session room assignments are listed on the <a href="parallel-sessions.html">Parallel Sessions</a> page. Short-course descriptions and instructor information are listed on the <a href="shortcourses.html">Short Courses</a> page.

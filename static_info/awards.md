@@ -2,8 +2,7 @@
 title: Student, Post-doc, and Early Career Researcher Paper Awards
 ---
 
-**Submission Due Date:** Friday, May 1, 2026  
-**Award Notice:** August 15, 2026
+**Submissions are now closed.** Thank you to everyone who submitted a paper. The 2026 award winners will be announced soon.
 
 ---
 
@@ -70,8 +69,5 @@ Papers selected for this competition will **not duplicate those receiving awards
 - Code requirement: All relevant code should be submitted as separate files, or via a GitHub link included in the paper. 
 - Code submitted as an appendix does not count toward the 25-page limit.
 
----
 
-#### Submission
-
-Please email your submission to: Dr. Nathaniel O’Connell at **Nathaniel[dot]Oconnell[at]wfusm[dot]edu**
+<!-- Please email your submission to: Dr. Nathaniel O’Connell at **Nathaniel[dot]Oconnell[at]wfusm[dot]edu** -->
