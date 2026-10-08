@@ -8,6 +8,8 @@ The cancellation cut-off and housing deadline are both **October 12, 2026**.
 
 ASA SLDS members and ASA non-SLDS members receive discounted registration rates.
 
+The Sunday poster session and welcome reception are included with conference registration. The Monday banquet requires a separate $80 add-on registration, plus tax and service fees; space is limited.
+
 <h4 class="mt-4">Registration Link</h4>
 
 To register for the conference, please click the link below:

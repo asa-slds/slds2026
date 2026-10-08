@@ -73,9 +73,9 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
       <li>Location: ABCD / Plenary</li>
     </ul>
   </li>
-  <li>6:30 pm&ndash;8:00 pm: Poster Session
+  <li>6:30 pm&ndash;8:00 pm: Poster Session &amp; Welcome Reception
     <ul>
-      <li>Location: ABCD / Plenary</li>
+      <li>Location: Salon DE / Foyer DE</li>
     </ul>
   </li>
 </ul>
