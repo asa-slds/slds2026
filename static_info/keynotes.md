@@ -4,6 +4,8 @@ title: Keynote Sessions
 
 #### Keynote Speakers:
 
+<p>See the <a href="program.html">full conference program</a> for the complete schedule.</p>
+
 * <a href="#banks">David Banks</a>
 * <a href="#foster">Dean Foster</a>
 * <a href="#rosenberg">David Rosenberg / Camilo Ortiz</a>
@@ -19,6 +21,8 @@ href="http://www2.stat.duke.edu/~banks/" target="_blank"
 rel="noopener noreferrer">David Banks</a>,
 Professor of the Practice of Statistics, Duke University</h4>
 <h4>Keynote Presentation: The Future of Statistics</h4>
+<p><strong>When:</strong> Monday, November 2, 2026, 6:00-8:30 pm (banquet and keynote)<br>
+<strong>Where:</strong> ABCD / Plenary</p>
 
 
 **Abstract: **
@@ -72,6 +76,8 @@ forensics, and certain topics in high-dimensional data analysis.
 <h4 class="mb-0" id="foster"><a href="https://deanfoster.net/" target="_blank" rel="noopener noreferrer">Dean Foster</a>,
 Senior Principal Research Scientist, Amazon</h4>
 <h4>Keynote Presentation: Even LLMs Can Be Calibrated</h4>
+<p><strong>When:</strong> Monday, November 2, 2026, 9:00-10:00 am<br>
+<strong>Where:</strong> ABCD / Plenary</p>
 
 **Abstract: ** 
 LLMs are notorious for hallucinating. While much work is being done to
@@ -120,8 +126,10 @@ proving and software reasoning.
 
 <h4 class="mb-0" id="rosenberg"><a href="https://www.linkedin.com/in/dr-david-rosenberg/" target="_blank" rel="noopener noreferrer">David Rosenberg</a>,
 Head of Machine Learning Strategy, Bloomberg</h4>
-<h4 class="mb-0"><a href="https://www.camiloortiz.com" target="_blank" rel="noopener no referrer">Camilo Ortiz</a>,Head of AI Finance Engineering, Bloomberg</h4>
+<h4 class="mb-0"><a href="https://www.camiloortiz.com" target="_blank" rel="noopener noreferrer">Camilo Ortiz</a>,Head of AI Finance Engineering, Bloomberg</h4>
 <h4>Keynote Presentation: Bond Price Nowcasting: A Statistical Learning Problem Without a Natural Home</h4>
+<p><strong>When:</strong> Tuesday, November 3, 2026, 9:00-10:00 am<br>
+<strong>Where:</strong> ABCD / Plenary</p>
 
 
 **Abstract: ** 
@@ -149,6 +157,8 @@ Camilo Ortiz is Head of AI Finance Engineering at Bloomberg. In this role, he ma
 <h4 class="mb-0" id="yu"><a href="https://binyu.stat.berkeley.edu" class="text-decoration-none" target="_blank" rel="noopener noreferrer">Bin Yu</a>,
 Professor of Statistics, Electrical Engineering, and Computer Science, University of California, Berkeley</h4>
 <h4>Keynote Presentation: Veridical Deep Learning: Evaluation and Compositionality</h4>
+<p><strong>When:</strong> Sunday, November 1, 2026, 9:00-10:00 am<br>
+<strong>Where:</strong> ABCD / Plenary</p>
 
 **Abstract: **
 Deep learning achieves remarkable predictive performance, yet
@@ -209,6 +219,8 @@ href="https://datascience.columbia.edu/people/tian-zheng/"
 class="text-decoration-none" target="_blank" rel="noopener noreferrer">Tian Zheng</a>,
 Professor of Statistics, Columbia University</h4>
 <h4>Keynote Presentation: Statistical Thinking and AI Education</h4>
+<p><strong>When:</strong> Sunday, November 1, 2026, 5:30-6:30 pm<br>
+<strong>Where:</strong> ABCD / Plenary</p>
 
 **Abstract: **
 As AI becomes more common in education and practice, statistical thinking remains

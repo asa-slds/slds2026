@@ -98,7 +98,7 @@ title: Sponsors
 		</div>
 		
 		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
-			<a href="https://masters.datascience.uconn.edu" target="_blank" ref="noopener noreferrer">
+			<a href="https://masters.datascience.uconn.edu" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid"
 				style="max-height:290px; width:75%;"
 				src="photos/UConn_Logo.png" 
@@ -106,7 +106,7 @@ title: Sponsors
 			</a>
 		</div>
 		<div class="col-md-4 col-sm-6 col-10 text-center d-flex align-items-center justify-content-center">
-			<a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/" target="_blank" ref="noopener noreferrer">
+			<a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid"
 				style="max-height:290px; width:75%;"
 				src="photos/BBGEngineering_black.png" 

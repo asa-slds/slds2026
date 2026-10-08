@@ -68,7 +68,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
       <li>Location: All</li>
     </ul>
   </li>
-  <li>5:30 pm&ndash;6:30 pm: <a href="keynotes.html#tian">Keynote 2: Tian Zheng, Statisticians in AI Education</a>
+  <li>5:30 pm&ndash;6:30 pm: <a href="keynotes.html#tian">Keynote 2: Tian Zheng, Statistical Thinking and AI Education</a>
     <ul>
       <li>Location: ABCD / Plenary</li>
     </ul>
