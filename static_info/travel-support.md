@@ -5,8 +5,8 @@ title: Student and Postdoctoral Researcher Travel Support
 The SLDS 2026 conference has received support from the **National Science Foundation (NSF)** to provide travel expense reimbursement for eligible students and postdoctoral researchers. 
 This support is intended to facilitate participation in the conference and encourage the presentation and exchange of research ideas.
 
-**Submission Due Date:** September 30, 2026  
-**Award Notice:** October 15, 2026
++ <span class="text-muted">**Submission Due Date:** September 30, 2026</span>
++ **Award Notice:** October 15, 2026
 
 ---
 
@@ -45,6 +45,10 @@ on a **first-come, first-served** basis.
 
 #### Submission
 
+**Submissions are now closed.**
+
+<!--
+
 Please submit the following information:
 
 - Name and affiliation.
@@ -58,3 +62,5 @@ Please use the following link to submit your application:
 <p>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVnRzUYaIFw4zJ9JO2cZc4AlkgPTdSQjws66OF6LQpk7bWAg/viewform?usp=publish-editor" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Apply For Travel Support</a>
 </p>
+
+-->
