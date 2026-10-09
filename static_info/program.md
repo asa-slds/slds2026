@@ -172,7 +172,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>3:30 pm&ndash;5:00 pm: <a href="parallel-sessions.html#parallel-session-9">Parallel Sessions 9</a>
     <ul>
-      <li>Location: Rooms 1&ndash;13</li>
+      <li>Location: Rooms 1&ndash;12</li>
     </ul>
   </li>
 </ul>
