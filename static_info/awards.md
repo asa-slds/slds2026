@@ -2,9 +2,31 @@
 title: Student, Post-doc, and Early Career Researcher Paper Awards
 ---
 
-**Submissions are now closed.** Thank you to everyone who submitted a paper. The 2026 award winners will be announced soon.
+#### 2026 Paper Award Winners
+
+Thank you to everyone who submitted a paper. The 2026 award winners will be announced soon.
+
+**Award winners** will:
+
+- Receive **travel funding** to attend the conference
+- Present their work in a **15-minute paper award session**
 
 ---
+
+#### Poster Session
+
+- All non-award-winning submissions will be invited to present in the **poster session**.
+- **3 poster awards** will be selected from this session.
+- Posters must be no larger than **48 inches wide × 36 inches high** and printed on **paper-like material** suitable for taping.
+- Presenters are responsible for **printing and bringing their own posters**.
+
+---
+
+#### Submission Guidelines (Closed)
+
+*Submissions are no longer being accepted. Click <a href="#" data-toggle="collapse" data-target="#awardguidelines" role="button" aria-expanded="false" aria-controls="awardguidelines">here</a> to view the submission guidelines reference.*
+
+<div class="collapse" id="awardguidelines" markdown="1">
 
 #### Eligibility
 
@@ -40,16 +62,6 @@ Papers selected for this competition will **not duplicate those receiving awards
   - The **top 3 graduate student papers** will automatically be selected as winners.
   - The **next 3 highest-ranked papers** (excluding the graduate winners) will also be selected.
     These may include **post-doc or graduate student submissions**.
-- **Award winners** will
-  - Receive **travel funding** to attend the conference
-  - Present their work in a **15-minute paper award session**
-
----
-
-#### Poster Session
-
-- All non-award-winning submissions will be invited to present in the **poster session**.
-- **3 poster awards** will be selected from this session.
 
 ---
 
@@ -69,5 +81,6 @@ Papers selected for this competition will **not duplicate those receiving awards
 - Code requirement: All relevant code should be submitted as separate files, or via a GitHub link included in the paper. 
 - Code submitted as an appendix does not count toward the 25-page limit.
 
-
 <!-- Please email your submission to: Dr. Nathaniel O’Connell at **Nathaniel[dot]Oconnell[at]wfusm[dot]edu** -->
+
+</div>
