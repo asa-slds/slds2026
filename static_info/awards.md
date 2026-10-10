@@ -16,7 +16,7 @@ Thank you to everyone who submitted a paper. The 2026 award winners will be anno
 #### Poster Session
 
 - All non-award-winning submissions will be invited to present in the **poster session**.
-- **3 poster awards** will be selected from this session.
+- **3 poster awards** and **2 honorable mentions** will be given at the poster presentation session.
 - Posters must be no larger than **48 inches wide × 36 inches high** and printed on **paper-like material** suitable for taping.
 - Presenters are responsible for **printing and bringing their own posters**.
 
