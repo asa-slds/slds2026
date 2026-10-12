@@ -2,7 +2,7 @@
 title: Registration
 ---
 
-Online registration will close on **October 25, 2026, at 12:00 PM Eastern Time**. Early registration rates are available through **August 31, 2026**.
+Online registration will close on **October 12, 2026, at 11:59 PM Eastern Time**. Early registration rates are available through **August 31, 2026**.
 
 The cancellation cut-off and housing deadline are both **October 12, 2026**.
 
