@@ -2,9 +2,12 @@
 title: Registration
 ---
 
+<!-- 
 Online registration will close on **October 12, 2026, at 11:59 PM Eastern Time**. Early registration rates are available through **August 31, 2026**.
 
 The cancellation cut-off and housing deadline are both **October 12, 2026**.
+-->
+
 
 ASA SLDS members and ASA non-SLDS members receive discounted registration rates.
 
@@ -12,13 +15,17 @@ The Sunday poster session and welcome reception are included with conference reg
 
 <h4 class="mt-4">Registration Link</h4>
 
+Registration is now closed due to capacity.
+
+<!--
+
 To register for the conference, please click the link below:
 
 <p>
   <a href="https://amstat.users.membersuite.com/events/2e04bc98-0078-cc37-5545-0b49ab81820b/details" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Register Here</a>
 </p>
 
-
+-->
 
 
 <h4 class="mt-4">Registration Fees</h4>
