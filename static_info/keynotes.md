@@ -126,7 +126,8 @@ proving and software reasoning.
 
 <h4 class="mb-0" id="rosenberg"><a href="https://www.linkedin.com/in/dr-david-rosenberg/" target="_blank" rel="noopener noreferrer">David Rosenberg</a>,
 Head of Machine Learning Strategy, Bloomberg</h4>
-<h4 class="mb-0"><a href="https://www.camiloortiz.com" target="_blank" rel="noopener noreferrer">Camilo Ortiz</a>,Head of AI Finance Engineering, Bloomberg</h4>
+<h4 class="mb-0"><a href="https://www.camiloortiz.com" target="_blank" rel="noopener noreferrer">Camilo Ortiz</a>,
+Head of AI Finance Engineering, Bloomberg</h4>
 <h4>Keynote Presentation: Bond Price Nowcasting: A Statistical Learning Problem Without a Natural Home</h4>
 <p><strong>When:</strong> Tuesday, November 3, 2026, 9:00-10:00 am<br>
 <strong>Where:</strong> ABCD / Plenary</p>
@@ -156,22 +157,17 @@ Camilo Ortiz is Head of AI Finance Engineering at Bloomberg. In this role, he ma
 
 <h4 class="mb-0" id="yu"><a href="https://binyu.stat.berkeley.edu" class="text-decoration-none" target="_blank" rel="noopener noreferrer">Bin Yu</a>,
 Professor of Statistics, Electrical Engineering, and Computer Science, University of California, Berkeley</h4>
-<h4>Keynote Presentation: Veridical Deep Learning: Evaluation and Compositionality</h4>
+<h4>Keynote Presentation: Not All Interpretations Are Created Equal: Principled Evaluation of AI Interpretability</h4>
 <p><strong>When:</strong> Sunday, November 1, 2026, 9:00-10:00 am<br>
 <strong>Where:</strong> ABCD / Plenary</p>
 
 **Abstract: **
-Deep learning achieves remarkable predictive performance, yet
-trustworthiness demands more—reliable evaluation and interpretable
-structure. This talk presents two pillars of veridical deep learning
-grounded in the PCS (Predictability, Computability, Stability)
-framework. First, we address rigorous evaluation of LLMs beyond
-held-out accuracy by introducing Green Shielding, a user-centric
-research agenda for building evidence-backed deployment guidance by
-characterizing how benign input variation shifts LLM behavior. Second,
-we explore compositional interpretability: how deep models encode
-interactions among input features, illustrated through SPEX and
-related methods for extracting sparse, human-readable explanations. 
+
+As AI transitions to agentic sociotechnical deployments, uninterpretable models pose serious threats to reliability, public trust, and contestability. However, not all interpretation methods are created equal: for interpretability to enhance deployment safety and effectiveness, interpretation methods must be evaluated as a whole, rather than validated through isolated interpretation instances.
+
+In this paper, we advocate elevating the evaluation of interpretation methods as a core assessment metric for AI system deployment, with clearly stated principles. To this end, we propose TRUST, a principled framework that builds upon Veridical Data Science (VDS) and the Predictive, Descriptive and Relevance (PDR) foundations. To differentiate interpretation methods effectively, TRUST systematically grades interpretation methods across five progressive tiers: Task-Aligned PDR Foundations, Rigorous Epistemic Grounding, Unifying Semantic Understanding, Scope Transferability, and Targeted Prospective Validation.
+
+We present a start-to-finish case study of the iterative Random Forest (iRF) family under TRUST and contrast with Generative Causal Testing (GCT) and other interpretation methods that are not able to clear different tiers of TRUST. Ultimately, TRUST principles foster contestability and epistemic grounding across both human-machine and fully autonomous agentic workflows.
 
 
 <div class="bio-block">
