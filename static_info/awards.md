@@ -4,7 +4,25 @@ title: Student, Post-doc, and Early Career Researcher Paper Awards
 
 #### 2026 Paper Award Winners
 
-Thank you to everyone who submitted a paper. The 2026 award winners will be announced soon.
+- **Soham Bonnerjee** (University of Chicago)  
+  *Fast Segmentation of Watermarked Texts from Large Language Models through Epidemic Change-Points Framework*
+
+- **Jiaqi Li** (Rice University)  
+  *Statistical Guarantees for High-Dimensional Stochastic Gradient Descent*
+
+- **Dan Kluger** (MIT)  
+  *M-estimation under Two-Phase Multiwave Sampling with Applications to Prediction-Powered Inference*
+
+- **Judy Wu** (University of Michigan)  
+  *Hierarchical Clustering with Confidence*
+
+- **Augustine Tang** (Columbia University)  
+  *Detection Is Harder Than Estimation in Certain Regimes: Inference for Moment and Cumulant Tensors*
+
+- **Jingyang Lyu** (University of Wisconsin–Madison)  
+  *A Statistical Theory of Overfitting for Imbalanced Classification*
+
+
 
 **Award winners** will:
 

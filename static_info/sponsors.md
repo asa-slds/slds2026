@@ -17,7 +17,7 @@ title: Sponsors
 			<a href="https://publichealth.nyu.edu/" target="_blank" rel="noopener noreferrer">
 			<img class="img-fluid" 
 				style="max-height:290px; width:100%;" 
-				src="photos/gph_short_color.png" 
+				src="photos/gph_long_color_hires.jpg" 
 				alt="NYU School of Global Public Health">
 			</a>
 		</div>

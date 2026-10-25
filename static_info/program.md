@@ -21,7 +21,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
       <li>Location: All</li>
     </ul>
   </li>
-  <li>9:00 am&ndash;10:00 am: <a href="keynotes.html#yu">Keynote 1: Bin Yu, Veridical Deep Learning: Evaluation and Compositionality</a>
+  <li>9:00 am&ndash;10:00 am: <a href="keynotes.html#yu">Keynote 1: Bin Yu, Not All Interpretations Are Created Equal: Principled Evaluation of AI Interpretability</a>
     <ul>
       <li>Location: ABCD / Plenary</li>
     </ul>
