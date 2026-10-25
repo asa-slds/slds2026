@@ -139,7 +139,7 @@ title: Parallel Sessions
   <td style="text-align:center;"><span class="session-id">30</span></td>
   <td><strong>Modern Statistical Learning and Representation Methods for Complex Biomedical Data</strong></td>
   <td>Hai Shu (New York University, Department of Biostatistics)</td>
-  <td>Hai Shu (New York University, Department of Biostatistics)</td>
+  <td>Taehyo Kim (New York University)</td>
 </tr>
 <tr>
 <td style="white-space:nowrap; text-align:center;"><span class="session-id" style="background-color:#d4edda; color:#155724; border-color:#c3e6cb;">2</span></td>
