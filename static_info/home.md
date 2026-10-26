@@ -8,6 +8,7 @@ title-home: true
 <!-- + **Date/Time:** November 1-3, 2026 -->
 <!-- + **Location:**  Marriott at the Brooklyn Bridge, New York City, NY -->
 
+
 #### Timeline / Important Dates
 
 + <span>**Monday, June 1, 2026:** registration opens.</span>
@@ -15,6 +16,15 @@ title-home: true
 + <span class="text-muted">**Wednesday, September 30, 2026:** abstract submission (and **invited speaker registration**) deadline.</span>
 + <span class="text-muted">**Monday, October 12, 2026:** cancellation cut-off / housing deadline.</span>
 + <span class="text-muted">**Monday, October 12, 2026:** Online registration closes at 11:59 p.m. EST because maximum capacity has been reached (updated).</span>
+
+
+#### Conference Program
+
+<p class="mt-3 mb-4">
+  <a href="doc/short-program.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
+    Sessions and Abstracts
+  </a>
+</p>
   
 
 #### About SLDS Conference
