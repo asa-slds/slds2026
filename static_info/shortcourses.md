@@ -4,13 +4,13 @@ title: Short Courses
 
 <h4>November 1, 2026, 1:30 pm - 5:00 pm:</h4>
 
-* <a href="#yu">SC01: Veridical Data Science in the Age of AI</a> (Room 12)
-* <a href="#diaz">SC02: Beyond the ATE</a> (Room 13)
+* <a href="#yu">SC01: Veridical Data Science in the Age of AI</a> (Navy Yard)
+* <a href="#diaz">SC02: Beyond the ATE</a> (Brighton Beach)
 
 <h4>November 2, 2026, 1:30 pm - 5:00 pm:</h4>
 
-* <a href="#feng">SC04: Statistical Foundations of Transfer Learning</a> (Room 12)
-* <a href="#michailidis">SC05: Optimization for Statistics</a> (Room 13)
+* <a href="#feng">SC04: Statistical Foundations of Transfer Learning</a> (Navy Yard)
+* <a href="#michailidis">SC05: Optimization for Statistics</a> (Brighton Beach)
 
 ------
 

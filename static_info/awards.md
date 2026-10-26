@@ -4,6 +4,10 @@ title: Student, Post-doc, and Early Career Researcher Paper Awards
 
 #### 2026 Paper Award Winners
 
+**Student Award Session:** Monday, November 2, 2026, 3:30–5:00 pm.
+
+**Location:** Carroll Gardens.
+
 - **Soham Bonnerjee** (University of Chicago)  
   *Fast Segmentation of Watermarked Texts from Large Language Models through Epidemic Change-Points Framework*
 
@@ -32,6 +36,10 @@ title: Student, Post-doc, and Early Career Researcher Paper Awards
 ---
 
 #### Poster Session
+
+**Poster Session & Welcome Reception:** Sunday, November 1, 2026, 6:30–8:00 pm.
+
+**Location:** Salon DE / Plenary.
 
 - All non-award-winning submissions will be invited to present in the **poster session**.
 - **3 poster awards** and **2 honorable mentions** will be given at the poster presentation session.

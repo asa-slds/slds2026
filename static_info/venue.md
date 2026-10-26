@@ -7,17 +7,19 @@ title: Venue
 The conference will be held at <a href="https://www.google.com/maps/place/New+York+Marriott+at+the+Brooklyn+Bridge/@40.6937478,-73.9842136,15.78z/data=!3m1!5s0x89c25a4bcdace6f5:0xa210d0259b52efb4!4m9!3m8!1s0x89c25a4bd14e5f95:0x175dbb4c26c2225f!5m2!4m1!1i2!8m2!3d40.693705!4d-73.9885647!16s%2Fg%2F1262rhk44?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">New York Marriott at the Brooklyn Bridge, Brooklyn, New York, USA</a>
 
 
-To reserve a **room at the conference rate**, please book using the hotel reservation link below by **October 12, 2026**.
+**Address:** 333 Adams Street, Brooklyn, NY 11201. See the [official hotel website](https://www.marriott.com/en-us/hotels/nycbk-new-york-marriott-at-the-brooklyn-bridge/overview/) for hotel and arrival information.
 
-<p class="mt-4 mb-5">
-  <a href="https://book.passkey.com/go/ASASLDSConference"
-     class="btn btn-primary"
-     target="_blank"
-     rel="noopener noreferrer">
-    Book a Room
-  </a>
-</p>
+#### Getting to the Conference
 
+- **Sunday, November 1, 2026 is NYC Marathon day**, which coincides with the first day of the conference. Expect road closures and travel disruption in Brooklyn and elsewhere in the city. Allow extra time, especially if traveling by car, taxi, rideshare, or bus. Check [NYC DOT traffic advisories](https://www.nyc.gov/html/dot/html/motorist/weektraf.shtml) before traveling. DOT also publishes [marathon-related construction restrictions](https://home4.nyc.gov/html/dot/html/infrastructure/construction-embargoes.shtml).
+- **Plan your route in advance.** Consider subway or rail travel where practical to reduce exposure to road closures. Check [MTA service updates and travel information](https://www.mta.info/) shortly before departure, including planned weekend service changes and elevator availability if needed.
+- **Allow extra time for airport transfers.** Check your route before leaving for the hotel or airport and build in time for traffic and transfers. The hotel does not provide an airport shuttle; see the [hotel's transportation information](https://www.marriott.com/en-us/hotels/nycbk-new-york-marriott-at-the-brooklyn-bridge/overview/) when arranging your journey.
+
+#### Hotel Reservations
+
+The conference-rate booking deadline was **October 12, 2026**. For current room availability and rates, please contact the hotel directly or visit its [official website](https://www.marriott.com/en-us/hotels/nycbk-new-york-marriott-at-the-brooklyn-bridge/overview/).
+
+#### Venue Map
 
 ```{=html}
 <div class="row">

@@ -22,7 +22,7 @@ rel="noopener noreferrer">David Banks</a>,
 Professor of the Practice of Statistics, Duke University</h4>
 <h4>Keynote Presentation: The Future of Statistics</h4>
 <p><strong>When:</strong> Monday, November 2, 2026, 6:00-8:30 pm (banquet and keynote)<br>
-<strong>Where:</strong> ABCD / Plenary</p>
+<strong>Where:</strong> Salon DE / Plenary</p>
 
 
 **Abstract: **
@@ -77,7 +77,7 @@ forensics, and certain topics in high-dimensional data analysis.
 Senior Principal Research Scientist, Amazon</h4>
 <h4>Keynote Presentation: Even LLMs Can Be Calibrated</h4>
 <p><strong>When:</strong> Monday, November 2, 2026, 9:00-10:00 am<br>
-<strong>Where:</strong> ABCD / Plenary</p>
+<strong>Where:</strong> Salon DE / Plenary</p>
 
 **Abstract: ** 
 LLMs are notorious for hallucinating. While much work is being done to
@@ -130,7 +130,7 @@ Head of Machine Learning Strategy, Bloomberg</h4>
 Head of AI Finance Engineering, Bloomberg</h4>
 <h4>Keynote Presentation: Bond Price Nowcasting: A Statistical Learning Problem Without a Natural Home</h4>
 <p><strong>When:</strong> Tuesday, November 3, 2026, 9:00-10:00 am<br>
-<strong>Where:</strong> ABCD / Plenary</p>
+<strong>Where:</strong> Salon DE / Plenary</p>
 
 
 **Abstract: ** 
@@ -159,7 +159,7 @@ Camilo Ortiz is Head of AI Finance Engineering at Bloomberg. In this role, he ma
 Professor of Statistics, Electrical Engineering, and Computer Science, University of California, Berkeley</h4>
 <h4>Keynote Presentation: Not All Interpretations Are Created Equal: Principled Evaluation of AI Interpretability</h4>
 <p><strong>When:</strong> Sunday, November 1, 2026, 9:00-10:00 am<br>
-<strong>Where:</strong> ABCD / Plenary</p>
+<strong>Where:</strong> Salon DE / Plenary</p>
 
 **Abstract: **
 
@@ -216,7 +216,7 @@ class="text-decoration-none" target="_blank" rel="noopener noreferrer">Tian Zhen
 Professor of Statistics, Columbia University</h4>
 <h4>Keynote Presentation: Statistical Thinking and AI Education</h4>
 <p><strong>When:</strong> Sunday, November 1, 2026, 5:30-6:30 pm<br>
-<strong>Where:</strong> ABCD / Plenary</p>
+<strong>Where:</strong> Salon DE / Plenary</p>
 
 **Abstract: **
 As AI becomes more common in education and practice, statistical thinking remains
