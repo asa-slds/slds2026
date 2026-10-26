@@ -52,7 +52,7 @@ title: Parallel Sessions
   <td>Tracy Ke (Harvard University)</td>
 </tr>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Ballroom</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Boardroom</strong></td>
   <td style="text-align:center;"><span class="session-id">29</span></td>
   <td><strong>Advances in Nonparametric Learning and Inference for Complex Data</strong></td>
   <td>Zhao Ren (University of Pittsburgh)</td>
@@ -163,7 +163,7 @@ title: Parallel Sessions
   <td>Emma Zhang (Emory University)</td>
 </tr>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Ballroom</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Boardroom</strong></td>
   <td style="text-align:center;"><span class="session-id">79</span></td>
   <td><strong>Recent Advances in Empirical Bayes: Theory, Applications, and Methods</strong></td>
   <td>Yanjun Han (New York University)</td>
@@ -260,7 +260,7 @@ title: Parallel Sessions
   <td>Jing Ma (Fred Hutchinson Cancer Center)</td>
 </tr>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Ballroom</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Boardroom</strong></td>
   <td style="text-align:center;"><span class="session-id">39</span></td>
   <td><strong>Statistical Learning and Inference for Metric-Space-Valued Data</strong></td>
   <td>Mladen Kolar (USC & MBZUAI)</td>
@@ -359,7 +359,7 @@ title: Parallel Sessions
   <td>Keith Levin (University of Wisconsin-Madison)</td>
 </tr>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Ballroom</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Boardroom</strong></td>
   <td style="text-align:center;"><span class="session-id">50</span></td>
   <td><strong>Uncertainty, Dependence, and Structure in Modern Data Analysis</strong></td>
   <td>Yufeng Liu (University of Michigan)</td>
@@ -470,7 +470,7 @@ title: Parallel Sessions
   <td>Tianxi Li (University of Minnesota)</td>
 </tr>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Ballroom</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Boardroom</strong></td>
   <td style="text-align:center;"><span class="session-id">71</span></td>
   <td><strong>Advancement in Nonparametric Method in Complex Data</strong></td>
   <td>Wen Zhou (New York University)</td>
@@ -567,7 +567,7 @@ title: Parallel Sessions
   <td>Keith Levin (University of Wisconsin-Madison)</td>
 </tr>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Ballroom</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Boardroom</strong></td>
   <td style="text-align:center;"><span class="session-id">12</span></td>
   <td><strong>Modern Perspectives in Bayesian Statistics</strong></td>
   <td>Guanyu Hu (Michigan State University)</td>
@@ -668,7 +668,7 @@ title: Parallel Sessions
   <td>Huimin Cheng (Boston University)</td>
 </tr>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Ballroom</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Boardroom</strong></td>
   <td style="text-align:center;"><span class="session-id">84</span></td>
   <td><strong>Analyzing Complex-Structured Data with Latent Geometry and Heterogeneity</strong></td>
   <td>Yinqiu He (University of Wisconsin-Madison)</td>
@@ -779,7 +779,7 @@ title: Parallel Sessions
   <td>Jami Mulgrave (NC State University)</td>
 </tr>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Ballroom</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Boardroom</strong></td>
   <td style="text-align:center;"><span class="session-id">76</span></td>
   <td><strong>Improving Inference in Nonparametric Models</strong></td>
   <td>Ted Westling (University of Massachusetts Amherst)</td>
@@ -890,7 +890,7 @@ title: Parallel Sessions
   <td>Tianying Wang (Colorado State University)</td>
 </tr>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Ballroom</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Golden Boardroom</strong></td>
   <td style="text-align:center;"><span class="session-id">102</span></td>
   <td><strong>Making Sense of Multivariate Data</strong></td>
   <td>Maryclare Griffin (University of Massachusetts Amherst)</td>
