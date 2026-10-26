@@ -9,6 +9,33 @@ The conference will be held at <a href="https://www.google.com/maps/place/New+Yo
 
 **Address:** 333 Adams Street, Brooklyn, NY 11201. See the [official hotel website](https://www.marriott.com/en-us/hotels/nycbk-new-york-marriott-at-the-brooklyn-bridge/overview/) for hotel and arrival information.
 
+<h4 id="conference-floor-plan" class="mt-4">Conference Floor Plan</h4>
+
+```{=html}
+<p class="mt-4 mb-4">
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#floor-plan-maps" aria-expanded="false" aria-controls="floor-plan-maps">
+    Show / hide floor plan
+  </button>
+</p>
+<div class="collapse" id="floor-plan-maps">
+  <p>Salon DE / Plenary comprises sections D and E of the Grand Ballroom; Salon F is section F. Select a map to view it at full size.</p>
+<div style="width:100%; max-width:650px; margin:0 0 2rem;">
+  <figure style="margin:0 0 1.5rem;">
+    <figcaption class="font-weight-bold mb-2">Second Floor</figcaption>
+    <a href="photos/floor-plan-second.png" target="_blank" rel="noopener noreferrer" aria-label="View second-floor map at full size" style="display:block; border:1px solid #ccc; padding:8px; background:#fff;">
+      <img src="photos/floor-plan-second.png" alt="Second-floor conference map showing Salon DE, Salon F, Golden Boardroom, and meeting rooms" loading="lazy" style="display:block; width:100%; height:auto; clip-path:inset(2px);">
+    </a>
+  </figure>
+  <figure style="margin:0;">
+    <figcaption class="font-weight-bold mb-2">Third Floor</figcaption>
+    <a href="photos/floor-plan-third.png" target="_blank" rel="noopener noreferrer" aria-label="View third-floor map at full size" style="display:block; border:1px solid #ccc; padding:8px; background:#fff;">
+      <img src="photos/floor-plan-third.png" alt="Third-floor conference map showing Brighton Beach, Coney Island, and Fulton Ferry" loading="lazy" style="display:block; width:100%; height:auto; clip-path:inset(2px);">
+    </a>
+  </figure>
+</div>
+</div>
+```
+
 #### Getting to the Conference
 
 - **Sunday, November 1, 2026 is NYC Marathon day**, which coincides with the first day of the conference. Expect road closures and travel disruption in Brooklyn and elsewhere in the city. Allow extra time, especially if traveling by car, taxi, rideshare, or bus. Check [NYC DOT traffic advisories](https://www.nyc.gov/html/dot/html/motorist/weektraf.shtml) before traveling. DOT also publishes [marathon-related construction restrictions](https://home4.nyc.gov/html/dot/html/infrastructure/construction-embargoes.shtml).

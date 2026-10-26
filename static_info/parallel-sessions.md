@@ -4,6 +4,8 @@ title: Parallel Sessions
 
 <h3>Schedule of Parallel Sessions</h3>
 
+<p><a href="venue.html#conference-floor-plan">View floor plan</a></p>
+
 <h4 id="parallel-day-1" class="mt-4">Sunday, November 1, 2026</h4>
 <h4 id="parallel-session-1" style="margin:0;padding:0.9rem 1rem;color:#ffffff;background:linear-gradient(90deg,#0f766e,#2563eb);font-size:1.18rem;font-weight:700;letter-spacing:0.01em;border-radius:0.55rem 0.55rem 0 0;">Parallel Sessions 1: Sunday, November 1, 2026, 10:30 am&ndash;12:00 pm</h4>
 <table class="table table-bordered table-sm table-hover invited-session-schedule mt-0 mb-5" style="table-layout:fixed; width:100%; margin-top:0; margin-bottom:2.25rem;">
