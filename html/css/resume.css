@@ -610,3 +610,11 @@ font.title {
     font-size: 1.3rem;
   }
 }
+
+/* Spacing for the special-issue topic and guest-editor lists. */
+.contribution-list > ul > li > p {
+  margin-bottom: 0;
+}
+.contribution-list > ul > li + li {
+  margin-top: 8px;
+}

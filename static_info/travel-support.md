@@ -6,7 +6,7 @@ The SLDS 2026 conference has received support from the **National Science Founda
 This support is intended to facilitate participation in the conference and encourage the presentation and exchange of research ideas.
 
 + <span class="text-muted">**Submission Due Date:** September 30, 2026</span>
-+ **Award Notice:** October 15, 2026
++ <span class="text-muted">**Award Notice:** October 15, 2026</span>
 
 ---
 
