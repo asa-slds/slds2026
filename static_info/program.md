@@ -147,7 +147,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
 <h4 id="agenda-day-3" class="mt-4">Tuesday, November 3, 2026</h4>
 
 <ul>
-  <li>9:00 am&ndash;10:00 am: <a href="keynotes.html#rosenberg">Keynote 4: David Rosenberg (with co-presenter Camilo Ortiz), Bond Price Nowcasting: Some Assembly Required</a>
+  <li>9:00 am&ndash;10:00 am: <a href="keynotes.html#rosenberg">Keynote 4: David Rosenberg (with co-presenter Camilo Ortiz), Bond Price Nowcasting: A Statistical Learning Problem Without a Natural Home</a>
     <ul>
       <li>Chair: Jing Lei</li>
       <li>Location: Salon DE / Plenary</li>
