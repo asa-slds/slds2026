@@ -18,11 +18,14 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>8:45 am&ndash;9:00 am: Opening Remarks
     <ul>
+      <li>Speakers: Ron Wasserstein, Executive Director, ASA; Charlton McIlwain, Vice Provost, NYU</li>
+      <li>Chair: Yang Feng</li>
       <li>Location: All</li>
     </ul>
   </li>
   <li>9:00 am&ndash;10:00 am: <a href="keynotes.html#yu">Keynote 1: Bin Yu, Not All Interpretations Are Created Equal: Principled Evaluation of AI Interpretability</a>
     <ul>
+      <li>Chair: Jaime Lynn Speiser</li>
       <li>Location: Salon DE / Plenary</li>
     </ul>
   </li>
@@ -70,6 +73,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>5:30 pm&ndash;6:30 pm: <a href="keynotes.html#tian">Keynote 2: Tian Zheng, Statistical Thinking and AI Education</a>
     <ul>
+      <li>Chair: Giles Hooker</li>
       <li>Location: Salon DE / Plenary</li>
     </ul>
   </li>
@@ -90,6 +94,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>9:00 am&ndash;10:00 am: <a href="keynotes.html#foster">Keynote 3: Dean Foster, Even LLMs Can Be Calibrated</a>
     <ul>
+      <li>Chair: Jiwei Zhao</li>
       <li>Location: Salon DE / Plenary</li>
     </ul>
   </li>
@@ -127,11 +132,13 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>3:30 pm&ndash;5:00 pm: <a href="parallel-sessions.html#parallel-session-6">Parallel Sessions 6</a>
     <ul>
+      <li>Student Award Session chair: Nathaniel Sean O’Connell</li>
       <li>Location: See session list; Student Award Session in Carroll Gardens</li>
     </ul>
   </li>
   <li>6:00 pm&ndash;8:30 pm: <a href="keynotes.html#banks">Banquet and Keynote: David Banks, The Future of Statistics</a>
     <ul>
+      <li>Chair: Wen Zhou</li>
       <li>Location: Salon DE / Plenary</li>
     </ul>
   </li>
@@ -142,6 +149,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
 <ul>
   <li>9:00 am&ndash;10:00 am: <a href="keynotes.html#rosenberg">Keynote 4: David Rosenberg (with co-presenter Camilo Ortiz), Bond Price Nowcasting: Some Assembly Required</a>
     <ul>
+      <li>Chair: Jing Lei</li>
       <li>Location: Salon DE / Plenary</li>
     </ul>
   </li>
