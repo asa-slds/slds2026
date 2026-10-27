@@ -723,7 +723,7 @@ title: Parallel Sessions
   <td style="text-align:center;"><span class="session-id">27</span></td>
   <td><strong>Advances in Statistical Learning for Real-World Evidence</strong></td>
   <td>Rui Duan (Harvard University)</td>
-  <td>Rui Duan (Harvard University)</td>
+  <td>Jiwei Zhao (University of Wisconsin–Madison)</td>
 </tr>
 <tr>
 <td style="text-align:center; overflow-wrap:break-word;"><strong>Brighton Beach</strong></td>
