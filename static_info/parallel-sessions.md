@@ -176,7 +176,7 @@ title: Parallel Sessions
   <td style="text-align:center;"><span class="session-id">20</span></td>
   <td><strong>Reliable Discovery in Complex Data: Advances in High-Dimensional and Interpretable Clustering</strong></td>
   <td>Ardavan Yazdanbakhsh (City College of New York)</td>
-  <td>Ardavan Yazdanbakhsh (City College of New York)</td>
+  <td>Boxiang Wang (University of Iowa)</td>
 </tr>
 <tr>
 <td style="text-align:center; overflow-wrap:break-word;"><strong>Coney Island</strong></td>
