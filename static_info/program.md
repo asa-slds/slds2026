@@ -79,7 +79,7 @@ The agenda below is tentative and subject to change. Detailed invited-session ro
   </li>
   <li>6:30 pm&ndash;8:00 pm: Poster Session &amp; Welcome Reception
     <ul>
-      <li>Location: Salon DE / Plenary</li>
+      <li>Location: Salon F, G, H, and I</li>
     </ul>
   </li>
 </ul>
