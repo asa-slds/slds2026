@@ -21,9 +21,17 @@ title-home: true
 
 #### Conference Program
 
-<p class="mt-3 mb-4">
+<style>
+.btn-full-program { background-color: #7ac144; border-color: #7ac144; color: #17320b; }
+.btn-full-program:hover, .btn-full-program:focus { background-color: #68aa36; border-color: #68aa36; color: #102507; }
+</style>
+
+<p class="mt-3 mb-4 d-flex flex-column flex-sm-row align-items-start" style="gap: 0.75rem;">
   <a href="doc/short-program.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
     Sessions and Abstracts
+  </a>
+  <a href="doc/program.pdf" class="btn btn-full-program" target="_blank" rel="noopener noreferrer">
+    Program Book
   </a>
 </p>
   
