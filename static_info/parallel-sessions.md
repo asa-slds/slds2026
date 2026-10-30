@@ -931,7 +931,7 @@ title: Parallel Sessions
   <td style="text-align:center;"><span class="session-id">25</span></td>
   <td><strong>Statistical Machine Learning for Complex Data</strong></td>
   <td>Tianxi Li (University of Minnesota)</td>
-  <td>Tianxi Li (University of Minnesota)</td>
+  <td>Zifeng Zhang (Yale University)</td>
 </tr>
 <tr>
 <td style="text-align:center; overflow-wrap:break-word;"><strong>Greenpoint</strong></td>
