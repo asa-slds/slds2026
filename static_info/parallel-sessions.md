@@ -26,7 +26,7 @@ title: Parallel Sessions
 </tr>
 </thead><tbody>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon F</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon C</strong></td>
   <td style="text-align:center;"><span class="session-id">85</span></td>
   <td><strong>Trustworthy Learning and Inference at Scale</strong></td>
   <td>Yinqiu He (University of Wisconsin-Madison)</td>
@@ -137,7 +137,7 @@ title: Parallel Sessions
 </tr>
 </thead><tbody>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon F</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon C</strong></td>
   <td style="text-align:center;"><span class="session-id">63</span></td>
   <td><strong>Statistical Foundations of Modern Generative and Decision Models</strong></td>
   <td>Grace Yi (University of Western Ontario)</td>
@@ -234,7 +234,7 @@ title: Parallel Sessions
 </tr>
 </thead><tbody>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon F</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon C</strong></td>
   <td style="text-align:center;"><span class="session-id">95</span></td>
   <td><strong>Statistical Foundations and Interpretability for LLM Evaluation and Reasoning</strong></td>
   <td>Yuqi Gu (Columbia University)</td>
@@ -333,11 +333,11 @@ title: Parallel Sessions
 </tr>
 </thead><tbody>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon F</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon C</strong></td>
   <td style="text-align:center;"><span class="session-id">94</span></td>
   <td><strong>Statistical Foundations for Reliable and Interpretable AI</strong></td>
   <td>Xiwei Tang (University of Texas at Dallas)</td>
-  <td>Haowen Zhou (University of Virginia)</td>
+  <td>Xiwei Tang (University of Texas at Dallas)</td>
 </tr>
 <tr>
 <td style="text-align:center; overflow-wrap:break-word;"><strong>Williamsburg</strong></td>
@@ -444,7 +444,7 @@ title: Parallel Sessions
 </tr>
 </thead><tbody>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon F</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon C</strong></td>
   <td style="text-align:center;"><span class="session-id">96</span></td>
   <td><strong>When Does Explainable AI Actually Open the Black Box</strong></td>
   <td>Srikar Katta (Duke University)</td>
@@ -541,7 +541,7 @@ title: Parallel Sessions
 </tr>
 </thead><tbody>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon F</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon C</strong></td>
   <td style="text-align:center;"><span class="session-id">82</span></td>
   <td><strong>Artificial Intelligence in Rare Disease Therapeutics: Integrating Drug Repurposing, Hybrid Trial Design, and Real-World Evidence</strong></td>
   <td>Bryan McComb (Pfizer, Inc.)</td>
@@ -603,7 +603,7 @@ title: Parallel Sessions
   <td style="text-align:center;"><span class="session-id">47</span></td>
   <td><strong>High-Dimensional Data in Neuroimaging and AI</strong></td>
   <td>Guanqun Cao (Michigan State University)</td>
-  <td>Todd Ogden (Columbia University)</td>
+  <td>Jiawa Zhang (Columbia University)</td>
 </tr>
 <tr>
 <td style="text-align:center; overflow-wrap:break-word;"><strong>DUMBO</strong></td>
@@ -642,7 +642,7 @@ title: Parallel Sessions
 </tr>
 </thead><tbody>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon F</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon C</strong></td>
   <td style="text-align:center;"><span class="session-id">37</span></td>
   <td><strong>Valid Uncertainty Quantification in Modern Statistical Learning</strong></td>
   <td>Yuan Zhang (Ohio State University)</td>
@@ -753,7 +753,7 @@ title: Parallel Sessions
 </tr>
 </thead><tbody>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon F</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon C</strong></td>
   <td style="text-align:center;"><span class="session-id">78</span></td>
   <td><strong>AI-Augmented Design and Analysis in Clinical Trials and Scientific Research: Methods, Applications, and Responsible Implementation</strong></td>
   <td>Qiqi Deng (Moderna Inc.)</td>
@@ -864,7 +864,7 @@ title: Parallel Sessions
 </tr>
 </thead><tbody>
 <tr>
-<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon F</strong></td>
+<td style="text-align:center; overflow-wrap:break-word;"><strong>Salon C</strong></td>
   <td style="text-align:center;"><span class="session-id">87</span></td>
   <td><strong>Human-AI Collaboration</strong></td>
   <td>Lihua Lei (Stanford University)</td>
@@ -875,7 +875,7 @@ title: Parallel Sessions
   <td style="text-align:center;"><span class="session-id">100</span></td>
   <td><strong>The Role of the Rashomon Effect in Responsible AI</strong></td>
   <td>Chudi Zhong (University of North Carolina at Chapel Hill)</td>
-  <td>Srikar Katta (Duke University)</td>
+  <td>Jon Donnelly (Duke University)</td>
 </tr>
 <tr>
 <td style="text-align:center; overflow-wrap:break-word;"><strong>Fulton Ferry</strong></td>
@@ -924,7 +924,7 @@ title: Parallel Sessions
   <td style="text-align:center;"><span class="session-id">99</span></td>
   <td><strong>Digital Twins and Synthetic Data for Clinical Research</strong></td>
   <td>Qilu Yu (NIH, National Center for Complementary and Integrative Health)</td>
-  <td>Qilu Yu and Tae Hyun Jung (NIH NCCIH, FDA CDER)</td>
+  <td>Qilu Yu (NIH, National Center for Complementary and Integrative Health)</td>
 </tr>
 <tr>
 <td style="text-align:center; overflow-wrap:break-word;"><strong>DUMBO</strong></td>
