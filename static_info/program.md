@@ -8,6 +8,11 @@ title: Program
 Detailed invited-session room assignments are listed on the <a href="parallel-sessions.html">Parallel Sessions</a> page. Short-course descriptions and instructor information are listed on the <a href="shortcourses.html">Short Courses</a> page.
 </p>
 
+<ul>
+  <li><strong>Breakfast and morning refreshments:</strong> 8:30&ndash;10:30 a.m. daily. Included with registration.</li>
+  <li><strong>Afternoon coffee break:</strong> 2:00&ndash;4:00 p.m. daily.</li>
+</ul>
+
 <h4 id="agenda-day-1" class="mt-4">Sunday, November 1, 2026</h4>
 
 <ul>
@@ -80,6 +85,7 @@ Detailed invited-session room assignments are listed on the <a href="parallel-se
   <li>6:30 pm&ndash;8:00 pm: Poster Session &amp; Welcome Reception
     <ul>
       <li>Location: Salon F, G, H, and I</li>
+      <li>Included with conference registration.</li>
     </ul>
   </li>
 </ul>
@@ -140,6 +146,7 @@ Detailed invited-session room assignments are listed on the <a href="parallel-se
     <ul>
       <li>Chair: Wen Zhou</li>
       <li>Location: Salon DE / Plenary</li>
+      <li>Advance banquet registration is required. Collect your banquet ticket and drink voucher with your name badge.</li>
     </ul>
   </li>
 </ul>
