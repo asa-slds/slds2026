@@ -9,16 +9,6 @@ title-home: true
 <!-- + **Location:**  Marriott at the Brooklyn Bridge, New York City, NY -->
 
 
-#### Timeline / Important Dates
-
-+ <span class="text-muted">**Monday, June 1, 2026:** registration opens.</span>
-+ <span class="text-muted">**Monday, August 31, 2026:** early registration ends.</span>
-+ <span class="text-muted">**Wednesday, September 30, 2026:** abstract submission (and **invited speaker registration**) deadline.</span>
-+ <span class="text-muted">**Monday, October 12, 2026:** cancellation cut-off / housing deadline.</span>
-+ <span class="text-muted">**Monday, October 12, 2026:** Online registration closes at 11:59 p.m. EST because maximum capacity has been reached (updated).</span>
-+ **Wednesday, December 30, 2026:** [special issue submission deadline](special-issue.html) for the *Journal of Statistical Planning and Inference*.
-
-
 #### Conference Program
 
 <style>
@@ -35,6 +25,36 @@ title-home: true
   </a>
 </p>
   
+
+#### At the Conference
+
+##### Daily keynotes
+
+Join us in **Salon DE / Plenary** for the keynote presentations:
+
++ **Sunday, November 1:** [Bin Yu](keynotes.html#yu), 9:00–10:00 a.m.; [Tian Zheng](keynotes.html#tian), 5:30–6:30 p.m.
++ **Monday, November 2:** [Dean Foster](keynotes.html#foster), 9:00–10:00 a.m.; [David Banks](keynotes.html#banks), 6:00–8:30 p.m. (banquet and keynote).
++ **Tuesday, November 3:** [David Rosenberg and Camilo Ortiz](keynotes.html#rosenberg), 9:00–10:00 a.m.
+
+
+##### Refreshments and evening events
+
++ **Breakfast and morning refreshments:** 8:30–10:30 a.m. daily. Included with registration.
++ **Afternoon coffee break:** 2:00–4:00 p.m. daily.
++ **Sunday welcome reception and poster session:** November 1, 6:30–8:00 p.m., Salon F, G, H, and I. Included with conference registration.
++ **Monday banquet and keynote:** November 2, 6:00–8:30 p.m., Salon DE / Plenary. Advance banquet registration is required. Collect your banquet ticket and drink voucher with your name badge.
+
+See the [full conference agenda](program.html) for the daily schedule.
+
+#### Timeline / Important Dates
+
++ <span class="text-muted">**Monday, June 1, 2026:** registration opens.</span>
++ <span class="text-muted">**Monday, August 31, 2026:** early registration ends.</span>
++ <span class="text-muted">**Wednesday, September 30, 2026:** abstract submission (and **invited speaker registration**) deadline.</span>
++ <span class="text-muted">**Monday, October 12, 2026:** cancellation cut-off / housing deadline.</span>
++ <span class="text-muted">**Monday, October 12, 2026:** Online registration closes at 11:59 p.m. EST because maximum capacity has been reached (updated).</span>
++ **Wednesday, December 30, 2026:** [special issue submission deadline](special-issue.html) for the *Journal of Statistical Planning and Inference*.
+
 
 #### About SLDS Conference
 
