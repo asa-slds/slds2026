@@ -35,6 +35,29 @@ title: Student, Post-doc, and Early Career Researcher Paper Awards
 
 ---
 
+#### 2026 Poster Awards
+
+##### Winners
+
+- **Xinyi (Cynthia) Li** (Carnegie Mellon University)  
+  *Random-effect Modeling of Multiplex Networks with Directed and Undirected Layers*
+
+- **Junhyung Chang** (University of Wisconsin–Madison)  
+  *Extreme Value Theory for Singular Subspace Estimation*
+
+- **Junyoung Park** (University of Michigan)  
+  *Fréchet Regression of Multivariate Distributions with Nonparanormal Transport*
+
+##### Honorable Mentions
+
+- **Giorgia Morello** (Auburn University)  
+  *Theoretical Inference of p-values Methods for RVS*
+
+- **Zixuan Wu** (University of Chicago)  
+  *Statistical Guarantees for Link Prediction with Neural Network Latent Representations*
+
+---
+
 #### Poster Session
 
 **Poster Session & Welcome Reception:** Sunday, November 1, 2026, 6:30–8:00 pm.
@@ -42,7 +65,7 @@ title: Student, Post-doc, and Early Career Researcher Paper Awards
 **Location:** Salon F, G, H, and I.
 
 - All non-award-winning submissions will be invited to present in the **poster session**.
-- **3 poster awards** and **2 honorable mentions** will be given at the poster presentation session.
+- **3 poster awards** and **2 honorable mentions** were awarded; recipients are listed above.
 - Posters must be no larger than **48 inches wide × 36 inches high** and printed on **paper-like material** suitable for taping.
 - Presenters are responsible for **printing and bringing their own posters**.
 
